@@ -126,7 +126,7 @@ FINAL CODE --> Submit via Slackbot at mrbeast.salesforce.com
 
 | # | Video | Puzzle Link | Type | Status | Extracted Letters |
 |---|-------|-------------|------|--------|-------------------|
-| 1 | ? | ? | Sudoku (LIFECHANG) | Not started | |
+| 1 | "Changing the Lives of 600 Strangers" (Beast Philanthropy) | https://reddit.com/r/BeastForce67/comments/1qxxmdn/puzzle/ | Sudoku (LIFECHANG) | Not started | |
 | 2 | ? | ? | ? | Not started | |
 | 3 | ? | ? | ? | Not started | |
 | 4 | ? | ? | ? | Not started | |
@@ -144,7 +144,11 @@ FINAL CODE --> Submit via Slackbot at mrbeast.salesforce.com
 - 9-video playlist: https://www.youtube.com/playlist?list=PLj-VLkYRjRxm5HVGFVpPP5W7jkvvzd1q7
 - ARGNet coverage: https://argn.com/2026/02/start_slacking_off_with_mrbeasts_million_dollar_puzzle_hunt/
 - Reddit community: r/mrbeast, r/puzzles
+- Reddit puzzle poster: u/BeastForce67 (official puzzle account)
+- Known puzzle subreddit: r/BeastForce67
+- Puzzle 1 (LIFECHANG Sudoku): https://reddit.com/r/BeastForce67/comments/1qxxmdn/puzzle/
 - Puzzle designer: Lone Shark Games
+- GMA interview (Feb 9): https://abcnews.go.com/GMA/Culture/mrbeast-drops-big-hint-1m-puzzle-salesforce-super/story?id=129987912
 
 ---
 
