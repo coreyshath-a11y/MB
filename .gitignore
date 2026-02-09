@@ -29,6 +29,11 @@ env/
 .DS_Store
 Thumbs.db
 
+# Large/unrelated desktop files
+*.rtfd/
+Screenshot 202*
+*.mp4.part
+
 # IDE
 .vscode/
 .idea/
