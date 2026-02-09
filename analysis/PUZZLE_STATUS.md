@@ -23,15 +23,16 @@ P4: ???        ❌ UNSOLVED (community guesses: TO)
 P5: LOCATION   ✅ SOLVED
 P6: NAME       ✅ SOLVED
 P7: ONE        ✅ SOLVED
-P8: ABOUT      ✅ SOLVED (some say AROUND, pinned says ABOUT)
-P9: ???        ❌ UNSOLVED (candidates: LIARS? LAIRS? RAILS? TO?)
+P8: AROUND     ✅ SOLVED (VERIFIED: pyramid letter accumulation proves AROUND, not ABOUT)
+P9: ???        ❌ UNSOLVED (candidates: LIARS? LAIRS? RAILS? TO? THE?)
 ```
 
-**Sentence so far:** `EVERY CHALLENGE LEADS ___ LOCATION NAME ONE ABOUT ___`
+**Sentence so far:** `EVERY CHALLENGE LEADS ___ LOCATION NAME ONE AROUND ___`
 
 **Possible complete sentences:**
-- "EVERY CHALLENGE LEADS TO [A] LOCATION NAME ONE ABOUT [???]"
-- If P4=TO: "EVERY CHALLENGE LEADS TO LOCATION NAME ONE ABOUT ___"
+- "EVERY CHALLENGE LEADS TO [A] LOCATION. NAME ONE AROUND [THE/HERE]"
+- If P4=TO, P9=THE: "EVERY CHALLENGE LEADS TO LOCATION NAME ONE AROUND THE"
+- Rearranged: "NAME ONE LOCATION AROUND EVERY CHALLENGE [THAT] LEADS TO ___"
 
 ## PUZZLE SOLUTIONS (DETAILED)
 
@@ -104,7 +105,7 @@ Note: R2C8 is H not N (font ambiguity)
 - 101 Dalmatians → Ready Player ONE → ONE from the Heart (Coppola)
 - Answer: **ONE**
 
-### Puzzle 8: Pyramids Crossword - SOLVED ✅ → **ABOUT** (or AROUND)
+### Puzzle 8: Pyramids Crossword - SOLVED ✅ → **AROUND** (VERIFIED)
 - 43 clues for pyramid-shaped grid
 - Structure: 4 pyramids, one for each vowel (A, E, I, O — not U)
 - Each pyramid has 11 levels, 43 clues for 44 lines (one answer line per pyramid has no clue)
@@ -113,10 +114,12 @@ Note: R2C8 is H not N (font ambiguity)
 - Completed O-pyramid: NO, EON, NOTE, TONER, ORIENT, INUTERO, ROUTINES,
   OUTLINERS, RESOLUTION, REVOLUTIONS
 - A-pyramid 6th line (missing clue) = the answer
-- A-pyramid partial: A, RA, RAD, DORA, ADORN, [ANSWER], ROTUNDA...
-- **Pinned message says ABOUT** ("Circle about")
-- t334 later suggested AROUND in pyramid channel
-- Answer: **ABOUT** (primary) / AROUND (alternate)
+- A-pyramid chain: A→RA→RAD→DORA→ADORN→**AROUND**→ROTUNDA
+  - Level 5: {A,D,N,O,R} → ADORN
+  - Level 6: {A,D,N,O,R,U} → **AROUND** (only valid 6-letter anagram)
+  - Level 7: {A,D,N,O,R,T,U} → ROTUNDA
+- ABOUT is impossible (requires B which never enters the A-pyramid)
+- Answer: **AROUND** (definitively confirmed)
 
 ### Puzzle 9: Circle Geometry - UNSOLVED ❌
 - String: ZXPCHAIRSQUORUMSFLAMINGOPUSHCONVEXOFWEHIRPLED
