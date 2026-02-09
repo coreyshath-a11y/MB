@@ -1,0 +1,175 @@
+{
+  "guild": {
+    "id": "551211603647922176",
+    "name": "Lone Shark Games",
+    "iconUrl": "https://cdn.discordapp.com/icons/551211603647922176/3e5788cd28a3b2b2368614f852205da1.png?size=512"
+  },
+  "channel": {
+    "id": "1470505546946838659",
+    "type": "GuildTextChat",
+    "categoryId": "1470147890809798656",
+    "category": "Super Bowl",
+    "name": "puzzle-built-100-wells",
+    "topic": "*********************SPOILERS ALLOWED IN THIS CHANNEL"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-02-09T17:51:33.697219-05:00",
+  "messages": [
+    {
+      "id": "1470506238042177700",
+      "type": "Default",
+      "timestamp": "2026-02-09T14:46:47.834-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "700600753579884574",
+        "name": "mafiaman0281",
+        "discriminator": "0000",
+        "nickname": "mafiaman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/700600753579884574/1d8ab8291cceb3799e74eefb85cade12.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1470506238138650749",
+          "url": "https://cdn.discordapp.com/attachments/1470505546946838659/1470506238138650749/IMG_5139.jpg?ex=698b8b27&is=698a39a7&hm=6fba7c5aab859bf91f57691cd9ef54332e0e1bb2771f01b0489151611d6563aa&",
+          "fileName": "IMG_5139.jpg",
+          "fileSizeBytes": 248057
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1470506257482776598",
+      "type": "Default",
+      "timestamp": "2026-02-09T14:46:52.469-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Puzzle 1",
+      "author": {
+        "id": "700600753579884574",
+        "name": "mafiaman0281",
+        "discriminator": "0000",
+        "nickname": "mafiaman",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/700600753579884574/1d8ab8291cceb3799e74eefb85cade12.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1470506326219161611",
+      "type": "Default",
+      "timestamp": "2026-02-09T14:47:08.857-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "560219156407123978",
+        "name": "ziefty",
+        "discriminator": "0000",
+        "nickname": "zief",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/560219156407123978/adfc5cf6f7cec3bce0b81e2df1ea9ec2.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1470506326709768467",
+          "url": "https://cdn.discordapp.com/attachments/1470505546946838659/1470506326709768467/image.png?ex=698b8b3c&is=698a39bc&hm=81823647dc4b797df43a151de259888da11655fde981269d251767f156080ed7&",
+          "fileName": "image.png",
+          "fileSizeBytes": 344552
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1063898477316292608",
+              "name": "angrypanda1776",
+              "discriminator": "0000",
+              "nickname": "Pro_Pain_Panda",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1063898477316292608/4e5861af961819b057a9210f4434e60b.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1470523076151083223",
+      "type": "Reply",
+      "timestamp": "2026-02-09T15:53:42.352-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "All checks out but youre missing \"4\" between the \"6\" and the \"7\" for the \"V\" from hoover dam",
+      "author": {
+        "id": "1063898477316292608",
+        "name": "angrypanda1776",
+        "discriminator": "0000",
+        "nickname": "Pro_Pain_Panda",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1063898477316292608/4e5861af961819b057a9210f4434e60b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "560219156407123978",
+          "name": "ziefty",
+          "discriminator": "0000",
+          "nickname": "zief",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/560219156407123978/adfc5cf6f7cec3bce0b81e2df1ea9ec2.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1470506326219161611",
+        "channelId": "1470505546946838659",
+        "guildId": "551211603647922176"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}
