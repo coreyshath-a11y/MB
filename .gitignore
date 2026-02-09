@@ -1,0 +1,43 @@
+# Video files (too large for git)
+videos/**/*.mp4
+videos/**/*.mkv
+videos/**/*.webm
+videos/**/*.avi
+videos/**/*.mov
+
+# Audio files
+audio/**/*.opus
+audio/**/*.mp3
+audio/**/*.wav
+audio/**/*.m4a
+
+# Extracted frames (huge number of files)
+frames/
+
+# Transcription JSON (large files)
+*_transcript.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Keep directory structure
+!videos/playlist/.gitkeep
+!videos/main/.gitkeep
+!videos/extra/.gitkeep
+!frames/.gitkeep
+!audio/.gitkeep
+!transcripts/.gitkeep
+!barcodes/.gitkeep
