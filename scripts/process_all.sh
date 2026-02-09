@@ -16,11 +16,15 @@ for dir in videos/playlist videos/main videos/extra; do
     echo ""
     echo "--- Processing $dir ---"
 
-    for video in "$dir"/*.{mp4,mkv,webm} 2>/dev/null; do
-        [ -f "$video" ] || continue
+    # Find all video files (mp4, mkv, webm)
+    find "$dir" -maxdepth 1 \( -name "*.mp4" -o -name "*.mkv" -o -name "*.webm" \) | sort | while read -r video; do
+        # Skip audio-only files (f251 suffix = audio stream)
+        case "$video" in
+            *.f251.*) continue ;;
+        esac
 
-        basename=$(basename "$video" | sed 's/\.[^.]*$//')
-        frame_dir="frames/${basename}"
+        basename_noext=$(basename "$video" | sed 's/\.[^.]*$//')
+        frame_dir="frames/${basename_noext}"
 
         echo ""
         echo "Processing: $video"
