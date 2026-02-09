@@ -1,0 +1,33 @@
+PUZZLE 2: LIFECHANG SUDOKU - SOLVED
+====================================
+
+Note: R2C8 is H (not N) - the block font makes them hard to distinguish.
+
+Solved Grid:
+H L F C A N E G I
+C E N F G I L H A
+A I G E H L N F C
+G N I L E F C A H
+L H C G I A F E N
+F A E H N C I L G
+E F A N C G H I L
+N G H I L E A C F
+I C L A F H G N E
+
+Letter mapping: L=1, I=2, F=3, E=4, C=5, H=6, A=7, N=8, G=9
+
+Numeric equivalent:
+6 1 3 5 7 8 4 9 2
+5 4 8 3 9 2 1 6 7
+7 2 9 4 6 1 8 3 5
+9 8 2 1 4 3 5 7 6
+1 6 5 9 2 7 3 4 8
+3 7 4 6 8 5 2 1 9
+4 3 7 8 5 9 6 2 1
+8 9 6 2 1 4 7 5 3
+2 5 1 7 3 6 9 8 4
+
+EXTRACTION NEEDED: Which letters to pull from this grid depends on
+external clues (campaign materials, other puzzles). Possible extraction
+methods: specific row/col coordinates, diagonal, or positions indicated
+by clues from the Super Bowl ad or other campaign materials.

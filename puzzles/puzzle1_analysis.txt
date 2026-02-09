@@ -1,0 +1,82 @@
+PUZZLE 1: WELLS IN AFRICA - WORD GRID ANALYSIS
+================================================
+
+The grid has visible letters and water droplet symbols hiding letters.
+Reading the grid left-to-right, top-to-bottom (💧 = hidden letter):
+
+Row 1: M 💧 R A Y 💧 C O N
+Row 2: U A N L 💧 C S T I
+Row 3: 💧 H D 💧 O A I D A
+Row 4: N D T R W O 💧 R R
+Row 5: N E W P E N A E T
+Row 6: 💧 C 💧 I I V I N 💧
+Row 7: P E D B N S 💧💧 C
+Row 8: Y 💧 O H 💧 K W C +
+Row 9: T R O R D K 💧 S C
+
+The crossword clues point to answers that fill in the 💧 positions.
+Words must be read in rows across the grid.
+
+LEFT COLUMN CLUES:
+1. "A cold noise?" → BRRR? ACHOO? SHIVER?
+2. "A natural disaster" → FLOOD? QUAKE? TORNADO?
+3. "MrBeast went to one in Greenville, NC" → SCHOOL? COLLEGE? ECU?
+4. "Deceive" → TRICK? DUPE? CON? FOOL? HOAX?
+5. "Rats!" (2 wds.) → OH DARN? OH NO? DANG IT?
+6. "A certain Midwesterner" → IOWAN? OHIOAN? KANSAN?
+7. "A child's toy (2 wds., Hyph.)" → YO-YO? POP-GUN? TOP?
+
+RIGHT COLUMN CLUES:
+1. "Upset" → MAD? ANGRY? IRATE? MIFFED?
+2. "An item you can buy in MrBeast's store" → MERCH? HOODIE? SHIRT? FEASTABLES?
+3. "A US landmark (2 wds.)" → MT RUSHMORE? GRAND CANYON?
+4. "A type of boat" → CANOE? KAYAK? YACHT? SCOW?
+5. "A literary outlaw (2 wds.)" → ROBIN HOOD?
+6. "What you might say when you finish this!" → DONE? YES? EUREKA? HOORAY?
+
+APPROACH: Each answer has one or more letters that correspond to 💧 positions.
+The answers are placed across rows, with the 💧 positions filled in.
+Need to figure out which answer goes with which row.
+
+WORKING ON ANSWERS:
+Row 1: M_RAY_CON → M?RAY?CON → "MARACON"? "MURRAY"?
+  If the word is "MURRAY + CON" → hidden letters could be U and space
+  But "MURRAY" would need two letters: M-U-R-R-A-Y
+  Actually: M💧RAY💧CON → the hidden letters are at positions 2 and 6
+
+Row 2: UANL💧CSTI → hidden letter at position 5
+  UANL?CSTI
+
+Row 3: 💧HD💧OAIDA → hidden letters at positions 1 and 4
+  ?HD?OAIDA
+
+Row 4: NDTRWO💧RR → hidden letter at position 7
+  NDTRWO?RR
+
+Row 5: NEWPENAET → NO hidden letters (all visible)
+
+Row 6: 💧C💧IIVIN💧 → hidden letters at positions 1, 3, and 9
+  ?C?IIVIN?
+
+Row 7: PEDBNS💧💧C → hidden letters at positions 7 and 8
+  PEDBNS??C
+
+Row 8: Y💧OH💧KWC+ → hidden letters at positions 2 and 5
+  Y?OH?KWC+
+
+Row 9: TRORDK💧SC → hidden letter at position 7
+  TRORDK?SC
+
+HYPOTHESIS: The answers to the crossword clues should be read VERTICALLY
+down through specific columns, not horizontally. The 💧 letters when
+filled in and read in order spell something.
+
+Water droplet positions (reading left to right, top to bottom):
+R1C2, R1C6, R2C5, R3C1, R3C4, R4C7, R6C1, R6C3, R6C9,
+R7C7, R7C8, R8C2, R8C5, R9C7
+
+That's 14 hidden letters total.
+
+NEED: Better analysis of how the clues map to the grid positions.
+The clues (7 left + 6 right = 13 clues) might each provide one
+hidden letter, with the letters reading out in order.
