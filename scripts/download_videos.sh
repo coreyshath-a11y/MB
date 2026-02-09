@@ -4,14 +4,17 @@
 
 set -e
 
+# Use best available format (no specific resolution - avoids SABR streaming errors)
+FMT="best"
+
 echo "=== Downloading 9-Video Puzzle Playlist ==="
 yt-dlp -o "videos/playlist/%(playlist_index)s - %(title)s.%(ext)s" \
   "https://www.youtube.com/playlist?list=PLj-VLkYRjRxm5HVGFVpPP5W7jkvvzd1q7" \
-  -f 'bv*[height=1080]+ba' --no-overwrites
+  -f "$FMT" --no-overwrites
 
 echo ""
 echo "=== Downloading Main Campaign Videos ==="
-yt-dlp -o "videos/main/%(title)s.%(ext)s" -f 'bv*[height=1080]+ba' --no-overwrites \
+yt-dlp -o "videos/main/%(title)s.%(ext)s" -f "$FMT" --no-overwrites \
   "https://youtu.be/fg0dpaD7Qzc" \
   "https://youtu.be/JBy1T5IykkU" \
   "https://youtu.be/OBQELGS13XA" \
@@ -20,7 +23,7 @@ yt-dlp -o "videos/main/%(title)s.%(ext)s" -f 'bv*[height=1080]+ba' --no-overwrit
 
 echo ""
 echo "=== Downloading Additional Linked Videos ==="
-yt-dlp -o "videos/extra/%(title)s.%(ext)s" -f 'bv*[height=1080]+ba' --no-overwrites \
+yt-dlp -o "videos/extra/%(title)s.%(ext)s" -f "$FMT" --no-overwrites \
   "https://youtu.be/lb6vdKGFz6Y" \
   "https://youtu.be/06fKka0PXmM" \
   "https://youtu.be/FSr5l7URZTc" \
@@ -34,7 +37,7 @@ yt-dlp -o "videos/extra/%(title)s.%(ext)s" -f 'bv*[height=1080]+ba' --no-overwri
 
 echo ""
 echo "=== Downloading Unlisted Salesforce Video ==="
-yt-dlp -o "videos/extra/salesforce_unlisted.%(ext)s" -f 'bv*[height=1080]+ba' --no-overwrites \
+yt-dlp -o "videos/extra/salesforce_unlisted.%(ext)s" -f "$FMT" --no-overwrites \
   "https://www.youtube.com/watch?v=bIFXXecjdcM"
 
 echo ""
