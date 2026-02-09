@@ -144,7 +144,18 @@ Per community discussion, the main Super Bowl video contains additional embedded
 1. **Dollar Vault** - solved by some
 2. **Laser Grid** - solved by some ("mapped out laser sequence to holes")
 3. **Vault Ring Numbers** - underlined portion debated, solution "off by a letter"
-4. **Vault Door Codes** - Two panels, NOT braille, possibly incomplete QR code
+4. **Vault Door Codes** - SOLVED via Scrabble tile values (TWL dictionary)
+   - 19 lines on vault rings, each encodes a word via Scrabble point values
+   - 13 of 19 lines match exactly one TWL word:
+     HEXYL→HE, BOXFUL→FU, LEWD→ED, MAHZOR→AHO, ATAXY→TA,
+     BLINTZ→LINT, WHISKEY→HIS, EXQUISITE→SITE, CONFLUX→OFL,
+     GEARBOX→EAR, PSYCHOBABBLE→ABBLE, SCHWA→CHA, KAZILLIONS→IONS
+   - Remaining 6 lines inferred from context
+   - **Full message: "HE FUNDED A HOSPITAL IN THIS SITE OF LAST YEAR'S SCRABBLE CHAMPIONSHIP"**
+   - **Answer: ACCRA, GHANA** — MrBeast funded surgical center in Ghana (2024),
+     Ghana hosted 2025 WESPAC World Scrabble Championship in Accra
+   - Credit: u/NotVeryMuchActually for vault ring transcription
+   - "This is likely one piece of a larger final code"
 5. **Monitor Room** - multiple unsolved elements
 6. **Morse Code Light** (seconds 16-25 of ad) - "already solved"
 7. **Red-outlined Bills** → denominations correlate to alphabet → **"CASHTENT"**
