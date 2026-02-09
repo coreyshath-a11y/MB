@@ -1,0 +1,42 @@
+BARCODE SCAN RESULTS - ALL VIDEOS
+==================================
+Scanned all 9 playlist videos + 11 main/extra videos at 1fps
+
+VIDEO 1: I Built 100 Wells In Africa
+  frame_00232 (3:52): I25 barcode = 397619
+  -> Likely FALSE POSITIVE (Interleaved 2-of-5 from video patterns)
+
+VIDEO 2: Changing the Lives of 600 Strangers
+  No barcodes found.
+
+VIDEO 3: I Cleaned The World's Dirtiest Beach #TeamSeas
+  frame_00045 (0:45): CODE39 = %
+  frame_00098 (1:38): I25 = 982072
+  -> Likely FALSE POSITIVES
+
+VIDEO 4: $1 vs $500,000 Experiences!
+  No barcodes found.
+
+VIDEO 5: POKEMON GO STEREOTYPES
+  No barcodes found.
+
+VIDEO 6: $10,000 Every Day You Survive In The Wilderness
+  frame_00554 (9:14): CODE39 = -4
+  frames 1038-1041 (17:18-17:21): QRCODE = https://zaxbys.onelink.me/K76r/c87rjd6c?af_qr=true
+  -> CODE39 likely false positive. QR code is ZAXBY'S SPONSOR AD (not puzzle-related)
+
+VIDEO 7: I Adopted 100 Dogs!
+  No barcodes found.
+
+VIDEO 8: I Spent 100 Hours Inside The Pyramids!
+  frames 864-867 (14:24-14:27): QRCODE = https://qr2.mobi/1sjjv
+  -> Redirects to YouTube video jpOSuaJCeG0 "Swarms FOP Packaging (Jimmy Video)"
+  -> MrBeast Lab SWARMS TOY product QR code (not puzzle-related)
+
+VIDEO 9: Anything You Can Fit In The Circle I'll Pay For
+  No barcodes found.
+
+MAIN/EXTRA VIDEOS: No barcodes found in any.
+
+CONCLUSION: No hidden puzzle barcodes or QR codes detected in any video frames.
+The puzzle clues are in the pinned comments, not hidden in the video footage.

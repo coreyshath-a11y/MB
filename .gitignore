@@ -14,8 +14,9 @@ audio/**/*.m4a
 # Extracted frames (huge number of files)
 frames/
 
-# Transcription JSON (large files)
+# Transcription JSON (large files, keep .txt versions)
 *_transcript.json
+videos/**/*_transcript.txt
 
 # Python
 __pycache__/
