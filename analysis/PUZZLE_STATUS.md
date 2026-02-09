@@ -185,6 +185,15 @@ Plus bird icons and ear icon
 - "Something about a train, salesforce tower and a vault that opens at dawn"
 - Lone Shark socials for updates: facebook, instagram, threads, bluesky
 
+### Cryptic Twitter Account: @elephant85673 ("Okha 85673")
+- Posted A=1 cipher: 20-8-5 / 22-1-21-12-20 / 15-16-5-14-19 / ...
+- **Decoded: "THE VAULT OPENS BENEATH THE OLD STATION AT DAWN"**
+- "Old station" likely = Transbay Terminal (where Salesforce Tower now stands, SF)
+- "At dawn" = time trigger for next phase?
+- "85673" on phone keypad = "ULOSE" — possibly troll/red herring account
+- Elephant = from ad ("the elephant ate $673"), elephant "has a name"
+- WARNING: Could be fan-made red herring, not official
+
 ## NUMBERS FROM INSTAGRAM SUPER BOWL PHOTOS
 MrBeast GMA hint: "look for some numbers in photos that I took at the Super Bowl"
 
