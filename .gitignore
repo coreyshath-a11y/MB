@@ -32,8 +32,11 @@ Thumbs.db
 
 # Large/unrelated desktop files
 *.rtfd/
-Screenshot 202*
 *.mp4.part
+
+# Ignore screenshots in root but allow in screenshots/ directory
+/Screenshot 202*
+!screenshots/
 
 # IDE
 .vscode/
