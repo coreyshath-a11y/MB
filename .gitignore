@@ -38,6 +38,9 @@ Thumbs.db
 /Screenshot 202*
 !screenshots/
 
+# Tools (large binaries)
+tools/
+
 # IDE
 .vscode/
 .idea/
