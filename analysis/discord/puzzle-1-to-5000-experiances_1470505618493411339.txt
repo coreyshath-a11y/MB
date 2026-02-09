@@ -1,0 +1,561 @@
+# Discord Channel: #puzzle-1-to-5000-experiances
+# Channel ID: 1470505618493411339
+# Messages: 151
+============================================================
+
+[2026-02-09T19:47:17] mafiaman0281:
+  [Attachment] IMG_5142.webp - https://cdn.discordapp.com/attachments/1470505618493411339/1470506361618960467/IMG_5142.webp?ex=698b8b45&is=698a39c5&hm=00cfccd4d81460a227c0d1fb6ea4a0a1ba30096bd6e882ecb2806100fac0e18e&
+
+[2026-02-09T19:47:20] mafiaman0281:
+  Puzzle 4
+
+[2026-02-09T20:24:51] arcometric:
+  1: Calgary?
+2:
+3:
+4: West Coast?
+5:
+6:
+7:
+8: Alaska?
+9:
+10:
+11:
+12:
+13:
+14:
+15:
+16:
+17:
+18:
+19:
+20:
+21:
+
+[2026-02-09T20:24:59] arcometric:
+  its like some sorta custom pig latin
+
+[2026-02-09T20:25:22] charlotte_92:
+  locations he visited in videos
+
+[2026-02-09T20:25:33] kc2sunshine:
+  Maybe we need to group like colors together?
+
+[2026-02-09T20:25:37] arcometric:
+  not all there letters line up perfectly but all the discrepancies could be similar
+
+[2026-02-09T20:26:08] arcometric:
+  like #14 clearly has  forrest in it
+
+[2026-02-09T20:28:34] arcometric:
+  no way i got it
+
+[2026-02-09T20:28:36] jerrycid_49702:
+  GARNCA RY → Gran Canaria (España)
+
+MASCARY → Madagascar
+
+ONT-RL → Montreal (Canadá)
+
+WESTAGGA → Westagga / West Africa (África Occidental)
+
+CAMON → Cameroon (Camerún)
+
+LEIPZIGER → Leipzig (Alemania)
+
+MILN → Milan (Milán)
+
+FLINKA → Finland (Finlandia)
+
+CBAFUGEA → Cuba (muy estilizado)
+
+GLOANWA → Slovenia
+
+COLFAX → Colfax (EE. UU.)
+
+JASGFARYAS → Las Vegas (muy distorsionado)
+
+COVERSOUT → Covercote / Caversham (Reino Unido, dudoso pero europeo)
+
+GROKNGREST → Greenland (Groenlandia)
+
+MAGMAGLEN → Magdalena (región)
+
+MCKENFAR → McKenna / McKenney (EE. UU.)
+
+ANVISC → Antarctica (Antártida)
+
+COSHER → Kosher / Kosovo (Kosovo es lo más probable)
+
+ATOPSCN → Stockton (EE. UU.)
+
+KIMOS → Kimos / Kimolos (Grecia)
+
+LIMC GREGY → Limerick (Irlanda)
+
+[2026-02-09T20:28:51] arcometric:
+  no
+
+[2026-02-09T20:29:04] arcometric:
+  ignore the colored letters
+
+[2026-02-09T20:29:08] arcometric:
+  the letters are white
+
+[2026-02-09T20:29:14] arcometric:
+  overlayed over the colored ones
+
+[2026-02-09T20:30:11] jerrycid_49702:
+  CAR
+
+SKY
+
+WATER
+
+ICE
+
+FIRE
+
+AIR
+
+DESERT
+
+FOREST
+
+SNOW
+
+CAVE
+
+ISLAND
+
+[2026-02-09T20:32:16] charlotte_92:
+  Egypt Kenya and UAE
+
+[2026-02-09T20:32:43] arcometric:
+  look
+  [Attachment] 6C79B98E-F4C0-459B-BF95-26119B2130A4.png - https://cdn.discordapp.com/attachments/1470505618493411339/1470517796512333887/6C79B98E-F4C0-459B-BF95-26119B2130A4.png?ex=698b95eb&is=698a446b&hm=b8625426f802485872cb1e178b698157f56452ca8d8d9417f20365ce588c6634&
+
+[2026-02-09T20:32:58] arcometric:
+  this makes the overlayed letter more clear
+
+[2026-02-09T20:53:35] mntag:
+  i think "carved out" and "overlay" is a bit of a misnomer; I think each figure is a boolean intersection of two letters (like in a vector drawing application)
+
+[2026-02-09T20:56:38] arcometric:
+  wait
+
+[2026-02-09T20:57:06] arcometric:
+  [Attachment] F79DDC24-71D5-47C9-B8C1-F8C062598D4A.png - https://cdn.discordapp.com/attachments/1470505618493411339/1470523933974593692/F79DDC24-71D5-47C9-B8C1-F8C062598D4A.png?ex=698b9ba2&is=698a4a22&hm=4e421f2377a032837d4486e0dd4a3c4b0891799c69d741633cc7fd65cd598a35&
+
+[2026-02-09T20:57:22] arcometric:
+  [Attachment] E7C12D85-D2D8-4A4E-9749-F6BA8B647A8F.png - https://cdn.discordapp.com/attachments/1470505618493411339/1470524001448103996/E7C12D85-D2D8-4A4E-9749-F6BA8B647A8F.png?ex=698b9bb2&is=698a4a32&hm=57aa435ca7c90b961f1794c91b55a450c9249af3b1358cbb4b2d933ad0f4b42b&
+
+[2026-02-09T20:57:43] cobybarham:
+  Nice ! It tells you which color is overlayed
+
+[2026-02-09T20:57:54] cobybarham:
+  Good eyes
+
+[2026-02-09T20:58:56] cobybarham:
+  Orange 
+Orange over red
+Green
+Blue over white?
+Blue over yellow
+White over white ?
+Green over yellow
+Blue over purple
+
+[2026-02-09T20:59:09] cobybarham:
+  Now the white bands are confusing
+
+[2026-02-09T20:59:33] arcometric:
+  the white letters
+
+[2026-02-09T20:59:39] arcometric:
+  theyre hidden in the colored ones
+
+[2026-02-09T20:59:57] arcometric:
+  look at the 2 Ns in the first word
+
+[2026-02-09T21:00:08] arcometric:
+  theyre 2 Es with a colored N put overtop
+
+[2026-02-09T21:00:56] sushisassy:
+  i over the second A in the first word?
+
+[2026-02-09T21:01:26] cobybarham:
+  In the first word the N and C next together doesn’t make sense tho
+
+[2026-02-09T21:01:39] cobybarham:
+  The C is cut out by something but it’s not the E
+
+[2026-02-09T21:02:53] sushisassy:
+  Could be an S
+
+[2026-02-09T21:03:04] _shriv:
+  Cant tell what that red letter is
+
+[2026-02-09T21:04:21] _shriv:
+  Like here, that’s an O with an M inside
+  [Attachment] IMG_0341.png - https://cdn.discordapp.com/attachments/1470505618493411339/1470525757443805277/IMG_0341.png?ex=698b9d55&is=698a4bd5&hm=88ebc6b5b6f69d012d0232493f6011570f7ca826abc8ad72e39c52fef64ddf2e&
+
+[2026-02-09T21:05:03] arcometric:
+  I think we need to layer certain words over each other to fill the gaps
+
+[2026-02-09T21:05:32] arcometric:
+  notice how with the tape on the belt one is over and one is under
+
+[2026-02-09T21:05:52] crimson_bladex:
+  you onto something
+
+[2026-02-09T21:06:10] jamesrocks4512:
+  I said that in the other chat. The belt has something to do with this puzzle.
+
+[2026-02-09T21:06:51] cobybarham:
+  Refer
+
+[2026-02-09T21:07:04] sushisassy:
+  I'm with ya Levi- Also notice that on some of the letters there seems to me a box
+
+[2026-02-09T21:07:44] jamesrocks4512:
+  Check the colors of the tape.
+
+[2026-02-09T21:07:47] arcometric:
+  [Attachment] D89414F9-02BA-42D7-9EBE-6844D63CBF54.png - https://cdn.discordapp.com/attachments/1470505618493411339/1470526621386670171/D89414F9-02BA-42D7-9EBE-6844D63CBF54.png?ex=698b9e23&is=698a4ca3&hm=abc321a3d020ec61197e997c8850d38cf1039814f8beac1e228b627d763e9338&
+
+[2026-02-09T21:07:59] arcometric:
+  idk what it says but it fits together perfectly
+
+[2026-02-09T21:08:00] cobybarham:
+  For sure, second letter in the first word, the A has a box on it or something
+
+[2026-02-09T21:08:03] jamesrocks4512:
+  The xs, if one x has red and blue tape, mix red and blue. If its a blue and yellow x mix blue and yellow
+
+[2026-02-09T21:08:53] jamesrocks4512:
+  Just an idea.
+
+[2026-02-09T21:08:53] _shriv:
+  Looks like it’s a red A inside a white L
+
+[2026-02-09T21:09:38] jamesrocks4512:
+  [Attachment] image0.jpg - https://cdn.discordapp.com/attachments/1470505618493411339/1470527086178467988/image0.jpg?ex=698b9e92&is=698a4d12&hm=b6f8727dfebe3bd1de1bc0521c28861822f897322e1d1e99db4cbd593bfc2458&
+
+[2026-02-09T21:10:30] t334:
+  telling us which pairs fit together?  like green and yellow 2nd to last
+
+[2026-02-09T21:11:03] jamesrocks4512:
+  Yes
+
+[2026-02-09T21:11:29] jamesrocks4512:
+  Or thats my thought anyway
+
+[2026-02-09T21:11:49] t334:
+  this doesnt seem to fit together well
+
+[2026-02-09T21:22:54] .igorcio:
+  Oh, that's interesting
+
+[2026-02-09T21:25:17] arcometric:
+  [Attachment] 41C1B827-7C3D-4FA6-BFAD-812D9CB66BDD.png - https://cdn.discordapp.com/attachments/1470505618493411339/1470531023132430519/41C1B827-7C3D-4FA6-BFAD-812D9CB66BDD.png?ex=698ba23d&is=698a50bd&hm=402833bfada76a1b2f259b22631c6c9baa13005afb0a78fe963c1dfdcdc8df6f&
+
+[2026-02-09T21:25:25] arcometric:
+  it was because of the quality of the image i was using
+
+[2026-02-09T21:25:30] arcometric:
+  this one is much better
+
+[2026-02-09T21:25:47] arcometric:
+  M + T made D
+
+[2026-02-09T21:26:01] t334:
+  it doesnt look like it lines up at all?
+
+[2026-02-09T21:26:06] arcometric:
+  bro
+
+[2026-02-09T21:26:07] kcb134:
+  agreed
+
+[2026-02-09T21:26:13] arcometric:
+  do you not see a D for the first letter
+
+[2026-02-09T21:26:31] arcometric:
+  that D isnt there until you line it up
+
+[2026-02-09T21:26:58] zgrabby11:
+  D makes sense but what is that second letter lolllll
+
+[2026-02-09T21:27:07] _shriv:
+  It’s an O
+
+[2026-02-09T21:27:16] t334:
+  yes but only for the first letter. and that isnt one of the belt combos
+
+[2026-02-09T21:27:31] arcometric:
+  O
+
+[2026-02-09T21:28:27] arcometric:
+  DOEERQOUEN?
+
+[2026-02-09T21:28:35] arcometric:
+  QUEENDEER?
+
+[2026-02-09T21:28:41] arcometric:
+  its probably scrambled
+
+[2026-02-09T21:29:27] zgrabby11:
+  Not a combo on the belt if that has any meaning
+
+[2026-02-09T21:29:46] kcb134:
+  could this be a red herring? jimmy was wearing a very similar belt in the video, did the colors change? just checked before sending this, he is wearing the same belt. but it is UPSIDEDOWN from the pic of those guys holding it
+
+[2026-02-09T21:29:49] jamesrocks4512:
+  Or maybe each letter has to be matched with a specific letter. All the "s"  look the same. So maybe you have to match them with all the "D"s for example  to get the correct letter if that makes sense
+
+[2026-02-09T21:30:16] arcometric:
+  no im just goin off which ones fit together
+
+[2026-02-09T21:30:26] arcometric:
+  because the boxes line up perfect with no scaling
+
+[2026-02-09T21:30:34] zgrabby11:
+  Ah okay makes sense
+
+[2026-02-09T21:31:10] t334:
+  try a combo on the belt that lines up perfect and every letter pair makes a letter
+
+[2026-02-09T21:31:41] t334:
+  the fact that the M is curved the same as a D would b is interesting but it kight aslo fit the curve of an O etc
+
+[2026-02-09T21:32:10] arcometric:
+  [Attachment] 9AA98611-6A9A-4F8C-80E9-FA49BB0317C3.png - https://cdn.discordapp.com/attachments/1470505618493411339/1470532759209644042/9AA98611-6A9A-4F8C-80E9-FA49BB0317C3.png?ex=698ba3da&is=698a525a&hm=36e93a01d94434fb574f47c252509ae7a5ce3cdbc2f2a2cd8aab1269a606a768&
+
+[2026-02-09T21:33:42] zgrabby11:
+  Can you do an orange over a red?
+
+[2026-02-09T21:33:49] jerrycid_49702:
+  HAVE YOU TRY TO PUT SAME COLOUR TOGETHER
+
+[2026-02-09T21:34:17] arcometric:
+  trying that now too
+
+[2026-02-09T21:34:58] arcometric:
+  [Attachment] 349C8956-347D-41F0-B44C-ED8E0E479DA6.png - https://cdn.discordapp.com/attachments/1470505618493411339/1470533462430580766/349C8956-347D-41F0-B44C-ED8E0E479DA6.png?ex=698ba482&is=698a5302&hm=df32b15bba3bce09371ab1c98236aae062bc1bee8a80129ae048868713d22830&
+
+[2026-02-09T21:35:24] jerrycid_49702:
+  mmmm
+
+[2026-02-09T21:35:50] funkymonk0801:
+  B + A?
+
+[2026-02-09T21:36:13] peter3536:
+  isn't the orange one on the top Oxford?
+
+[2026-02-09T21:36:47] kcb134:
+  there are some letters that were left unmolested, is that anything to be worked on?
+
+[2026-02-09T21:37:00] arcometric:
+  red and orange
+  [Attachment] FFD0DD43-27A7-4EE2-AEA0-66B88F744E55.png - https://cdn.discordapp.com/attachments/1470505618493411339/1470533975649947700/FFD0DD43-27A7-4EE2-AEA0-66B88F744E55.png?ex=698ba4fc&is=698a537c&hm=147334338e5c400e806dab4286c243c8a3b85b220aeaf30ce5246f3e2d7b7e11&
+
+[2026-02-09T21:37:34] arcometric:
+  this is what i get if i layer all 6 letter words over each other
+  [Attachment] 95951058-DB4C-42D6-9FEC-F9C400B61B16.png - https://cdn.discordapp.com/attachments/1470505618493411339/1470534117874602144/95951058-DB4C-42D6-9FEC-F9C400B61B16.png?ex=698ba51e&is=698a539e&hm=4830fa24f443ff77630d94687b488bc357a9bcb090a61b13b691f5268ef62fd7&
+
+[2026-02-09T21:37:50] jerrycid_49702:
+  have to put on some 3d glasses
+
+[2026-02-09T21:37:56] jerrycid_49702:
+  try those on xD
+
+[2026-02-09T21:38:21] jerrycid_49702:
+  send me answer if that works
+
+[2026-02-09T21:38:45] arcometric:
+  these seem to fit the best
+  [Attachment] 1CF56B6A-05A1-4FF6-B642-239A4EA507F5.png - https://cdn.discordapp.com/attachments/1470505618493411339/1470534412457218273/1CF56B6A-05A1-4FF6-B642-239A4EA507F5.png?ex=698ba565&is=698a53e5&hm=54c0ba6601aebb6e0707b605748b2297c2c4be0c6aad76d8915b662cc6173cab&
+  [Attachment] 605E1BD6-B63D-497A-81DF-CAB4E5384A07.png - https://cdn.discordapp.com/attachments/1470505618493411339/1470534412948213911/605E1BD6-B63D-497A-81DF-CAB4E5384A07.png?ex=698ba565&is=698a53e5&hm=5fdec3608381c29a2d289d397d7b77a89ad986787049487d659745b4ccc11a36&
+
+[2026-02-09T21:39:20] funkymonk0801:
+  In relation to the belt, what would the white stripes mean?
+  [Attachment] F79DDC24-71D5-47C9-B8C1-F8C062598D4A.png - https://cdn.discordapp.com/attachments/1470505618493411339/1470534560717471897/F79DDC24-71D5-47C9-B8C1-F8C062598D4A.png?ex=698ba588&is=698a5408&hm=f5adc41f044b8e720c9915b783d491572472fbc3e30c24eb167eb75f30e8f97f&
+
+[2026-02-09T21:39:38] .__.jr.__.:
+  I think it helps with color layering?
+
+[2026-02-09T21:40:10] arcometric:
+  i dont think the belt is for this
+
+[2026-02-09T21:40:11] sushisassy:
+  honest I feel like the color is throwing it off
+
+[2026-02-09T21:40:17] .__.jr.__.:
+  I thought about this too! Like only show me reds or blues
+
+[2026-02-09T21:40:20] arcometric:
+  this has colors that arnt on it
+
+[2026-02-09T21:40:25] funkymonk0801:
+  I agree
+
+[2026-02-09T21:40:49] tojicore:
+  i think belt has something to do whenever we see one of these appear
+  [Attachment] image.png - https://cdn.discordapp.com/attachments/1470505618493411339/1470534933310341306/image.png?ex=698ba5e1&is=698a5461&hm=f931cdd72f130e9dfd159d688c809c582ad4728dd4628bd1e293b3ac8af77add&
+
+[2026-02-09T21:40:53] tojicore:
+  colors are same
+
+[2026-02-09T21:41:09] funkymonk0801:
+  Missing purple
+
+[2026-02-09T21:41:26] jerrycid_49702:
+  Look, I think we're looking at it from the wrong angle. If you notice, the words have cracks or cuts and fit almost perfectly with those of other words. They don't necessarily have to be placed one on top of the other, but rather wherever those patterns fit perfectly, like that with all of them, or perhaps by color.
+
+[2026-02-09T21:41:44] funkymonk0801:
+  Yes I believe so
+
+[2026-02-09T21:41:52] funkymonk0801:
+  Is that what they’re doing now?
+
+[2026-02-09T21:41:52] .__.jr.__.:
+  Others had pretty much solved this one I think in the other server
+
+[2026-02-09T21:41:57] jamesrocks4512:
+  Exactly. You'll have to overlap each letter individually. Not word.
+
+[2026-02-09T21:42:14] jerrycid_49702:
+  exactly
+
+[2026-02-09T21:43:11] jerrycid_49702:
+  ok dont write that anymore jajaja
+
+[2026-02-09T21:43:12] funkymonk0801:
+  What was their conclusion?
+
+[2026-02-09T21:43:31] .__.jr.__.:
+  Ah well it was deleted. Must be against this servers terms.
+
+[2026-02-09T21:43:40] arcometric:
+  nope theyve just been guessing based on what the letters look like on their own
+
+[2026-02-09T21:43:42] .__.jr.__.:
+  Maybe this is the one they want everyone coming to?
+
+[2026-02-09T21:43:48] jamesrocks4512:
+  Yeah they're deleting links to other servers
+
+[2026-02-09T21:44:07] lonesharkshane:
+  We consider posting links to other locations etc. Spam.  Do not do this.
+
+[2026-02-09T21:44:09] .__.jr.__.:
+  I mean this one actually has puzzle makers in it so it’s the most “legit” one
+
+[2026-02-09T21:44:27] jerrycid_49702:
+  this place looks legit
+
+[2026-02-09T21:44:39] .__.jr.__.:
+  Apologies. That one was the first server for me yesterday
+
+[2026-02-09T21:44:54] jamesrocks4512:
+  What did they come up with for the answer to this one though in the other place Null?
+
+[2026-02-09T21:46:55] t334:
+
+[2026-02-09T21:48:00] jamesrocks4512:
+  Why is there more locations than words ?
+
+[2026-02-09T21:49:02] t334:
+  i see 21 for botg
+
+[2026-02-09T21:49:05] t334:
+  3 of each color
+
+[2026-02-09T21:50:00] jamesrocks4512:
+  I miscounted youre right lol.
+
+[2026-02-09T21:52:52] .__.jr.__.:
+  What’s next if we do think these are the locations?
+
+[2026-02-09T21:53:15] .__.jr.__.:
+  Would be nice to confirm puzzles 4 and 9 before jumping to new ones
+
+[2026-02-09T21:55:19] t334:
+  ✅ Puzzle 1: **EVERY** ("Answer is every")
+✅ Puzzle 2: **CHALLENGE** (Box pattern in Wordoku)
+✅ Puzzle 3: **LEADS** ("A term for chief roles or metals with symbol PB")
+🔲 Puzzle 4: ???
+✅Puzzle 5: **LOCATION** ("Solution is location")
+✅Puzzle 6: **NAME** (“Quartet after pen", "Brand last or user")
+✅Puzzle 7: **ONE** ("Just a hundred exquisitely fuzzy puppies can be viewed like an adverb, a number from a Spielberg movie, or a film by Coppola." (hundred and one dalmations/ Ready player One/ One from the Heart)
+ Puzzle 8: **???**
+ Puzzle 9: **???**
+
+[2026-02-09T21:56:06] startled.waffles:
+  I think 8 was AROUND
+
+[2026-02-09T21:56:30] t334:
+  i dont, but some do
+
+[2026-02-09T21:56:35] jerrycid_49702:
+  I have my doubts about the 2nd one
+
+[2026-02-09T21:56:39] t334:
+  [Attachment] image-189.png - https://cdn.discordapp.com/attachments/1470505618493411339/1470538917471191050/image-189.png?ex=698ba997&is=698a5817&hm=51d81225b6737d1e9379b33392b423e28aa12b554efb2126508816f4734546c2&
+
+[2026-02-09T21:56:49] t334:
+  'about' bc circle about, but that doesnt really check out
+
+[2026-02-09T21:57:08] t334:
+  people have a diff answer they are gatekeeping thats the 6th line of pyramid A
+
+[2026-02-09T21:58:31] t334:
+  but the 9 answers form a 9 word sentence, just bringing it up to maybe work baxkwards
+
+[2026-02-09T21:58:42] t334:
+  'leads (puzzle 4 answer) location'
+
+[2026-02-09T21:59:16] t334:
+  'to' would make kind of sense if we are left with a toronto or something ya know
+
+[2026-02-09T22:04:41] teeps:
+
+[2026-02-09T22:12:32] vattenskog:
+  i solved this already
+
+[2026-02-09T22:12:50] funkymonk0801:
+  ???
+
+[2026-02-09T22:14:09] funkymonk0801:
+  What did you get?
+
+[2026-02-09T22:14:40] vattenskog:
+  i dont know if you can disclose anything here tbh
+
+[2026-02-09T22:15:42] funkymonk0801:
+  You can, just put a spoiler over it!
+
+[2026-02-09T22:18:59] jerrycid_49702:
+  We're not supposed to ask for clues, but can we ask if we're on the right track?
+
+[2026-02-09T22:22:27] lonesharkshane:
+  You can post spoilers without the spoiler tag as long as the channel says you can.
+
+All the puzzle channels for the Million Dollar PUzzle can have spoilers.
+
+[2026-02-09T22:23:03] lonesharkshane:
+  Nope.  That would fall under "any information about the hunt."
+
+[2026-02-09T22:23:34] jerrycid_49702:
+  are you part of the solution ?
+
+[2026-02-09T22:24:01] lonesharkshane:
+  That would fall under "any information about the hunt."
+
+[2026-02-09T22:24:28] jerrycid_49702:
+  interesting
+
+[2026-02-09T22:48:30] dan_ratmanson:
+  is "any information about the hunt" a hint 😅
+

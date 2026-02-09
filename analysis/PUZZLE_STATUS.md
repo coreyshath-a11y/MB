@@ -1,18 +1,49 @@
-# COMPREHENSIVE PUZZLE STATUS - Feb 9, 2026
+# COMPREHENSIVE PUZZLE STATUS - Feb 9, 2026 (Updated with Discord Intel)
 
 ## MASTER ARCHITECTURE (CONFIRMED)
 ```
 9 Variety Puzzles (from YouTube playlist)
-    → Each produces letters/words
-        → Those feed into the Million Dollar Crossword (10th puzzle, no clues given)
-            → Find 11 hidden words in crossword theme entries
-                → 167 Across answer = FINAL CODE
-                    → Slack to MrBeast at mrbeast.salesforce.com
+    → Each produces a SINGLE WORD answer
+        → The 9 words form a 9-word sentence/riddle
+            → That sentence tells you what to find in the Million Dollar Crossword
+                → Find 11 hidden words in crossword theme entries
+                    → 167 Across answer = FINAL CODE (possibly 13 letters, no spaces)
+                        → Slack to MrBeast at mrbeast.salesforce.com
 ```
 
-## PUZZLE SOLUTIONS
+## THE 9-WORD SENTENCE (Key Breakthrough)
+Per Discord user t334: "the 9 answers form a 9 word sentence"
+Per cobybarham: "13 letter solution with no spaces"
 
-### Puzzle 2: LIFECHANG Sudoku - SOLVED ✅
+```
+P1: EVERY      ✅ SOLVED
+P2: CHALLENGE  ✅ SOLVED
+P3: LEADS      ✅ SOLVED
+P4: ???        ❌ UNSOLVED (community guesses: TO)
+P5: LOCATION   ✅ SOLVED
+P6: NAME       ✅ SOLVED
+P7: ONE        ✅ SOLVED
+P8: ABOUT      ✅ SOLVED (some say AROUND, pinned says ABOUT)
+P9: ???        ❌ UNSOLVED (candidates: LIARS? LAIRS? RAILS? TO?)
+```
+
+**Sentence so far:** `EVERY CHALLENGE LEADS ___ LOCATION NAME ONE ABOUT ___`
+
+**Possible complete sentences:**
+- "EVERY CHALLENGE LEADS TO [A] LOCATION NAME ONE ABOUT [???]"
+- If P4=TO: "EVERY CHALLENGE LEADS TO LOCATION NAME ONE ABOUT ___"
+
+## PUZZLE SOLUTIONS (DETAILED)
+
+### Puzzle 1: 100 Wells Word Grid - SOLVED ✅ → **EVERY**
+- Grid with water droplets hiding H2O (H + two O's)
+- Number of drops indicates letter extraction position from answer word
+- "achoo used one drop → take 1st letter (A); typhoon used 7 drops for HOO → take 7th letter (N)"
+- Extracted message spells: "ANSWER IS EVERY"
+
+### Puzzle 2: 600 Strangers / LIFECHANG Sudoku - SOLVED ✅ → **CHALLENGE**
+- 9x9 Sudoku with LIFECHANG(E) letters instead of 1-9
+- "Box pattern in Wordoku" extraction method
 ```
 H L F C A N E G I
 C E N F G I L H A
@@ -26,48 +57,119 @@ I C L A F H G N E
 ```
 Note: R2C8 is H not N (font ambiguity)
 
-### Puzzle 1: Wells Word Grid - IN PROGRESS
-- Grid with water droplets hiding ~14 letters
-- 13 crossword clues fill in hidden positions
-- Key clues being worked
+### Puzzle 3: TeamSeas Dirtiest Beach - SOLVED ✅ → **LEADS**
+- 19 TV shows identified from genre + year range:
+  - KNIGHT RIDER, KIM POSSIBLE, WHAT IF...?, MODERN LOVE, TOP GEAR,
+    ASTRO FARM, GET SMART, GREEN ACRES, NIGHT COURT, KAREN SISCO,
+    YES DEAR, DRAGNET, BURN NOTICE, CASH CAB, RUSSIAN DOLL,
+    SISTER WIVES, BEAST GAMES, KNOTS LANDING, IRON FIST
+- "After cleanup" crossword clues yield second words (HAFT, DITHERING, HOWITZERS, etc.)
+- Initial pairs from show titles used with coordinates to extract letters
+- Final clue: "A term for chief roles or metals with symbol Pb"
+- Answer: **LEADS**
 
-### Puzzle 3: TeamSeas Beach - IN PROGRESS
-- 19 TV shows to identify from genre + year range
-- "Initial removed debris" = AABBCCCDDFFFGGGGIIIKKKKLLMNNPRRSSSTTWWY
-- After identifying shows, remove debris letters from titles
-- Remaining letters + coordinates = answer
+### Puzzle 4: $1-$5000 Experiences / Anagram Places - UNSOLVED ❌
+- 21 scrambled place name strips with colored/white letters
+- Key mechanism: letters are "boolean intersections" - colored letters overlaid on white letters
+- White letters hidden inside colored ones need to be extracted
+- Belt from commercial may or may not be a key for color pairing
+- Community actively working on layering/overlapping letter shapes
+- **Strong guess: TO** (to complete sentence "LEADS TO LOCATION")
 
-### Puzzle 4: Anagram Places - IN PROGRESS
-- 21 scrambled place name strips with colored letters
-- Confirmed: MONACO, BUCHANAN, GLENGARRY, DOVERCOURT
-- Letter colors indicate extraction
+### Puzzle 5: Pokemon Stereotypes / Cages - SOLVED ✅ → **LOCATION**
+- 18 Pokédex numbers map to Pokémon names:
+  - 142=Aerodactyl, 200=Misdreavus, 261=Poochyena, 343=Baltoy, 439=Arceus,
+    696=Tyrunt, 803=Poipole, 947=Brambleghast, 961=Wugtrio, 1006=IronValiant,
+    138=Omanyte, 148=Dragonair, 175=Togepi, 266=Silcoon, 276=Taillow,
+    441=Chatot, 791=Solgaleo, 852=Clobbopus
+- Cage bar shapes correspond to Pokémon names
+- Intersecting letters on right going down: "LOCATION"
+- Intersecting letters on left going down: "SOLOUTION" (almost "SOLUTION")
+- With "S" at top right: phrase is "SOLUTION IS LOCATION"
+- Answer: **LOCATION**
 
-### Puzzle 5: Pokemon Cages - IN PROGRESS
-- 18 Pokédex numbers → Pokémon names → cage bar shapes
-- Numbers: 142, 200, 261, 343, 439, 696, 803, 947, 961, 1006, 138, 148, 175, 266, 276, 441, 791, 852
-
-### Puzzle 6: Wilderness Tents - NOT STARTED
+### Puzzle 6: Wilderness Tents - SOLVED ✅ → **NAME**
 - 16x16 Tents logic puzzle
-- Standard puzzle mechanics, algorithmically solvable
+- Row sums give: "QUARTET AFTER PEN"
+- Column sums give: "BRAND LAST USER"
+- All are words completed by "NAME": penNAME, quarterNAME (quartet=4 letters=NAME),
+  brandNAME, lastNAME, userNAME
+- Answer: **NAME**
 
-### Puzzle 7: Dog Venn Diagram - NOT STARTED
-- Count 100 dogs across 5 features
-- Needs careful visual analysis
+### Puzzle 7: 100 Dogs Venn Diagram - SOLVED ✅ → **ONE**
+- 5 features, 100 dogs in Venn diagram
+- Lines from questions to matching dogs spell letters
+- Full string: "JUST A HUNDRED EXQUISITELY FUZZY PUPPIES CAN BE VIEWED LIKE
+  AN ADVERB, A NUMBER FROM A SPIELBERG MOVIE, OR A FILM BY COPPOLA"
+- 101 Dalmatians → Ready Player ONE → ONE from the Heart (Coppola)
+- Answer: **ONE**
 
-### Puzzle 8: Pyramid Crossword - IN PROGRESS
-- ~42 clues for pyramid-shaped grid
-- Working through answers
+### Puzzle 8: Pyramids Crossword - SOLVED ✅ → **ABOUT** (or AROUND)
+- 43 clues for pyramid-shaped grid
+- Structure: 4 pyramids, one for each vowel (A, E, I, O — not U)
+- Each pyramid has 11 levels, 43 clues for 44 lines (one answer line per pyramid has no clue)
+- Completed I-pyramid: I, OI, ION, TONI, PINTO, OPTION, PORTION, POSITRON,
+  RATPOISON, STAINPROOF, OUTFORASPIN
+- Completed O-pyramid: NO, EON, NOTE, TONER, ORIENT, INUTERO, ROUTINES,
+  OUTLINERS, RESOLUTION, REVOLUTIONS
+- A-pyramid 6th line (missing clue) = the answer
+- A-pyramid partial: A, RA, RAD, DORA, ADORN, [ANSWER], ROTUNDA...
+- **Pinned message says ABOUT** ("Circle about")
+- t334 later suggested AROUND in pyramid channel
+- Answer: **ABOUT** (primary) / AROUND (alternate)
 
-### Puzzle 9: Circle Geometry - IN PROGRESS
+### Puzzle 9: Circle Geometry - UNSOLVED ❌
 - String: ZXPCHAIRSQUORUMSFLAMINGOPUSHCONVEXOFWEHIRPLED
 - Hidden words: CHAIRS, QUORUMS, FLAMINGO, PUSH, CONVEX, OF, WE, HIRPLED
 - Geodesic spheres with colored triangles = extraction positions
+- Community candidates: LIARS, LAIRS, RAILS, TO
+- People guessed "TO" to fit the sentence pattern
+- Flamingos reference: YT video where someone pushes back their chair
+- "This is the only one that hasn't been solved yet" (as of 2:10 PM)
 
-### Puzzle 10: Million Dollar Crossword - STRUCTURE IDENTIFIED
+### Million Dollar Crossword - ENDGAME
 - By Mike Selinker / Lone Shark Games
 - Grid has 176 numbered entries but NO CLUE TEXT
 - Only meta-clue: 167 Across = "What this puzzle commemorates in eleven hidden words in the theme entries"
-- The 9 variety puzzles provide the clue answers
+- The 9 variety puzzle answers form a sentence that guides crossword solving
+- Some community debate whether crossword is real or red herring
+- Also: "I wrote a puzzle for jimmy" reads across/down (per 0xboreddev)
+
+## MAIN VIDEO PUZZLES (Beyond the 9 playlist puzzles)
+Per community discussion, the main Super Bowl video contains additional embedded puzzles:
+
+1. **Dollar Vault** - solved by some
+2. **Laser Grid** - solved by some ("mapped out laser sequence to holes")
+3. **Vault Ring Numbers** - underlined portion debated, solution "off by a letter"
+4. **Vault Door Codes** - Two panels, NOT braille, possibly incomplete QR code
+5. **Monitor Room** - multiple unsolved elements
+6. **Morse Code Light** (seconds 16-25 of ad) - "already solved"
+7. **Red-outlined Bills** → denominations correlate to alphabet → **"CASHTENT"**
+8. **Closed caption words** ("seven letter big lodge") → may feed into crossword
+
+## ADDITIONAL CLUES FROM DISCORD
+
+### Emojis in Slack Bubble
+Carousel Horse (U+1F3A0), Sauropod (U+1F995), Blossom (U+1F33C), Anchor (U+2693), Camping (U+1F3D5)
+Plus bird icons and ear icon
+
+### Visual Clues Still Being Decoded
+- **"5" instead of "$"** on website - deliberate change
+- **Elephant has a name** in updated version
+- **License plate in video** may contain a website IP address
+- **Numbers during "find puzzle maker" segment:** 11,6,2,12,4,7,8,13,7,3,13,11,8,9,7,12,1,11,9,4
+- **Two different belts** (commercial vs BTS video)
+- **Red Rubik's cube** keeps appearing
+- **Macon Coffee cup** at bank teller's desk (Georgia shop but filmed in LA)
+- **Bank withdrawal slip dated 2/5**, parking ticket on tank dated 2/8
+- **Swiss alps + Swiss flag on screen** with sweater
+- **Crosswalk** in bank video looks unusual
+- **"The word RIDDLE keeps popping up everywhere in the videos"**
+- **Influencer puzzles** - 11 related influencers, not yet deeply analyzed
+
+### Salesforce/Production Clues
+- "Something about a train, salesforce tower and a vault that opens at dawn"
+- Lone Shark socials for updates: facebook, instagram, threads, bluesky
 
 ## NUMBERS FROM INSTAGRAM SUPER BOWL PHOTOS
 MrBeast GMA hint: "look for some numbers in photos that I took at the Super Bowl"
@@ -91,20 +193,30 @@ MrBeast GMA hint: "look for some numbers in photos that I took at the Super Bowl
 - **597, 482, 374, 990, 723, 240, 478, 531, 109, 237, 453, 499, 930** - Jersey numbers
 - **10^5** = 100,000 on monitor
 
-## POTENTIAL ANAGRAMS/HIDDEN TEXT
-- "Ari Cheren" (Slack user) → anagram of ENRICHER? HERENCIA? RED HERRING character?
-- Calendar dates: Jan 1, Feb 2, Mar 1, Mar 3 → pattern 1,2,1,3
-- "Look +1 cube" instruction
-- Smoke grenade: {+1=?
-- Clipboard first letters: O,M,P,L,R,L,V
-
 ## CONFIRMED RED HERRINGS
 1. "Red Herring Bank" - literally named
 2. Acrostic poem → "THIS MEANS NOTHING I JUST WANTED TO WASTE YOUR TIME LOL"
 3. Smoke device MrBeast holds - dismissed in dialogue
 
+## COMMUNITY STATUS
+- Multiple unlimited guesses allowed on Slackbot
+- "This all still seems like an initial phase"
+- Nobody has found the final answer yet
+- 24hr/48hr hint drops expected from MrBeast/Salesforce
+- "Nobody close to solving" as of Feb 9 morning (per Gemini research)
+
 ## KEY RESOURCES
 - Contest: https://mrbeast.salesforce.com
 - Lone Shark Discord: https://lonesharkgames.com/discord/
 - Playlist: https://youtube.com/playlist?list=PLj-VLkYRjRxm5HVGFVpPP5W7jkvvzd1q7
-- Crossword: lonesharkgames.com/talk-to-us/
+- Crossword PDF: https://lonesharkgames.com/wp-content/uploads/2026/02/Million-Dollar-Crossword.pdf
+- Lone Shark socials: facebook.com/lonesharkgames, instagram.com/lonesharkgames, threads.com/@lonesharkgames, bsky.app/profile/lonesharkgames.bsky.social
+
+## PRIORITY NEXT STEPS
+1. **Solve Puzzle 4** (Anagram Places) - most likely answer is TO
+2. **Solve Puzzle 9** (Circle Geometry) - candidates: LIARS, LAIRS, RAILS
+3. **Verify Puzzle 8** - ABOUT vs AROUND
+4. **Analyze main video puzzles** (laser grid, vault rings, monitor room)
+5. **Work on crossword** once all 9 words confirmed
+6. **Check for hint drops** from MrBeast/Salesforce socials
+7. **Investigate influencer puzzles** and "find puzzle maker" number sequence

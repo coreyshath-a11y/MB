@@ -1,0 +1,291 @@
+[
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1470506238138650749",
+        "filename": "IMG_5139.jpg",
+        "size": 248057,
+        "url": "https://cdn.discordapp.com/attachments/1470505546946838659/1470506238138650749/IMG_5139.jpg?ex=698b8b27&is=698a39a7&hm=6fba7c5aab859bf91f57691cd9ef54332e0e1bb2771f01b0489151611d6563aa&",
+        "proxy_url": "https://media.discordapp.net/attachments/1470505546946838659/1470506238138650749/IMG_5139.jpg?ex=698b8b27&is=698a39a7&hm=6fba7c5aab859bf91f57691cd9ef54332e0e1bb2771f01b0489151611d6563aa&",
+        "width": 1200,
+        "height": 1552,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "8QcKDQJ2h4CIOGg4eIJXOIZwcj9W",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-02-09T19:46:47.834000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470506238042177700",
+    "channel_id": "1470505546946838659",
+    "author": {
+      "id": "700600753579884574",
+      "username": "mafiaman0281",
+      "avatar": "1d8ab8291cceb3799e74eefb85cade12",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "mafiaman",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Puzzle 1",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T19:46:52.469000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470506257482776598",
+    "channel_id": "1470505546946838659",
+    "author": {
+      "id": "700600753579884574",
+      "username": "mafiaman0281",
+      "avatar": "1d8ab8291cceb3799e74eefb85cade12",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "mafiaman",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1470506326709768467",
+        "filename": "image.png",
+        "size": 344552,
+        "url": "https://cdn.discordapp.com/attachments/1470505546946838659/1470506326709768467/image.png?ex=698b8b3c&is=698a39bc&hm=81823647dc4b797df43a151de259888da11655fde981269d251767f156080ed7&",
+        "proxy_url": "https://media.discordapp.net/attachments/1470505546946838659/1470506326709768467/image.png?ex=698b8b3c&is=698a39bc&hm=81823647dc4b797df43a151de259888da11655fde981269d251767f156080ed7&",
+        "width": 691,
+        "height": 845,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "8gcKBgC4uQeXeKhneHZ3dHhYyGngv8Y=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-02-09T19:47:08.857000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470506326219161611",
+    "channel_id": "1470505546946838659",
+    "author": {
+      "id": "560219156407123978",
+      "username": "ziefty",
+      "avatar": "adfc5cf6f7cec3bce0b81e2df1ea9ec2",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "zief",
+      "avatar_decoration_data": {
+        "asset": "a_9532e6bc08133eb1401c654a4f1a800e",
+        "sku_id": "1332505467980873728",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1427463138646954036",
+          "asset": "nameplates/orb/magical_mist/",
+          "label": "COLLECTIBLES_ORB_MAGIC_MISTS_NP_A11Y",
+          "palette": "cobalt"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc4d"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "All checks out but youre missing \"4\" between the \"6\" and the \"7\" for the \"V\" from hoover dam",
+    "mentions": [
+      {
+        "id": "560219156407123978",
+        "username": "ziefty",
+        "avatar": "adfc5cf6f7cec3bce0b81e2df1ea9ec2",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "zief",
+        "avatar_decoration_data": {
+          "asset": "a_9532e6bc08133eb1401c654a4f1a800e",
+          "sku_id": "1332505467980873728",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1427463138646954036",
+            "asset": "nameplates/orb/magical_mist/",
+            "label": "COLLECTIBLES_ORB_MAGIC_MISTS_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T20:53:42.352000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470523076151083223",
+    "channel_id": "1470505546946838659",
+    "author": {
+      "id": "1063898477316292608",
+      "username": "angrypanda1776",
+      "avatar": "4e5861af961819b057a9210f4434e60b",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Pro_Pain_Panda",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1470505546946838659",
+      "message_id": "1470506326219161611",
+      "guild_id": "551211603647922176"
+    },
+    "referenced_message": {
+      "type": 0,
+      "content": "",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1470506326709768467",
+          "filename": "image.png",
+          "size": 344552,
+          "url": "https://cdn.discordapp.com/attachments/1470505546946838659/1470506326709768467/image.png?ex=698b8b3c&is=698a39bc&hm=81823647dc4b797df43a151de259888da11655fde981269d251767f156080ed7&",
+          "proxy_url": "https://media.discordapp.net/attachments/1470505546946838659/1470506326709768467/image.png?ex=698b8b3c&is=698a39bc&hm=81823647dc4b797df43a151de259888da11655fde981269d251767f156080ed7&",
+          "width": 691,
+          "height": 845,
+          "content_type": "image/webp",
+          "original_content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "8gcKBgC4uQeXeKhneHZ3dHhYyGngv8Y=",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2026-02-09T19:47:08.857000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1470506326219161611",
+      "channel_id": "1470505546946838659",
+      "author": {
+        "id": "560219156407123978",
+        "username": "ziefty",
+        "avatar": "adfc5cf6f7cec3bce0b81e2df1ea9ec2",
+        "discriminator": "0",
+        "public_flags": 64,
+        "flags": 64,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "zief",
+        "avatar_decoration_data": {
+          "asset": "a_9532e6bc08133eb1401c654a4f1a800e",
+          "sku_id": "1332505467980873728",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1427463138646954036",
+            "asset": "nameplates/orb/magical_mist/",
+            "label": "COLLECTIBLES_ORB_MAGIC_MISTS_NP_A11Y",
+            "palette": "cobalt"
+          }
+        },
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false
+    }
+  }
+]

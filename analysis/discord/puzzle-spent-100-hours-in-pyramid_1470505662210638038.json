@@ -1,0 +1,1320 @@
+[
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1470506520121966695",
+        "filename": "IMG_5146.webp",
+        "size": 788220,
+        "url": "https://cdn.discordapp.com/attachments/1470505662210638038/1470506520121966695/IMG_5146.webp?ex=698b8b6b&is=698a39eb&hm=3ce51dcb901e3e037ff386dd098209ada84e39db4b0e4d162dd0517a40342772&",
+        "proxy_url": "https://media.discordapp.net/attachments/1470505662210638038/1470506520121966695/IMG_5146.webp?ex=698b8b6b&is=698a39eb&hm=3ce51dcb901e3e037ff386dd098209ada84e39db4b0e4d162dd0517a40342772&",
+        "width": 1583,
+        "height": 2048,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "9QcKDQI2VoGHCHgod4JIOHZwcD9H",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-02-09T19:47:55.057000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470506519996010537",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "700600753579884574",
+      "username": "mafiaman0281",
+      "avatar": "1d8ab8291cceb3799e74eefb85cade12",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "mafiaman",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Puzzle 8",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T19:47:57.996000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470506532322934824",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "700600753579884574",
+      "username": "mafiaman0281",
+      "avatar": "1d8ab8291cceb3799e74eefb85cade12",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "mafiaman",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "What is the answer to 8? I have that it is ONE",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:15:15.612000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470528500476678278",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "1194280394422485073",
+      "username": "zgrabby11",
+      "avatar": "fc72986738ab35b25461856b842f3681",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Zgrabby11",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1420057111697821756",
+          "asset": "nameplates/trick_or_treat/pile_of_bones_trick/",
+          "label": "COLLECTIBLES_TRICK_OR_TREAT_PILE_OF_BONES_TRICK_NP_A11Y",
+          "palette": "berry"
+        }
+      },
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "253581140072464384",
+        "identity_enabled": true,
+        "tag": "R6",
+        "badge": "6ca7a3c4fa26d768f59e851e21a7d3c8"
+      },
+      "primary_guild": {
+        "identity_guild_id": "253581140072464384",
+        "identity_enabled": true,
+        "tag": "R6",
+        "badge": "6ca7a3c4fa26d768f59e851e21a7d3c8"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "no, ONE is the answer to 7",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:16:44.970000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470528875271553086",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 19,
+    "content": "6th line of the A pyramid",
+    "mentions": [
+      {
+        "id": "700600753579884574",
+        "username": "mafiaman0281",
+        "avatar": "1d8ab8291cceb3799e74eefb85cade12",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "mafiaman",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:17:00.470000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470528940283138058",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1470505662210638038",
+      "message_id": "1470506519996010537",
+      "guild_id": "551211603647922176"
+    },
+    "referenced_message": {
+      "type": 0,
+      "content": "",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1470506520121966695",
+          "filename": "IMG_5146.webp",
+          "size": 788220,
+          "url": "https://cdn.discordapp.com/attachments/1470505662210638038/1470506520121966695/IMG_5146.webp?ex=698b8b6b&is=698a39eb&hm=3ce51dcb901e3e037ff386dd098209ada84e39db4b0e4d162dd0517a40342772&",
+          "proxy_url": "https://media.discordapp.net/attachments/1470505662210638038/1470506520121966695/IMG_5146.webp?ex=698b8b6b&is=698a39eb&hm=3ce51dcb901e3e037ff386dd098209ada84e39db4b0e4d162dd0517a40342772&",
+          "width": 1583,
+          "height": 2048,
+          "content_type": "image/jpeg",
+          "content_scan_version": 4,
+          "placeholder": "9QcKDQI2VoGHCHgod4JIOHZwcD9H",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2026-02-09T19:47:55.057000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1470506519996010537",
+      "channel_id": "1470505662210638038",
+      "author": {
+        "id": "700600753579884574",
+        "username": "mafiaman0281",
+        "avatar": "1d8ab8291cceb3799e74eefb85cade12",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "mafiaman",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false
+    }
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1470529672222867506",
+        "filename": "Screenshot_20260209_114611_Discord.jpg",
+        "size": 125042,
+        "url": "https://cdn.discordapp.com/attachments/1470505662210638038/1470529672222867506/Screenshot_20260209_114611_Discord.jpg?ex=698ba0fa&is=698a4f7a&hm=49a347de7a5a2e5da2e1be653054416a35c5731f1a5080400a4479e9ecda3efb&",
+        "proxy_url": "https://media.discordapp.net/attachments/1470505662210638038/1470529672222867506/Screenshot_20260209_114611_Discord.jpg?ex=698ba0fa&is=698a4f7a&hm=49a347de7a5a2e5da2e1be653054416a35c5731f1a5080400a4479e9ecda3efb&",
+        "width": 1440,
+        "height": 3088,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "1gceAwBndwiYd3uYV4/BC9M=",
+        "placeholder_version": 1
+      },
+      {
+        "id": "1470529672738635957",
+        "filename": "Screenshot_20260209_114730_Discord.jpg",
+        "size": 168836,
+        "url": "https://cdn.discordapp.com/attachments/1470505662210638038/1470529672738635957/Screenshot_20260209_114730_Discord.jpg?ex=698ba0fb&is=698a4f7b&hm=c48c7f4092d08ef14f682bf735c9897c6b83d2d2b4057a514cecebbbc5c71b5b&",
+        "proxy_url": "https://media.discordapp.net/attachments/1470505662210638038/1470529672738635957/Screenshot_20260209_114730_Discord.jpg?ex=698ba0fb&is=698a4f7b&hm=c48c7f4092d08ef14f682bf735c9897c6b83d2d2b4057a514cecebbbc5c71b5b&",
+        "width": 1440,
+        "height": 3088,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "2fclAwCIhwh3eHmYx3BsDac=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:19:54.929000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470529672017215538",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "you can make a pyramid with all four vowels that arent U",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:20:41.959000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470529869275336867",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "the on on the right is E for example",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:20:52.054000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470529911616966667",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "43 clues and 44 lines (11 for each vowel)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:21:11.524000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470529993279803455",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "6th line of A does not habe a clue and is thus the answer i think but idk what it is",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:21:24.463000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470530047550034104",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "can i get an explination on how it is suppose to be solved?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:21:53.671000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470530170057134130",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "244320589190397952",
+      "username": "kcb134",
+      "avatar": "4ea9d20a945d3e4c57dcce35dc72df78",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "i thought i just gave that",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:22:29.389000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470530319869542525",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "with pictures",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:22:43.470000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470530378929537172",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "why are you only using some clues tho?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:22:55.794000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470530430620139531",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "244320589190397952",
+      "username": "kcb134",
+      "avatar": "4ea9d20a945d3e4c57dcce35dc72df78",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "is there a key to tell us what clues to use?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:23:06.042000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470530473603105032",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "244320589190397952",
+      "username": "kcb134",
+      "avatar": "4ea9d20a945d3e4c57dcce35dc72df78",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "you use each clue",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:32:06.985000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470532742482624604",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "there are 43 clues and 11 levels of the pyramid, so you make four pyramids",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:32:39.922000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470532880630288569",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "each clue is one line",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:32:49.257000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470532919784112220",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "this is a completed one and uses 11, repeat with the other four vowels",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1470533005024952436",
+        "filename": "image-189.png",
+        "size": 271814,
+        "url": "https://cdn.discordapp.com/attachments/1470505662210638038/1470533005024952436/image-189.png?ex=698ba415&is=698a5295&hm=3845c4371e9e36c406e562fa27fb575738a1587647ea14c16644c43699342262&",
+        "proxy_url": "https://media.discordapp.net/attachments/1470505662210638038/1470533005024952436/image-189.png?ex=698ba415&is=698a5295&hm=3845c4371e9e36c406e562fa27fb575738a1587647ea14c16644c43699342262&",
+        "width": 1000,
+        "height": 952,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "9vcJD4C52LeCeYmBeQqnKJiDcgoH22AA",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:33:09.483000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470533004618236047",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "I -vowel\nOI - vandals song \u201c____ to the world!\u201d\nION - manga series by arina tanemura\nTONI - Braxton Family singer\nPINTO - horse or bean type \nOPTION - choice among several\nPORTION - amount served at a meal\u2019\nPOSITRON - electric charge of +1\nRATPOISON - pest control chemical\nSTAINPROOF - resistant to decoloration, such as a fabric\nOUTFORASPIN - on a leisurely drive, say\n\n\n\nA - vowel\nRA - deity venerated in a pyramid\nRAD - awesome\nDORA - explorer with a map\nADORN - bedeck\n[??]\nROTUNDA - element of U.S. capitol\n\n\n\nE - vowel\nER - tv show that made george clooney a star\nERA - length of time something happens\nRACE - NASCAR even\nLECAR - Renault named in a faux-French style for the US market\nECLAIR - chaux pastry with custard and chocolate\nCALIBER - projectile diameter\n[??]\nCABRIOLET - convertible such as a drophead coupe\nORBICULATE - round like a leaf or a batfish\nCIRCLEABOUT - encompass\n\nO \u2014 vowel \nNO \u2014 word symbolized by a crossed red ring\nEON \u2014 time-traveler from ben 10\nNOTE \u2014 sixteenth, e.g.\nTONER \u2014 copier liquid\nORIENT \u2014 give a direction, as by a compass or HR seminar\nINUTERO \u2014 follow-up to Nevermind\nROUTINES \u2014 boring sequences\nOUTLINERS \u2014 word processors that create text files with tree structures\nRESOLUTION \u2014 you make this on New Year\u2019s\nREVOLUTIONS \u2014 events that transform governments",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:25:05.823000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470546075495432557",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Around!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:25:09.295000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470546090058190859",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "\u2705 Puzzle 1: **EVERY** (\"Answer is every\")\n\u2705 Puzzle 2: **CHALLENGE** (Box pattern in Wordoku)\n\u2705 Puzzle 3: **LEADS** (\"A term for chief roles or metals with symbol PB\")\n\ud83d\udd32 Puzzle 4: ???\n\u2705Puzzle 5: **LOCATION** (\"Solution is location\")\n\u2705Puzzle 6: **NAME** (\u201cQuartet after pen\", \"Brand last or user\")\n\u2705Puzzle 7: **ONE** (\"Just a hundred exquisitely fuzzy puppies can be viewed like an adverb, a number from a Spielberg movie, or a film by Coppola.\" (hundred and one dalmations/ Ready player One/ One from the Heart)\n Puzzle 8: **AROUND**\n Puzzle 9: **???**",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:25:31.121000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470546181603197023",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\u2764\ufe0f"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "braciole is an italian dish",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:26:50.808000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470546515834573032",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "1439854091219243058",
+      "username": "ethjan_",
+      "avatar": "be32f52525b1e8c0ca28c9b1055c5836",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Ethjan",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83e\udd6b"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Are we certain the word is around?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:52:31.698000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470552978795790421",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "1074402844817489984",
+      "username": "kage01347",
+      "avatar": "6c5996770c985bcd6e5b68131ff2ba04",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "kage",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "I don't think the word is around personally",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:53:23.432000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470553195783917763",
+    "channel_id": "1470505662210638038",
+    "author": {
+      "id": "392502257570283523",
+      "username": "paybackpayback",
+      "avatar": "a_2c9637e2a0bed7c7a72fb809d2b2450c",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Payback",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  }
+]

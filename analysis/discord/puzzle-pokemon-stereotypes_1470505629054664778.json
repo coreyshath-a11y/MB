@@ -1,0 +1,3870 @@
+[
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1470506399564828897",
+        "filename": "IMG_5143.png",
+        "size": 298107,
+        "url": "https://cdn.discordapp.com/attachments/1470505629054664778/1470506399564828897/IMG_5143.png?ex=698b8b4e&is=698a39ce&hm=3a5779b90cfe65f05a97034326d92f713069914e84902027776a01289e4e8321&",
+        "proxy_url": "https://media.discordapp.net/attachments/1470505629054664778/1470506399564828897/IMG_5143.png?ex=698b8b4e&is=698a39ce&hm=3a5779b90cfe65f05a97034326d92f713069914e84902027776a01289e4e8321&",
+        "width": 1109,
+        "height": 1367,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "9gcKDgBmeBiImAd4h4N3gmhHd3DQDmY=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-02-09T19:47:26.304000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470506399397183722",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "700600753579884574",
+      "username": "mafiaman0281",
+      "avatar": "1d8ab8291cceb3799e74eefb85cade12",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "mafiaman",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Puzzle 5",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T19:47:30.432000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470506416711401492",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "700600753579884574",
+      "username": "mafiaman0281",
+      "avatar": "1d8ab8291cceb3799e74eefb85cade12",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "mafiaman",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Numbers are the Pokedex IDs for each pokedex",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1470506981054873685",
+        "filename": "Puzzle_5_Solved.png",
+        "size": 11294,
+        "url": "https://cdn.discordapp.com/attachments/1470505629054664778/1470506981054873685/Puzzle_5_Solved.png?ex=698b8bd8&is=698a3a58&hm=c841706791c24313aaedabde1d59c23b06647510a518a7aceb15c399b2d82fd0&",
+        "proxy_url": "https://media.discordapp.net/attachments/1470505629054664778/1470506981054873685/Puzzle_5_Solved.png?ex=698b8bd8&is=698a3a58&hm=c841706791c24313aaedabde1d59c23b06647510a518a7aceb15c399b2d82fd0&",
+        "width": 842,
+        "height": 473,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "degBBICal5hwiHiCiHMVg4D1mQ==",
+        "placeholder_version": 1,
+        "title": "Puzzle 5 Solved"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-02-09T19:49:44.960000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470506980962730034",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "1063898477316292608",
+      "username": "angrypanda1776",
+      "avatar": "4e5861af961819b057a9210f4434e60b",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Pro_Pain_Panda",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\u2764\ufe0f"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Someone pointed out earlier that the intersecting letters on the right going down spells \"Location\", the intersecting letters on the left going down spells \"Soloution\" almost \"solution\" that leaves just the \"S\" at the top right.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T19:56:01.651000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470508560919167097",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "1063898477316292608",
+      "username": "angrypanda1776",
+      "avatar": "4e5861af961819b057a9210f4434e60b",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Pro_Pain_Panda",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "And I",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T20:37:04.973000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470518892840489153",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "816672329484468232",
+      "username": ".igorcio",
+      "avatar": "e0730492ed0684cb46781751ff6e7d5a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Igorcioporcio",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1044514663683080263",
+        "identity_enabled": true,
+        "tag": "ACPL",
+        "badge": "310d9b669d687de773b5f3b5310ca1f3"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1044514663683080263",
+        "identity_enabled": true,
+        "tag": "ACPL",
+        "badge": "310d9b669d687de773b5f3b5310ca1f3"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc4d"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "The answer is probably:\nSolution is location",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T20:37:28.147000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470518990039289888",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "816672329484468232",
+      "username": ".igorcio",
+      "avatar": "e0730492ed0684cb46781751ff6e7d5a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Igorcioporcio",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1044514663683080263",
+        "identity_enabled": true,
+        "tag": "ACPL",
+        "badge": "310d9b669d687de773b5f3b5310ca1f3"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1044514663683080263",
+        "identity_enabled": true,
+        "tag": "ACPL",
+        "badge": "310d9b669d687de773b5f3b5310ca1f3"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc4d"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "I agree that I also got Solution is Location.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:02:27.366000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470525278219403284",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "333686897165598721",
+      "username": "galaxy618",
+      "avatar": "13f269831c9c757bbdcefe6f40ca60ff",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Galaxy",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\u2764\ufe0f"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Cool, feel free to see location \n||\"Farmers and Merchants National Bank \u2014 Los Angeles\"||",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:53:36.772000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470538152241528943",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "332653255664467970",
+      "username": "sudndeth",
+      "avatar": "fc579b1cf4a74a5bc45b98c0da7f3f94",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Minus1Player",
+      "avatar_decoration_data": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "sku_id": "1357589632581374042",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Huh?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:53:58.971000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470538245350752422",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Thats where the commercial was filmed right? But why is that relevant in puzzle 5?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:54:23.142000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470538346731405443",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "yeah whered ya get that from haha",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:55:00.272000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470538502465781925",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "780895902134042635",
+      "username": "sushisassy",
+      "avatar": "9e13b2ae7741c89ca44c7d6cbf05bcc4",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "the solution is the word LOCATION, thats it",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:57:47.083000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470539202121695558",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Its literal \ud83d\ude06",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:58:12.249000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470539307675680872",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "332653255664467970",
+      "username": "sudndeth",
+      "avatar": "fc579b1cf4a74a5bc45b98c0da7f3f94",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Minus1Player",
+      "avatar_decoration_data": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "sku_id": "1357589632581374042",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Location doesnt fit in the crossword.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:58:14.122000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470539315531743386",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Its 4 letters.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:58:29.968000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470539381994557531",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 19,
+    "content": "Look at bolded letters here",
+    "mentions": [
+      {
+        "id": "1063898477316292608",
+        "username": "angrypanda1776",
+        "avatar": "4e5861af961819b057a9210f4434e60b",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Pro_Pain_Panda",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T21:59:21.779000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470539599305642154",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "707290872974409769",
+      "username": "_shriv",
+      "avatar": "dfbde9d1997f8ce8afa084a1da5a2086",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "AntHoney",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1470505629054664778",
+      "message_id": "1470506980962730034",
+      "guild_id": "551211603647922176"
+    },
+    "referenced_message": {
+      "type": 0,
+      "content": "Numbers are the Pokedex IDs for each pokedex",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1470506981054873685",
+          "filename": "Puzzle_5_Solved.png",
+          "size": 11294,
+          "url": "https://cdn.discordapp.com/attachments/1470505629054664778/1470506981054873685/Puzzle_5_Solved.png?ex=698b8bd8&is=698a3a58&hm=c841706791c24313aaedabde1d59c23b06647510a518a7aceb15c399b2d82fd0&",
+          "proxy_url": "https://media.discordapp.net/attachments/1470505629054664778/1470506981054873685/Puzzle_5_Solved.png?ex=698b8bd8&is=698a3a58&hm=c841706791c24313aaedabde1d59c23b06647510a518a7aceb15c399b2d82fd0&",
+          "width": 842,
+          "height": 473,
+          "content_type": "image/webp",
+          "original_content_type": "image/png",
+          "content_scan_version": 4,
+          "placeholder": "degBBICal5hwiHiCiHMVg4D1mQ==",
+          "placeholder_version": 1,
+          "title": "Puzzle 5 Solved"
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2026-02-09T19:49:44.960000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1470506980962730034",
+      "channel_id": "1470505629054664778",
+      "author": {
+        "id": "1063898477316292608",
+        "username": "angrypanda1776",
+        "avatar": "4e5861af961819b057a9210f4434e60b",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "Pro_Pain_Panda",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false
+    }
+  },
+  {
+    "type": 0,
+    "content": "Yes. I get that but in the ultimate answer sheet. For the Endgame, where are you going to put the word location.?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1470539792373518377",
+        "filename": "Screenshot_20260209_154552_Discord.jpg",
+        "size": 146267,
+        "url": "https://cdn.discordapp.com/attachments/1470505629054664778/1470539792373518377/Screenshot_20260209_154552_Discord.jpg?ex=698baa67&is=698a58e7&hm=1cf34797ee6f6dd0d645fbf5cbb00a718d419ea84fbd6335eda765d21b1b3413&",
+        "proxy_url": "https://media.discordapp.net/attachments/1470505629054664778/1470539792373518377/Screenshot_20260209_154552_Discord.jpg?ex=698baa67&is=698a58e7&hm=1cf34797ee6f6dd0d645fbf5cbb00a718d419ea84fbd6335eda765d21b1b3413&",
+        "width": 1440,
+        "height": 3088,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "5PclAwCIhwh3eHWXYN8G9l0=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:00:07.770000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470539792205877474",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "thats the endgame is the official answer thing, not this",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:00:46.163000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470539953237917818",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1470539979469099130",
+        "filename": "Screenshot_20260209_110052_Opera.jpg",
+        "size": 163204,
+        "url": "https://cdn.discordapp.com/attachments/1470505629054664778/1470539979469099130/Screenshot_20260209_110052_Opera.jpg?ex=698baa94&is=698a5914&hm=d87d96a7a7e9306d4974d1aaf416cd10e1d9528c6a4003988f75c6037f8cff64&",
+        "proxy_url": "https://media.discordapp.net/attachments/1470505629054664778/1470539979469099130/Screenshot_20260209_110052_Opera.jpg?ex=698baa94&is=698a5914&hm=d87d96a7a7e9306d4974d1aaf416cd10e1d9528c6a4003988f75c6037f8cff64&",
+        "width": 1440,
+        "height": 3088,
+        "content_type": "image/jpeg",
+        "content_scan_version": 4,
+        "placeholder": "D/gJEwJXhRiof3TDVoBwBQg=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:00:52.358000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470539979221373114",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\u2764\ufe0f"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "literally says final answer haha",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:01:08.290000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470540046045024508",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 19,
+    "content": "didnt someone say that this ends up being sometjing like 'this id a waste of time'",
+    "mentions": [
+      {
+        "id": "630621755140079627",
+        "username": "jamesrocks4512",
+        "avatar": "046c28c55d3aa50b600acdb510055f4f",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "jAMESROCKS4512",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:01:41.175000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470540183974969449",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1470505629054664778",
+      "message_id": "1470539792205877474",
+      "guild_id": "551211603647922176"
+    },
+    "referenced_message": {
+      "type": 0,
+      "content": "Yes. I get that but in the ultimate answer sheet. For the Endgame, where are you going to put the word location.?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1470539792373518377",
+          "filename": "Screenshot_20260209_154552_Discord.jpg",
+          "size": 146267,
+          "url": "https://cdn.discordapp.com/attachments/1470505629054664778/1470539792373518377/Screenshot_20260209_154552_Discord.jpg?ex=698baa67&is=698a58e7&hm=1cf34797ee6f6dd0d645fbf5cbb00a718d419ea84fbd6335eda765d21b1b3413&",
+          "proxy_url": "https://media.discordapp.net/attachments/1470505629054664778/1470539792373518377/Screenshot_20260209_154552_Discord.jpg?ex=698baa67&is=698a58e7&hm=1cf34797ee6f6dd0d645fbf5cbb00a718d419ea84fbd6335eda765d21b1b3413&",
+          "width": 1440,
+          "height": 3088,
+          "content_type": "image/jpeg",
+          "content_scan_version": 4,
+          "placeholder": "5PclAwCIhwh3eHWXYN8G9l0=",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2026-02-09T22:00:07.770000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1470539792205877474",
+      "channel_id": "1470505629054664778",
+      "author": {
+        "id": "630621755140079627",
+        "username": "jamesrocks4512",
+        "avatar": "046c28c55d3aa50b600acdb510055f4f",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "jAMESROCKS4512",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false
+    }
+  },
+  {
+    "type": 0,
+    "content": "Okay, but each of the themed puzzles were solving is supposed to give us an answer, that we input on that crossword sheet.   Right?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:02:09.533000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470540302916780275",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Code can be anything sadly. My guess is 7",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:02:39.531000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470540428737642516",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "332653255664467970",
+      "username": "sudndeth",
+      "avatar": "fc579b1cf4a74a5bc45b98c0da7f3f94",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Minus1Player",
+      "avatar_decoration_data": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "sku_id": "1357589632581374042",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "nope",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:02:41.325000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470540436262228192",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "crossword sheet is fake and means nothing",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:02:47.830000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470540463546171529",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Im just gonna shut up before I say too much lol.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:02:52.987000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470540485176197221",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udcaa"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "lol",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:03:05.455000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470540537470783540",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "780895902134042635",
+      "username": "sushisassy",
+      "avatar": "9e13b2ae7741c89ca44c7d6cbf05bcc4",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": null,
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Its definitely not fake. It was in the video.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:03:17.328000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470540587269882120",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc4d"
+        },
+        "count": 2,
+        "count_details": {
+          "burst": 0,
+          "normal": 2
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "My brain hurts",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:03:21.731000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470540605737140258",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "916552012018114651",
+      "username": "its_shannonnn01",
+      "avatar": "8652241e9905e71b80b8872ffe7a6082",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Shann",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 19,
+    "content": "Not fake but could be a red herring",
+    "mentions": [
+      {
+        "id": "630621755140079627",
+        "username": "jamesrocks4512",
+        "avatar": "046c28c55d3aa50b600acdb510055f4f",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "jAMESROCKS4512",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:04:41.434000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470540940036014221",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "707290872974409769",
+      "username": "_shriv",
+      "avatar": "dfbde9d1997f8ce8afa084a1da5a2086",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "AntHoney",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1470505629054664778",
+      "message_id": "1470540587269882120",
+      "guild_id": "551211603647922176"
+    },
+    "referenced_message": {
+      "type": 0,
+      "content": "Its definitely not fake. It was in the video.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-02-09T22:03:17.328000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1470540587269882120",
+      "channel_id": "1470505629054664778",
+      "author": {
+        "id": "630621755140079627",
+        "username": "jamesrocks4512",
+        "avatar": "046c28c55d3aa50b600acdb510055f4f",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "jAMESROCKS4512",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false
+    }
+  },
+  {
+    "type": 19,
+    "content": "It definitely could be!",
+    "mentions": [
+      {
+        "id": "707290872974409769",
+        "username": "_shriv",
+        "avatar": "dfbde9d1997f8ce8afa084a1da5a2086",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "AntHoney",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:04:58.116000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470541010005266462",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1470505629054664778",
+      "message_id": "1470540940036014221",
+      "guild_id": "551211603647922176"
+    },
+    "referenced_message": {
+      "type": 19,
+      "content": "Not fake but could be a red herring",
+      "mentions": [
+        {
+          "id": "630621755140079627",
+          "username": "jamesrocks4512",
+          "avatar": "046c28c55d3aa50b600acdb510055f4f",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "jAMESROCKS4512",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        }
+      ],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-02-09T22:04:41.434000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1470540940036014221",
+      "channel_id": "1470505629054664778",
+      "author": {
+        "id": "707290872974409769",
+        "username": "_shriv",
+        "avatar": "dfbde9d1997f8ce8afa084a1da5a2086",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "AntHoney",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "message_reference": {
+        "type": 0,
+        "channel_id": "1470505629054664778",
+        "message_id": "1470540587269882120",
+        "guild_id": "551211603647922176"
+      }
+    }
+  },
+  {
+    "type": 0,
+    "content": "I mean couldn't it also just be a synonym for|| location like place||",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:05:01.872000+00:00",
+    "edited_timestamp": "2026-02-09T22:05:12.119000+00:00",
+    "flags": 0,
+    "components": [],
+    "id": "1470541025759203433",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "333686897165598721",
+      "username": "galaxy618",
+      "avatar": "13f269831c9c757bbdcefe6f40ca60ff",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Galaxy",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\u2764\ufe0f"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Thats what im trying to get people to think on. Because the word \"location\" isnt going to solve anything for you.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:05:36.679000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470541171750080638",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "That would fit the 5 boxes in line 5",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:05:39.656000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470541184236654684",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "333686897165598721",
+      "username": "galaxy618",
+      "avatar": "13f269831c9c757bbdcefe6f40ca60ff",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Galaxy",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 19,
+    "content": "I think its end game as well, but he did say complex. So one leads to another.",
+    "mentions": [
+      {
+        "id": "630621755140079627",
+        "username": "jamesrocks4512",
+        "avatar": "046c28c55d3aa50b600acdb510055f4f",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "jAMESROCKS4512",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:05:49.567000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470541225806528816",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "332653255664467970",
+      "username": "sudndeth",
+      "avatar": "fc579b1cf4a74a5bc45b98c0da7f3f94",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Minus1Player",
+      "avatar_decoration_data": {
+        "asset": "a_c48b135704ecb5c88f2f71f6c8bcce2f",
+        "sku_id": "1357589632581374042",
+        "expires_at": null
+      },
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1470505629054664778",
+      "message_id": "1470540587269882120",
+      "guild_id": "551211603647922176"
+    },
+    "referenced_message": {
+      "type": 0,
+      "content": "Its definitely not fake. It was in the video.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-02-09T22:03:17.328000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1470540587269882120",
+      "channel_id": "1470505629054664778",
+      "author": {
+        "id": "630621755140079627",
+        "username": "jamesrocks4512",
+        "avatar": "046c28c55d3aa50b600acdb510055f4f",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "jAMESROCKS4512",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false
+    }
+  },
+  {
+    "type": 0,
+    "content": "the word EVERY doesnt solve anything for you but thats the answer to puzzle one",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:06:04.711000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470541289324806144",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Every?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:06:49.140000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470541475673804956",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1470541612546261013",
+        "filename": "image-134.png",
+        "size": 467053,
+        "url": "https://cdn.discordapp.com/attachments/1470505629054664778/1470541612546261013/image-134.png?ex=698bac19&is=698a5a99&hm=98063b60328a25b7859956b9b8e0a80a507537c4d1870d1432d07ccb79a86715&",
+        "proxy_url": "https://media.discordapp.net/attachments/1470505629054664778/1470541612546261013/image-134.png?ex=698bac19&is=698a5a99&hm=98063b60328a25b7859956b9b8e0a80a507537c4d1870d1432d07ccb79a86715&",
+        "width": 691,
+        "height": 845,
+        "content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "8gcKBgC4uQeXeKhneHZ3dHhYyGngv8Y=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:07:21.751000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470541612453990435",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "'answer is EVERY'",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:07:25.353000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470541627562131629",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "so far each puzzle gives a single word as the solution",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:08:05.261000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470541794948415570",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "why do you doubt LOCATION specifically",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:08:15.047000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470541835993743361",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "I dont think every is the answer to puzzle 1 either.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:08:42.185000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470541949818896611",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "it doesnt make sense with the difference in water droplets for them to all be HOO in my opinion",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:09:32.272000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470542159899005009",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "293961610849157120",
+      "username": "meganispro",
+      "avatar": "9e50a59aad729e35d687056a9c5daa69",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Meganispro",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "h2o",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:09:50.450000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470542236143059096",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "h and two Os",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:09:53.509000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470542248973176994",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "plus it answers every clue",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:10:03.982000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470542292900122836",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "What do the numbers mean?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:12:01.360000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470542785219133501",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "the number of drops",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:12:30.627000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470542907973828769",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "achoo used one drop, so you take the first letter of achoo (a)\n\ntyphoon used 7 drops for HOO, so you take the 7th letter (n)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:13:06.237000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470543057332994099",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 19,
+    "content": "Wow, where did you get that from",
+    "mentions": [
+      {
+        "id": "630621755140079627",
+        "username": "jamesrocks4512",
+        "avatar": "046c28c55d3aa50b600acdb510055f4f",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "jAMESROCKS4512",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:13:13.043000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470543085879427093",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "816672329484468232",
+      "username": ".igorcio",
+      "avatar": "e0730492ed0684cb46781751ff6e7d5a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Igorcioporcio",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1044514663683080263",
+        "identity_enabled": true,
+        "tag": "ACPL",
+        "badge": "310d9b669d687de773b5f3b5310ca1f3"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1044514663683080263",
+        "identity_enabled": true,
+        "tag": "ACPL",
+        "badge": "310d9b669d687de773b5f3b5310ca1f3"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1470505629054664778",
+      "message_id": "1470539792205877474",
+      "guild_id": "551211603647922176"
+    },
+    "referenced_message": {
+      "type": 0,
+      "content": "Yes. I get that but in the ultimate answer sheet. For the Endgame, where are you going to put the word location.?",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [
+        {
+          "id": "1470539792373518377",
+          "filename": "Screenshot_20260209_154552_Discord.jpg",
+          "size": 146267,
+          "url": "https://cdn.discordapp.com/attachments/1470505629054664778/1470539792373518377/Screenshot_20260209_154552_Discord.jpg?ex=698baa67&is=698a58e7&hm=1cf34797ee6f6dd0d645fbf5cbb00a718d419ea84fbd6335eda765d21b1b3413&",
+          "proxy_url": "https://media.discordapp.net/attachments/1470505629054664778/1470539792373518377/Screenshot_20260209_154552_Discord.jpg?ex=698baa67&is=698a58e7&hm=1cf34797ee6f6dd0d645fbf5cbb00a718d419ea84fbd6335eda765d21b1b3413&",
+          "width": 1440,
+          "height": 3088,
+          "content_type": "image/jpeg",
+          "content_scan_version": 4,
+          "placeholder": "5PclAwCIhwh3eHWXYN8G9l0=",
+          "placeholder_version": 1
+        }
+      ],
+      "embeds": [],
+      "timestamp": "2026-02-09T22:00:07.770000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1470539792205877474",
+      "channel_id": "1470505629054664778",
+      "author": {
+        "id": "630621755140079627",
+        "username": "jamesrocks4512",
+        "avatar": "046c28c55d3aa50b600acdb510055f4f",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "jAMESROCKS4512",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false
+    }
+  },
+  {
+    "type": 0,
+    "content": "you keep going and get \n\na n s w e r i s e v e r y",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:13:19.230000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470543111829590087",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udc4d"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "\u2764\ufe0f"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "do you think thats a coincidence or what LOL",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:13:28.570000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470543151004520532",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Okay, so someone wrote that into the puzzle. Gotcha.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:15:21.831000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470543626055585885",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Is there a penalty for submitting the wrong code?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:15:34.247000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470543678132191252",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "343415089975525376",
+      "username": "chris_the_dev89",
+      "avatar": "f3cf6a59d91491b7c7919375b24fae9a",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "chris",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 19,
+    "content": "?",
+    "mentions": [
+      {
+        "id": "630621755140079627",
+        "username": "jamesrocks4512",
+        "avatar": "046c28c55d3aa50b600acdb510055f4f",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "jAMESROCKS4512",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:15:49.333000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470543741407461470",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1470505629054664778",
+      "message_id": "1470543626055585885",
+      "guild_id": "551211603647922176"
+    },
+    "referenced_message": {
+      "type": 0,
+      "content": "Okay, so someone wrote that into the puzzle. Gotcha.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-02-09T22:15:21.831000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1470543626055585885",
+      "channel_id": "1470505629054664778",
+      "author": {
+        "id": "630621755140079627",
+        "username": "jamesrocks4512",
+        "avatar": "046c28c55d3aa50b600acdb510055f4f",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "jAMESROCKS4512",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false
+    }
+  },
+  {
+    "type": 0,
+    "content": "But it still doesnt fit. So I think it'll have to be changed, or a synonym for the word, as suggested earlier.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:15:56.821000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470543772814147635",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\udcaf"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "what??",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:16:04.336000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470543804334608425",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "The final crossword.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:16:22.167000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470543879123243150",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "but even the word #2 dosent fit",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:16:40.207000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470543954788483228",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "1459769039621455997",
+      "username": "jerrycid_49702",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jerry Cid",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Line 1 is 4 letters. Line 5 is 4 letters. Therefore, it cannot be the word \"every\" and \"location\" that are our final answers there. But, there are 11 rows. So these puzzles are almost surely what correlates to those 11 rows",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:17:41.299000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470544211026903293",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\u2764\ufe0f"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "not eve nchanllenge",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:18:02.824000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470544301309296806",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "1459769039621455997",
+      "username": "jerrycid_49702",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jerry Cid",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "and youre more certain that the crossword is right/important than the official puzzles saying 'answer is blank'",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:18:11.462000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470544337539563550",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "\ud83d\ude05",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:18:17.217000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470544361677914436",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "184811443462471680",
+      "username": "t334",
+      "avatar": "8762e5fbcf0561878d5d6edcf3c921e1",
+      "discriminator": "0",
+      "public_flags": 512,
+      "flags": 512,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "T334",
+      "avatar_decoration_data": {
+        "asset": "a_55393fb776ecc721bc551823d4ea52df",
+        "sku_id": "1409898407799160963",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1447609133011304529",
+          "asset": "nameplates/gargamel/woodsprite/",
+          "label": "COLLECTIBLES_GARGAMEL_WOODSPRITE_NP_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 2,
+        "colors": [
+          16095292,
+          15031015
+        ]
+      },
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Yes! It was pulled directly from the video they very clearly told us to watch before submitting answers",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:18:49.911000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470544498806358096",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Its how we ALL got to this discord lol.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:18:59.427000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470544538719486076",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "i all ready put like 15 answers lol",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:20:10.106000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470544835168567317",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "1459769039621455997",
+      "username": "jerrycid_49702",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jerry Cid",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\ude06"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "Each",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:21:25.246000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470545150328569980",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "763507620161126432",
+      "username": "startled.waffles",
+      "avatar": "872c9722a1505709808d9f9d2f5dd20e",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Impasta",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1358826785776734278",
+        "identity_enabled": true,
+        "tag": "slay",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1358826785776734278",
+        "identity_enabled": true,
+        "tag": "slay",
+        "badge": "4b70e09b6b8ddf55b5f9dc6816636760"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "And now ive said to much. Lol.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:22:04.405000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470545314573455463",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\ud83d\ude02"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 19,
+    "content": "jahhah you havent say a thing XD",
+    "mentions": [
+      {
+        "id": "630621755140079627",
+        "username": "jamesrocks4512",
+        "avatar": "046c28c55d3aa50b600acdb510055f4f",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "jAMESROCKS4512",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:22:32.592000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470545432798167070",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "1459769039621455997",
+      "username": "jerrycid_49702",
+      "avatar": null,
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Jerry Cid",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "message_reference": {
+      "type": 0,
+      "channel_id": "1470505629054664778",
+      "message_id": "1470545314573455463",
+      "guild_id": "551211603647922176"
+    },
+    "referenced_message": {
+      "type": 0,
+      "content": "And now ive said to much. Lol.",
+      "mentions": [],
+      "mention_roles": [],
+      "attachments": [],
+      "embeds": [],
+      "timestamp": "2026-02-09T22:22:04.405000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "id": "1470545314573455463",
+      "channel_id": "1470505629054664778",
+      "author": {
+        "id": "630621755140079627",
+        "username": "jamesrocks4512",
+        "avatar": "046c28c55d3aa50b600acdb510055f4f",
+        "discriminator": "0",
+        "public_flags": 0,
+        "flags": 0,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "jAMESROCKS4512",
+        "avatar_decoration_data": null,
+        "collectibles": null,
+        "display_name_styles": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false
+    }
+  },
+  {
+    "type": 0,
+    "content": "Well i deleted it. Lol.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:23:33.008000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470545686201106623",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Are you guys sure that all puzzle answers are connected to the big crossword?",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:32:08.880000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470547849925103810",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "816672329484468232",
+      "username": ".igorcio",
+      "avatar": "e0730492ed0684cb46781751ff6e7d5a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Igorcioporcio",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1044514663683080263",
+        "identity_enabled": true,
+        "tag": "ACPL",
+        "badge": "310d9b669d687de773b5f3b5310ca1f3"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1044514663683080263",
+        "identity_enabled": true,
+        "tag": "ACPL",
+        "badge": "310d9b669d687de773b5f3b5310ca1f3"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "Not entirely no. But we're thinking there are 11 puzzles, or someone said that, and there are 11 left to right columns in the crossword. With one column going through the middle of all of them vertically.",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:33:35.336000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470548212547850250",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "630621755140079627",
+      "username": "jamesrocks4512",
+      "avatar": "046c28c55d3aa50b600acdb510055f4f",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "jAMESROCKS4512",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "\u2764\ufe0f"
+        },
+        "count": 1,
+        "count_details": {
+          "burst": 0,
+          "normal": 1
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "I did. I mean it seems like that would make sense but no confirmation",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:33:59.673000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470548314624888832",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "333686897165598721",
+      "username": "galaxy618",
+      "avatar": "13f269831c9c757bbdcefe6f40ca60ff",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Galaxy",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "I mean it says \"is here\", thats how i got here",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-02-09T22:43:07.320000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1470550611622756474",
+    "channel_id": "1470505629054664778",
+    "author": {
+      "id": "738727700172242956",
+      "username": "charlotte_92",
+      "avatar": "2ac45a87633cd03e36b5042b07d2fdbc",
+      "discriminator": "0",
+      "public_flags": 0,
+      "flags": 0,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Charlotte",
+      "avatar_decoration_data": null,
+      "collectibles": null,
+      "display_name_styles": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  }
+]

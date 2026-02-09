@@ -1,0 +1,47 @@
+# Discord Channel: #puzzle-survive-the-wilderness
+# Channel ID: 1470505641607958540
+# Messages: 12
+============================================================
+
+[2026-02-09T19:47:36] mafiaman0281:
+  [Attachment] IMG_5144.webp - https://cdn.discordapp.com/attachments/1470505641607958540/1470506443835834619/IMG_5144.webp?ex=698b8b58&is=698a39d8&hm=5dcadf21499814b7d0a7c8e8323624be958c49449e466949c4662ff23320dd93&
+
+[2026-02-09T19:47:49] mafiaman0281:
+  Puzzle 6
+
+[2026-02-09T20:01:59] arcometric:
+  [Attachment] image.png - https://cdn.discordapp.com/attachments/1470505641607958540/1470510059984519250/image.png?ex=698b8eb7&is=698a3d37&hm=548845e49a9c8e6a5917660f38d0362b61e8449943699fe7e2bb107786cbe72b&
+
+[2026-02-09T20:31:36] kcb134:
+  if you add up each row with the coresponding numbers, you get quartet after pen
+
+[2026-02-09T20:39:07] .igorcio:
+  Also in the colums, you get Brand, Last and User
+
+[2026-02-09T20:41:00] .igorcio:
+  So the answet probably is Name, since:
+brand - name
+last - name
+user - name
+pen - name
+after - name
+quartet - name
+
+[2026-02-09T20:41:48] kcb134:
+  how are you getting that?
+
+[2026-02-09T20:42:13] kcb134:
+  nevermind
+
+[2026-02-09T20:42:44] kcb134:
+  quartet is apparently a dry erase marker brand
+
+[2026-02-09T20:44:33] .igorcio:
+  pen name, after name and quartet name doesn't make so much sense as brand name, last name and username, but this answer fits the best I think
+
+[2026-02-09T20:44:38] mntag:
+  quartet = four letters
+
+[2026-02-09T20:45:13] mntag:
+  "quartet after pen" = name
+
