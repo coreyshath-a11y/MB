@@ -1,5 +1,5 @@
 # CONTINUATION NOTES FOR NEXT SESSION
-# Last updated: Feb 10, 2026 ~2:00 AM ET
+# Last updated: Feb 10, 2026 ~2:30 AM ET
 # Branch: claude/setup-github-cloud-j9k6O
 
 ## CRITICAL STATE SUMMARY
@@ -120,8 +120,88 @@ Key channels:
 - MrBeast locations agent: still running (researching global challenge locations)
 - Crossword grid mapping agent: timed out (CROSSWORD_GRID_MAP.md not created)
 
+### VIDEO FRAMES NOW AVAILABLE! (uploaded ~2:15 AM ET)
+- 152 frames: "Watch My Super Bowl Ad To Win $1,000,000!" (Super Bowl ad)
+- 34 frames: "First To Find $1,000,000, Keeps It!" (Bank video)
+- See: analysis/VIDEO_FRAME_ANALYSIS.md for comprehensive frame-by-frame analysis
+
+### MAJOR NEW FINDINGS FROM FRAMES:
+
+#### BANK VIDEO MONITOR ROOM (Frames 8-14):
+- **OWL/BIRD silhouette** on monitor → birds-on-wire cipher → DOMAIN ID
+- **EAR icon** → hearing/audio clue
+- **SPIDER** image → listed as ad puzzle
+- **SINE WAVE** → frequency/waveform clue
+- **SWISS FLAG** (red + white cross) → Switzerland location?
+- **n³=n²** equation → solution: n=0 or n=1 (ONE or ZERO)
+- **10^5** = 100,000 on monitor
+- **"22,493 lb"** on monitor → weight reference?
+- **Bulletin board with pinned notes/photos** → identity clues
+- **Ice/snow cracking image** → Antarctica reference?
+- **Sweater/clothing images** → ?
+- **Slackbot "Good luck!" with emojis: 🎠🦕🌼⚓🏕️**
+  (Carousel, Sauropod, Blossom, Anchor, Camping/Tree)
+
+#### GIANT QR CODE (Bank Frame 30-31):
+- Aerial view of massive QR code made from containers on desert sand
+- Circular vault structure at center
+- QR code scanning in progress (scripts/decode_qr.py)
+- Likely links to hidden website (connects to DOMAIN ID + SITE IP theories)
+
+#### SUPER BOWL AD KEY FRAMES:
+- Frame 50: "RED HERRING BANK" + "BARCLAY HOTEL" signs
+- Frame 55: "TALK LIKE A PIRATE DAY" billboard (Sept 19 = 9/19)
+  + "NO PARKING YOUR TANK AT THE BANK" + "30 MINUTE PARKING LIMIT"
+  + "4th St" street sign
+- Frame 56: "MRS. MAYBELLE" nameplate + CALENDAR with circled dates
+- Frame 110: "CEO TODAY" magazine — Marc Benioff (Salesforce CEO)
+  + BLACK WATCH image on left page
+- Frame 130: Red-outlined bills → CASHTENT
+- Jar of pennies visible (Frame 10 area)
+
+#### IPESIT / SITE IP Theory:
+- Discord confirms tank has text "IPESIT" + 😱 emoji
+- IPESIT = anagram of "SITE IP" → hidden website IP address
+- Connects to: birds puzzle (DOMAIN ID), license plate (reversed), QR code
+
+#### CALENDAR CIRCLED DATES (from Discord user Giavani):
+- "Feb 2nd was the only one circled that matches a day he posted one of the original 4 videos"
+- Other circled dates extracted (image posted, need to review)
+
+#### LOCATION CANDIDATES FOR 11 HIDDEN WORDS:
+Primary locations from 9 challenge videos:
+1. KENYA (V1 - 100 Wells)
+2. NORTH CAROLINA (V2 - 600 Strangers)
+3. DOMINICAN REPUBLIC (V3 - Dirtiest Beach)
+4. DUBAI (V4 - Experiences)
+5. GREENVILLE (V5 - Pokemon - presumed)
+6. SE US unknown (V6 - Wilderness)
+7. NC (V7 - 100 Dogs - presumed)
+8. EGYPT/GIZA (V8 - Pyramids)
+9. NC (V9 - Circle - presumed)
+Plus from puzzles: ACCRA/GHANA, YELLOWKNIFE/CANADA, SAN FRANCISCO
+
+#### 167 ACROSS CANDIDATES (16 characters):
+- CHANGINGTHEWORLD (16!) ← best candidate
+- MRBEASTSUPERBOWL (15 — one short)
+- CHARITYCHALLENGE (16)
+- PHILANTHROPYWORK (16)
+
+#### COMMUNITY RESOURCES:
+- Google Doc: https://docs.google.com/document/d/1ghb_zIRVLNlt2oRNyMBWeP3ZqWT-lnX59ePXoMKAkSw
+- BTS Video with crossword: https://www.youtube.com/watch?v=FSr5l7URZTc
+
 ### GIT STATE:
 - Branch: claude/setup-github-cloud-j9k6O
 - Remote: origin (coreyshath-a11y/MB)
-- Latest commit: b3a909c
+- Latest commit: 127bc71
 - All work committed and pushed
+
+### KEY FILES (updated):
+- analysis/VIDEO_FRAME_ANALYSIS.md — comprehensive frame analysis (NEW)
+- analysis/VIDEO_LOCATIONS.md — locations from all 9 videos (NEW)
+- analysis/CROSSWORD_ENTRY_LIST.md — entry number mapping (NEW)
+- analysis/discord/latest_general_feb10.txt — latest Discord (NEW)
+- analysis/discord/latest_crossword_feb10.txt — latest crossword chat (NEW)
+- analysis/discord/latest_puzzle11_feb10.txt — latest puzzle-11 chat (NEW)
+- scripts/decode_qr.py — QR code decoder script (NEW)
