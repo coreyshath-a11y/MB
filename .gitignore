@@ -11,8 +11,11 @@ audio/**/*.mp3
 audio/**/*.wav
 audio/**/*.m4a
 
-# Extracted frames (huge number of files)
-frames/
+# Extracted frames (huge number of files - allow specific dirs)
+frames/*
+!frames/.gitkeep
+!frames/First To Find $1,000,000, Keeps It!.f399/
+!frames/Watch My Super Bowl Ad To Win $1,000,000!.f399/
 
 # Transcription JSON (large files, keep .txt versions)
 *_transcript.json
