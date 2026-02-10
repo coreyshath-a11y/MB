@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Puzzle Grid</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #1a1a2e;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    padding: 2rem;
+  }
+  h1 {
+    color: #e0e0e0;
+    margin-bottom: 1.5rem;
+    font-weight: 300;
+    letter-spacing: 0.05em;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(9, 48px);
+    grid-template-rows: repeat(11, 48px);
+    gap: 2px;
+  }
+  .cell {
+    width: 48px;
+    height: 48px;
+    border: 2px solid #555;
+    background: #f0ece3;
+    text-align: center;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #1a1a2e;
+    caret-color: #4a6fa5;
+    outline: none;
+    text-transform: uppercase;
+    transition: border-color 0.15s, box-shadow 0.15s;
+    border-radius: 3px;
+  }
+  .cell:focus {
+    border-color: #4a6fa5;
+    box-shadow: 0 0 0 2px rgba(74, 111, 165, 0.5);
+    z-index: 1;
+    background: #fff;
+  }
+  .empty {
+    width: 48px;
+    height: 48px;
+    background: transparent;
+    border: none;
+  }
+  .controls {
+    margin-top: 1.5rem;
+    display: flex;
+    gap: 0.75rem;
+  }
+  button {
+    padding: 0.5rem 1.25rem;
+    border: 1px solid #4a6fa5;
+    background: transparent;
+    color: #b0c4de;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: background 0.2s;
+  }
+  button:hover { background: rgba(74, 111, 165, 0.2); }
+</style>
+</head>
+<body>
+<h1>Puzzle Grid</h1>
+<div class="grid" id="grid"></div>
+<div class="controls">
+  <button onclick="clearAll()">Clear All</button>
+</div>
+<script>
+const layout = [
+  [0,0,0,1,1,1,1,0,0],
+  [0,1,1,1,1,1,1,0,0],
+  [0,1,1,1,1,1,0,0,0],
+  [0,0,0,1,1,1,1,1,0],
+  [0,1,1,1,1,0,0,0,0],
+  [0,0,0,1,1,1,1,0,0],
+  [0,0,0,0,1,1,1,1,1],
+  [0,0,0,1,1,1,0,0,0],
+  [1,1,1,1,1,0,0,0,0],
+  [0,0,1,1,1,1,1,0,0],
+  [0,1,1,1,1,0,0,0,0],
+];
+
+const grid = document.getElementById('grid');
+const inputs = [];
+
+layout.forEach((row, r) => {
+  row.forEach((val, c) => {
+    if (val === 1) {
+      const input = document.createElement('input');
+      input.className = 'cell';
+      input.maxLength = 1;
+      input.dataset.row = r;
+      input.dataset.col = c;
+      input.addEventListener('input', (e) => {
+        if (e.target.value) advanceFocus(r, c);
+      });
+      input.addEventListener('keydown', (e) => {
+        if (e.key === 'Backspace' && !e.target.value) {
+          e.preventDefault();
+          retreatFocus(r, c);
+        }
+        if (e.key === 'ArrowRight') advanceFocus(r, c);
+        if (e.key === 'ArrowLeft') retreatFocus(r, c);
+        if (e.key === 'ArrowDown') moveFocusVertical(r, c, 1);
+        if (e.key === 'ArrowUp') moveFocusVertical(r, c, -1);
+      });
+      grid.appendChild(input);
+      inputs.push(input);
+    } else {
+      const div = document.createElement('div');
+      div.className = 'empty';
+      grid.appendChild(div);
+    }
+  });
+});
+
+function getInput(r, c) {
+  return inputs.find(i => +i.dataset.row === r && +i.dataset.col === c);
+}
+
+function advanceFocus(r, c) {
+  for (let cc = c + 1; cc < 9; cc++) {
+    const inp = getInput(r, cc);
+    if (inp) { inp.focus(); inp.select(); return; }
+  }
+}
+
+function retreatFocus(r, c) {
+  for (let cc = c - 1; cc >= 0; cc--) {
+    const inp = getInput(r, cc);
+    if (inp) { inp.focus(); inp.select(); return; }
+  }
+}
+
+function moveFocusVertical(r, c, dir) {
+  for (let rr = r + dir; rr >= 0 && rr < 11; rr += dir) {
+    const inp = getInput(rr, c);
+    if (inp) { inp.focus(); inp.select(); return; }
+  }
+}
+
+function clearAll() {
+  inputs.forEach(i => { i.value = ''; });
+  if (inputs.length) inputs[0].focus();
+}
+</script>
+</body>
+</html>
