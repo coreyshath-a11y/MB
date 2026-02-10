@@ -88,7 +88,8 @@ KEY POINTS:
 
 ### CROSSWORD STRUCTURE ✅
 - Title: "I WROTE A PUZZLE FOR JIMMY!" by Mike Selinker (Lone Shark Games)
-- 21×21 grid, 176 numbered entries (90 Across, ~86 Down)
+- **25×25 grid** (CONFIRMED via pixel analysis - NOT 21×21!), 176 numbered entries (90 Across, 95 Down)
+- 25×25 = QR Code Version 2 size (significant!)
 - NO printed clues except 167 Across
 - 167 Across: "What this puzzle commemorates in eleven hidden words in the theme entries"
 - Circled cells present (~13-16 circles) = extraction points for final code

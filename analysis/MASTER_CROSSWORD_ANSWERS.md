@@ -151,10 +151,39 @@ Hidden words in the concatenated string.
 
 ---
 
-## FROM PUZZLE 4: "Experiences" (21 entries — identities UNKNOWN)
-21 place names from the colored strips. These are likely crossword entries but we don't know what they are yet.
+## FROM PUZZLE 4: "$1 vs $500,000 Experiences" (21 city names — DECODED by Team Omega)
+Strips decode via Arial Black letter overlap multiplication to pairs of street names.
+Each street pair intersects in a specific city. Colors group cities by first letter → TOWARDS.
 
-**Subtotal: 21 entries (HIGH that they exist, but UNKNOWN identities)**
+| # | Color | Street 1 | Street 2 | City | Letters |
+|---|-------|----------|----------|------|---------|
+| 1 | red | GLENCAIRN | DANESBURY | North York (Toronto), ON, CA | 7 (TORONTO) |
+| 2 | blue | WASCANA | DEWDNEY | Regina, SK, CA | 6 (REGINA) |
+| 3 | orange | OXFORD | BITTEL | Owensboro, KY, US | 9 (OWENSBORO) |
+| 4 | red | NEBRASKA | WESTWOOD | Toledo, OH, US | 6 (TOLEDO) |
+| 5 | blue | SUMMIT | CAHOON | Roswell, NM, USA | 7 (ROSWELL) |
+| 6 | purple | LEIPZIGER | OSCHATZER | Dresden, Germany | 7 (DRESDEN) |
+| 7 | red | MCKEMY | APOLLO | Tempe, AZ, US | 5 (TEMPE) |
+| 8 | yellow | FILTWOWA | RUDAWSKA | Warsaw, PL | 6 (WARSAW) |
+| 9 | pink | TUBINGEN | CRACOVIA | San Juan, PR | 7 (SANJUAN) |
+| 10 | green | GLENAVON | KOOLUNDA | Woodville South (Adelaide), SA, AU | 8 (ADELAIDE) |
+| 11 | purple | COLFAX | ONEIDA | Denver, CO, US | 6 (DENVER) |
+| 12 | pink | JUANDEZOYAS | MAESEFARFAN | Seville, ES | 7 (SEVILLE) |
+| 13 | orange | TWEEDSMUIR | DOVERCOURT | Nepean (Ottawa), ON, CA | 6 (OTTAWA) |
+| 14 | yellow | GREENFOREST | MOCKINGBIRD | Wilmington, NC, USA | 10 (WILMINGTON) |
+| 15 | pink | MARINAGLEN | DELTAQUEEN | Sacramento, CA, US | 10 (SACRAMENTO) |
+| 16 | green | MCGUCKIAN | MCKENDREE | Annapolis, MD, US | 9 (ANNAPOLIS) |
+| 17 | green | KALYPSO | ANNALUE | Auburn, AL, US | 6 (AUBURN) |
+| 18 | purple | LOWTHER | GOSCHEN | Dover, UK | 5 (DOVER) |
+| 19 | blue | ATKINSON | PROSPECT | Rochester, NY, US | 9 (ROCHESTER) |
+| 20 | orange | NIMONS | BRUTON | Orlando, FL, USA | 7 (ORLANDO) |
+| 21 | yellow | LONDONDERRY | OLDMCGREGOR | Woodway, TX, US | 7 (WOODWAY) |
+
+**Color → First Letter mapping:** Red=T, Orange=O, Yellow=W, Green=A, Blue=R, Purple=D, Pink=S → **TOWARDS**
+
+**Note:** Team Omega sent people to Glencairn/Danesbury intersection in Toronto — found nothing. Physical intersections are likely NOT the point; the city names themselves are the puzzle output.
+
+**Subtotal: 21 city names (DEFINITIVE decoding, but unclear if cities = crossword entries)**
 
 ---
 

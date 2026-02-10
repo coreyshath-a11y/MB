@@ -43,6 +43,28 @@
 - **Red Rubik's cube** keeps appearing - significance unclear
 - **Closed caption words** including "seven letter big lodge" may feed into crossword
 
+### KULESFO Vigenère Cipher (Feb 10 Discord)
+- **Cipher key:** KULESFO
+- **Ciphertext:** 92 characters (source unknown - possibly from ad/video)
+- **Method:** Vigenère cipher decryption
+- **Result:** MRBEAST appears at position 14 in the decrypted text
+- **Connection to TOM:** T=20, O=15, M=13 → T minus 6 (weeks since Super Bowl?) = 14 → position 14
+- **Status:** UNVERIFIED — need to find the original 92-character ciphertext source
+- **Assessment:** Could be significant if ciphertext source is legitimate; the KULESFO key is suspicious (anagram of FLUKES? FLOUSE? FOULES?)
+
+### Jersey Math → Barclay Hotel (Feb 10 Discord)
+- **Observation:** Jersey numbers 73 + 38 = 111
+- **Connection:** 111 = address of Barclay Hotel (111 E 48th St, NYC)
+- **Significance:** Barclay Hotel may be a location in the puzzle
+- **Status:** UNVERIFIED — need to confirm jersey 38 exists in ad, and whether Barclay Hotel connects to puzzle
+
+### SASSATU Morse Code = STATUS (Feb 10 Discord)
+- **Observation:** Morse code from ad decodes to "SASSATU" (or similar)
+- **Letter values:** S(19)+A(1)+S(19)+S(19)+A(1)+T(20)+U(21) = 100
+- **Connection:** STATUS has same letter sum: S(19)+T(20)+A(1)+T(20)+U(21)+S(19) = 100
+- **Theory:** SASSATU is an anagram/rearrangement of STATUS (minus one S, plus extra A)
+- **Status:** UNVERIFIED — need to confirm morse decoding and check if STATUS/SASSATU appears anywhere in puzzle
+
 ### Community Status
 - Multiple unlimited guesses allowed on Slackbot
 - "This all still seems like an initial phase"

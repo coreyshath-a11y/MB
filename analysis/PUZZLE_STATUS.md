@@ -179,7 +179,10 @@ Plus bird icons and ear icon
 - **"5" instead of "$"** on website - deliberate change
 - **Elephant has a name** in updated version
 - **License plate in video** may contain a website IP address
-- **Numbers during "find puzzle maker" segment:** 11,6,2,12,4,7,8,13,7,3,13,11,8,9,7,12,1,11,9,4
+- **Numbers during "find puzzle maker" segment (puzzle piece emoji video):** 11,6,2,12,4,7,8,13,7,3,13,11,8,9,7,12,1,11,9,4
+    - 20 numbers total, range 1-13. May already be solved as one of the 9 puzzles.
+    - If indexing P4 cities by first letter: D,D,R,S,T,T,W,O,T,O,O,D,W,S,T,S,N,D,S,T
+    - Needs further analysis — could index into crossword entries, alphabet, or something else
 - **Two different belts** (commercial vs BTS video)
 - **Red Rubik's cube** keeps appearing
 - **Macon Coffee cup** at bank teller's desk (Georgia shop but filmed in LA)
