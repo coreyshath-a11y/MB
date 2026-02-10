@@ -124,7 +124,40 @@ Row 10: DE[L]HI      ★★★ (India)
 Row 11: CHA[D]       ★★★ (Africa)
 ```
 
-### Alternatives Tested
+### Alternative Theory: MELANESIANS (Community Suggestion)
+A community member proposed a different column-4 reading using these countries:
+```
+Row  1: O[M]AN       (4) ☆ No known MrBeast connection
+Row  2: GRE[E]CE     (6) ☆ No known MrBeast connection
+Row  3: ITA[L]Y      (5) ☆ No known MrBeast connection
+Row  4: J[A]PAN      (5) ☆ No known MrBeast connection
+Row  5: IRA[N]       (4) ☆ No known MrBeast connection
+Row  6: P[E]RU       (4) ★★★ Known philanthropy country
+Row  7: [S]PAIN      (5) ☆ No known MrBeast connection
+Row  8: C[I]V        (3) ☆ ISO country code for Côte d'Ivoire
+Row  9: GHAN[A]      (5) ★★★ Known philanthropy country
+Row 10: KE[N]YA      (5) ★★★ Known philanthropy country
+Row 11: LAO[S]       (4) ☆ No known MrBeast connection
+```
+Column 4 spine: **MELANESIANS** (a real English word = people of Melanesia)
+
+**MELANESIANS vs AROUNDWORLD comparison:**
+
+| Criterion | MELANESIANS | AROUNDWORLD |
+|-----------|-------------|-------------|
+| All lengths match | ✓ YES | ✓ YES |
+| Column 4 is real word | ✓ YES (single word) | Partial (two words) |
+| Echoes 9-word sentence | ✗ NO | ✓ YES ("...AROUND WORLD") |
+| MrBeast relevance | WEAK (3/11 connected) | STRONG (9/11 connected) |
+| CIV (ISO code) issue | ✗ Unusual for puzzle | N/A |
+| 50A letter match test | ✗ No location matches both pos10=A & pos13=R | ✓ DAKAR at pos 9-13 matches BOTH |
+| Thematic meaning | Why "Melanesians"? | Directly describes the puzzle hunt |
+
+**CRITICAL TEST:** 50A has known letters A at position 10 and R at position 13 (from placed entries ABASH and ROTUNDA). In the AROUNDWORLD theory, DAKAR at positions 9-13 of 50A produces D,[A],K,A,[R] — matching BOTH known letters perfectly. NO single MELANESIANS location can match both positions simultaneously.
+
+**Verdict:** AROUNDWORLD remains the stronger theory. MELANESIANS is a valid alternative worth noting, but lacks thematic connection and fails the 50A letter test.
+
+### Other Alternatives Tested
 - **CIRCLEABOUT**: Fails at rows 5, 8, 11 (no location with required letters)
 - **CHANGELIVES**: Fails at rows 2, 5, 9
 - **MRBEASTLAND**: Possible but less thematic (row 6=OSLO only option for S, row 8=ELY only option for L)

@@ -134,6 +134,18 @@ A-PYRAMID:        E-PYRAMID:        I-PYRAMID:        O-PYRAMID:
 * = Answer (no clue), all others have clues = crossword entries
 ```
 
+### HINT #1 (GMA, Feb 9/10) ✅
+"Look for some numbers in photos that I took at the Super Bowl"
+- MrBeast posted Instagram photos from Super Bowl LX at Levi's Stadium (Feb 8, 2026)
+- Photos with: Rosé (BLACKPINK), IShowSpeed, Kim Kardashian, Ludacris, Alexandra Cooper, Brian Baumgartner, PlaqueBoyMax
+- Look for visible numbers (seat numbers, jersey numbers, signage, etc.) in these photos
+- Numbers likely encode crossword entry numbers or grid coordinates
+
+### HINT #2 STATUS (Feb 10, 2026)
+- NOT YET RELEASED as of our last check
+- Promised: "Tomorrow we'll drop another clue" (written Feb 9)
+- May appear on mrbeast.salesforce.com, MrBeast social media, or Lone Shark Games Discord
+
 ### KEY NUMBERS ✅
 - 020826 = Super Bowl date (Feb 8, 2026) on combination lock
 - Jersey numbers from ad: 597, 482, 374, 990, 723, 240, 478, 531, 109, 237, 453, 499, 930
@@ -158,13 +170,20 @@ A-PYRAMID:        E-PYRAMID:        I-PYRAMID:        O-PYRAMID:
 - BTS photo shows one orientation; video shows reversed
 - See BELT_ANALYSIS.md for full breakdown
 
-### Staircase Grid — AROUNDWORLD THEORY (STRONG)
+### Staircase Grid — AROUNDWORLD THEORY (STRONG) vs MELANESIANS (WEAKER)
 - 11 rows, CONFIRMED: word lengths 4,6,5,5,4,4,5,3,5,5,4
 - **Cell sharing is IMPOSSIBLE** for location names (0 compatible pairs at R6-R7, R7-R8, R8-R9, R10-R11)
 - Rows are INDEPENDENT; column 4 (the "spine") spells an 11-letter message
 - **Column 4 spine = AROUNDWORLD** (directly from sentence: "SOMEWHERE AROUND WORLD")
 - Best fit: MALI, TEHRAN, LAGOS, SUDAN/DUBAI, OMAN, ADEN, WALES/WUHAN, GOA/JOS, NIGER/DAKAR, DELHI, CHAD
 - Most are MrBeast philanthropy locations
+- **MELANESIANS alternative** (community suggestion): OMAN, GREECE, ITALY, JAPAN, IRAN, PERU, SPAIN, CIV, GHANA, KENYA, LAOS → column 4 = MELANESIANS
+  - Lengths all match, BUT:
+  - CIV is an ISO code not a country name
+  - No thematic MrBeast connection (only 3/11 philanthropy countries)
+  - FAILS 50A letter test: no location matches both pos10=A and pos13=R (DAKAR does for AROUNDWORLD)
+  - "Melanesians" has no obvious puzzle relevance
+- AROUNDWORLD remains primary theory
 - Need to verify these are actually hidden in crossword theme entries
 
 ### Four World Clocks — Unsolved
