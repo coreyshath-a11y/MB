@@ -74,14 +74,67 @@ Column 4 is used by ALL 11 rows AND passes through all adjacent pairs without a 
 
 ## Solver Results
 
-### With Location Names Only: 0 solutions
-The R1-R2-R3 chain is extremely tight: R2 (6 letters) must contain ALL of R1 as its last 4 letters AND ALL of R3 as its first 5 letters. No combination of known geographic names satisfies this.
+### CRITICAL FINDING: Cell-Sharing Constraint is IMPOSSIBLE for Location Names
 
-### With Full English Dictionary: 589 valid R1-R2-R3 chains
-Proves the constraint model is CORRECT. The issue is just finding the right location names.
+Testing ALL pairs of adjacent rows with comprehensive location databases:
+- **R6-R7**: ZERO compatible pairs (need 4-letter word's last 3 chars = 5-letter word's first 3 chars)
+- **R7-R8**: ZERO compatible pairs
+- **R8-R9**: ZERO compatible pairs
+- **R10-R11**: ZERO compatible pairs
 
-### Geographic Chains Found
-Chains where R2 is a 6-letter location name containing a 4-letter location as its last 4 letters:
+**Conclusion: The staircase rows are INDEPENDENT (no cell sharing).** Each row is a separate word. The staircase shape creates visual "columns" where you can read letters downward.
+
+### MAJOR BREAKTHROUGH: Column 4 Spine = "AROUNDWORLD"
+
+Column 4 passes through ALL 11 rows. If rows are independent, reading column 4 top-to-bottom gives an 11-letter message. The letter from each row comes from:
+
+| Row | Length | Col4 at | Target Letter |
+|-----|--------|---------|---------------|
+| 1 | 4 | word[1] | **A** |
+| 2 | 6 | word[3] | **R** |
+| 3 | 5 | word[3] | **O** |
+| 4 | 5 | word[1] | **U** |
+| 5 | 4 | word[3] | **N** |
+| 6 | 4 | word[1] | **D** |
+| 7 | 5 | word[0] | **W** |
+| 8 | 3 | word[1] | **O** |
+| 9 | 5 | word[4] | **R** |
+| 10 | 5 | word[2] | **L** |
+| 11 | 4 | word[3] | **D** |
+
+**AROUNDWORLD** directly echoes the 9-word sentence: "EVERY CHALLENGE LEADS TOWARDS LOCATION NAME SOMEWHERE **AROUND WORLD**"
+
+### Best Location Set (Score 25, MrBeast-relevant)
+```
+Row  1: M[A]LI       ★★★ (Africa - wells)
+Row  2: TEH[R]AN     ★★  (Iran)
+Row  3: LAG[O]S      ★★★ (Nigeria)
+Row  4: S[U]DAN      ★★★ (Africa - philanthropy)
+  alt: D[U]BAI       ★★★ (Beastland)
+Row  5: OMA[N]       ★★  (Middle East)
+Row  6: A[D]EN       ★   (Yemen)
+Row  7: [W]ALES      ★   (UK region)
+  alt: [W]UHAN       ★   (China)
+Row  8: G[O]A        ★   (India)
+  alt: J[O]S         ★   (Nigeria)
+  alt: Q[O]M         ★   (Iran)
+Row  9: NIGE[R]      ★★★ (Africa)
+  alt: DAKA[R]       ★★★ (Senegal)
+Row 10: DE[L]HI      ★★★ (India)
+Row 11: CHA[D]       ★★★ (Africa)
+```
+
+### Alternatives Tested
+- **CIRCLEABOUT**: Fails at rows 5, 8, 11 (no location with required letters)
+- **CHANGELIVES**: Fails at rows 2, 5, 9
+- **MRBEASTLAND**: Possible but less thematic (row 6=OSLO only option for S, row 8=ELY only option for L)
+
+### Previous Findings (With Cell-Sharing Model)
+
+With cell-sharing model and location names only: 0 solutions.
+With full English dictionary: 589 valid R1-R2-R3 chains (proves sharing model works for general words).
+
+Geographic chains found with sharing:
 | R1 | R2 | R3 | Notes |
 |----|----|----|-------|
 | MALI | **SOMALI** | SOMAL | SOMALI contains MALI |
@@ -89,13 +142,8 @@ Chains where R2 is a 6-letter location name containing a 4-letter location as it
 | PALI | **NEPALI** | NEPAL | NEPALI contains NEPAL (R3) |
 | MOAN | **SAMOAN** | SAMOA | SAMOAN contains SAMOA (R3) |
 | EDEN | **SWEDEN** | SWEDE | SWEDEN contains EDEN |
-| ROME | STROME | STROM | Strome is a Scottish village |
-| SCAT | **MUSCAT** | MUSCA | MUSCAT contains... |
-| APIA | OKAPIA | OKAPI | OKAPIA isn't standard |
-| GERS | **ANGERS** | ANGER | Angers (France), Gers (France) |
 
-### Implication
-The 11 location names likely include demonym-like geographic terms (SOMALI, INDIAN, NEPALI, SAMOAN, etc.) as well as standard place names. These ARE found hidden in English words/phrases that could be theme entry answers.
+Note: These chains are only relevant if cells ARE shared, which appears not to be the case.
 
 ## 11 Calendar Dates (Possible Connection)
 From the Super Bowl ad video, 11 circled dates on a calendar:
@@ -127,11 +175,25 @@ The 11 hidden location names likely represent places where MrBeast did significa
 - WORLDRECORDVIDEO (16)
 - GLOBALPHILANTHRO (16)
 
+## "Stars Stacked" Theory
+Community observation: "stars stacked" refers to stars marking capital cities on maps, "stacked" like the staircase. The 11 rows are location names (cities/countries/regions) arranged to spell AROUNDWORLD down column 4.
+
+## MrBeast Philanthropy Locations (Research)
+Countries impacted by Beast Philanthropy:
+- **Africa**: Cameroon, Uganda, Kenya, Somalia, Zimbabwe, Malawi, Mozambique, Nigeria, Rwanda, Mali, Chad, Niger, Sudan
+- **Americas**: USA (North Carolina), Colombia, Brazil
+- **Asia**: Bangladesh, Cambodia, India (Delhi), Philippines
+- **Middle East**: UAE (Dubai), Saudi Arabia (Riyadh)
+- **Europe**: Ukraine
+
+Key MrBeast-connected locations in our staircase: MALI, LAGOS, SUDAN, DUBAI, NIGER/DAKAR, DELHI, CHAD, OMAN, GOA
+
 ## Next Steps
 - [x] EXACT cell count per row (CONFIRMED: 4,6,5,5,4,4,5,3,5,5,4)
 - [x] Column alignment mapping (CONFIRMED: 9 columns, 0-8)
-- [x] Constraint model (FIXED: adjacent-only, not all-pairs)
-- [ ] Full staircase solve with expanded word list (RUNNING)
+- [x] Constraint model (TESTED: adjacent-only impossible for locations → independent rows)
+- [x] Column 4 spine = AROUNDWORLD (STRONG THEORY)
+- [ ] Determine exact 11 locations from crossword theme entries
 - [ ] Match calendar dates to MrBeast events at specific locations
-- [ ] Fill crossword theme entries to find hidden location names
-- [ ] Determine 167A answer
+- [ ] Verify locations are hidden in theme entries
+- [ ] Determine 167A answer (connects to staircase)

@@ -158,11 +158,14 @@ A-PYRAMID:        E-PYRAMID:        I-PYRAMID:        O-PYRAMID:
 - BTS photo shows one orientation; video shows reversed
 - See BELT_ANALYSIS.md for full breakdown
 
-### Staircase Grid — Not yet digitized
-- 11 rows of interlocking grey cells
-- Represents the 11 hidden location words
-- Rows share columns where words share letters
-- Need precise cell counts per row to determine word lengths
+### Staircase Grid — AROUNDWORLD THEORY (STRONG)
+- 11 rows, CONFIRMED: word lengths 4,6,5,5,4,4,5,3,5,5,4
+- **Cell sharing is IMPOSSIBLE** for location names (0 compatible pairs at R6-R7, R7-R8, R8-R9, R10-R11)
+- Rows are INDEPENDENT; column 4 (the "spine") spells an 11-letter message
+- **Column 4 spine = AROUNDWORLD** (directly from sentence: "SOMEWHERE AROUND WORLD")
+- Best fit: MALI, TEHRAN, LAGOS, SUDAN/DUBAI, OMAN, ADEN, WALES/WUHAN, GOA/JOS, NIGER/DAKAR, DELHI, CHAD
+- Most are MrBeast philanthropy locations
+- Need to verify these are actually hidden in crossword theme entries
 
 ### Four World Clocks — Unsolved
 - Tokyo, London, Chicago, New York — all show "3 something"
@@ -177,9 +180,12 @@ A-PYRAMID:        E-PYRAMID:        I-PYRAMID:        O-PYRAMID:
 - All-red cube appears multiple times
 - Significance unknown
 
-### Calendar Dates (Mrs. Maybelle) — Unsolved
-- Pattern: Jan 1, Feb 2, Mar 1, Mar 3 → sequence 1, 2, 1, 3
-- Could be an index or code
+### Calendar Dates (Mrs. Maybelle) — Partially Analyzed
+- Full set: Jan 1, Feb 2, Mar 1, Mar 3, Jun 1, Jul 1, Aug 1, Aug 6, Sep 1, Nov 5, Dec 7
+- 11 dates = 11 staircase locations (1:1 correspondence likely)
+- Day-th letter of month encoding: JEMRJJATSME (not meaningful as-is)
+- Could be dates of MrBeast philanthropic events at those 11 locations
+- Entry number encoding (month×10+day): 11,22,31,33,61,71,81,86,91,115,127 (all valid entry numbers!)
 
 ---
 
