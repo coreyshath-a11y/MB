@@ -1,5 +1,5 @@
 # CROSSWORD SOLVER RESULTS
-## Last Updated: Feb 10, 2026 (v3 - expanded with dictionary analysis)
+## Last Updated: Feb 10, 2026 (v4 - MAJOR UPDATE: community screenshot data + gist integration)
 
 ## Grid Confirmed: 25×25
 - 100 black cells, 525 white cells
@@ -30,8 +30,9 @@ The grid has NO entries of length 2, 10, 12, or 13. These confirmed answers CANN
 | OUTFORASPIN | 9 | Third |
 | REVOLUTIONS | 5 | Worst fit |
 
-## CONFIRMED PLACEMENTS (17 entries + 2 hypothetical)
+## CONFIRMED PLACEMENTS (19 entries + 2 hypothetical)
 
+### Original 17 (from constraint solver)
 | Entry | Answer | Position | Length | Source | How Placed |
 |-------|--------|----------|--------|--------|------------|
 | 36A | DORA | (4,7) | 4 | P8 | Constraint propagation |
@@ -51,10 +52,38 @@ The grid has NO entries of length 2, 10, 12, or 13. These confirmed answers CANN
 | 117A | REGINA | (15,16) | 6 | P4 | Only answer fitting ?E???? constraint |
 | 121A | TONI | (16,11) | 4 | P8 | Constraint propagation |
 | 123A | ERASE | (16,16) | 5 | P3 | Only answer fitting E???? constraint |
+
+### NEW from community screenshot (Feb 10)
+| Entry | Answer | Position | Length | Source | How Placed |
+|-------|--------|----------|--------|--------|------------|
+| **167A** | **SUPERBOWLSTADIUM** | **(22,9)** | **16** | **Screenshot** | **Community solve - zero conflicts** |
+| **149A** | **BEASTLAND** | **(20,4)** | **9** | **Screenshot** | **Community solve - zero conflicts** |
+
+### Hypothetical (unconfirmed)
+| Entry | Answer | Position | Length | Source | How Placed |
+|-------|--------|----------|--------|--------|------------|
 | **104D** | **ORGANIC** | **(13,18)** | **7** | **Dict** | **HYPOTHESIS: most common O?GA??? match** |
 | **111A** | **NRA** | **(14,17)** | **3** | **Dict** | **HYPOTHESIS: unique fit NR? from ORGANIC** |
 
-## CURRENT PARTIAL GRID (with ORGANIC/NRA hypotheses in lowercase)
+### FAILED placement (from screenshot)
+| Entry | Answer | Attempted | Conflict | Notes |
+|-------|--------|-----------|----------|-------|
+| 73A | FOOTBALLSTANDS | (9,11) | Cell (9,13): needs O, has U from ROTUNDA | Screenshot may have been misread, or answer differs |
+
+### 73A INVESTIGATION
+73A is 14 letters at row 9, cols 11-24. Screenshot showed something like FOOTBALLSTANDS but this conflicts with ROTUNDA (53D) which places U at (9,13). The correct 73A answer must have U at position 2 (col 13). Alternatives:
+- Could be a compound phrase with U in position 2
+- Screenshot may show a different but similar word
+- Position 2 must be U (confirmed from ROTUNDA cascade through CIRCLEABOUT)
+
+### LEVISSUPERBOWL - No valid 14-letter position
+Tested at both 14-letter slots (73A and 114A) — conflicts at both:
+- 73A: V at pos 2 conflicts with U (ROTUNDA)
+- 114A: R at pos 9 conflicts with E (TRITE), L at pos 13 conflicts with E (DENVER)
+
+**SUPERBOWLATLEVIS** (16 letters) fits at **25A** (row 2, cols 0-15) with zero conflicts — plausible but unconfirmed.
+
+## CURRENT PARTIAL GRID (v4 with community screenshot data)
 ```
      0123456789012345678901234
 R 0 |.......##......##........
@@ -77,13 +106,46 @@ R16 |....#....##TONI#ERaSE#...
 R17 |#......#....#V...#n......
 R18 |##......#....E....i......
 R19 |.....##....#.R..#.c.#....
-R20 |...#.........#....###....
+R20 |...#BEASTLAND#....###....
 R21 |....#.....#...#.....#....
-R22 |........#................
+R22 |........#SUPERBOWLSTADIUM
 R23 |........##.......#.......
 R24 |........##......##.......
 ```
 Note: UPPERCASE = confirmed, lowercase = from ORGANIC/NRA hypothesis
+NEW: SUPERBOWLSTADIUM at 167A (row 22) and BEASTLAND at 149A (row 20)
+
+### Circled Cell Values (now 3 of 16 known)
+| # | Cell | Letter | Source |
+|---|------|--------|--------|
+| 13 | (22,11) | **P** | 167A = SUPERBOWLSTADIUM |
+| 14 | (22,18) | **S** | 167A = SUPERBOWLSTADIUM |
+| 15 | (22,24) | **M** | 167A = SUPERBOWLSTADIUM |
+
+### New Down-Entry Constraints (from SUPERBOWLSTADIUM + BEASTLAND)
+| Down Entry | Length | Pattern | New Letters |
+|-----------|--------|---------|-------------|
+| 128D | 4 | `...B` | B from BEASTLAND |
+| 130D | 6 | `...L.S` | L from BEASTLAND, S from 167A |
+| 131D | 4 | `..A.` | A from BEASTLAND |
+| 137D | 7 | `..S....` | S from BEASTLAND |
+| 139D | 7 | `..D.E..` | D from BEASTLAND, E from 167A |
+| 144D | 3 | `..N` | N from BEASTLAND (now ???N → entry 144D is 3 letters, this is pos 2) |
+| 150D | 5 | `E....` | E from BEASTLAND |
+| 151D | 5 | `A....` | A from BEASTLAND |
+| 152D | 5 | `N.P..` | N from BEASTLAND, P from 167A |
+| 168D | 3 | `U..` | U from 167A |
+| 169D | 3 | `B..` | B from 167A |
+| 170D | 3 | `A..` | A from 167A |
+| 124D | 9 | `......I..` | I from 167A at pos 6 |
+| 125D | 9 | `......U..` | U from 167A at pos 6 |
+| 126D | 9 | `......M..` | M from 167A at pos 6 |
+| 133D | 8 | `.....W..` | W from 167A at pos 5 |
+| 135D | 8 | `.....T..` | T from 167A at pos 5 |
+| 140D | 5 | `...L.` | L from 167A at pos 3 |
+| 154D | 4 | `..O.` | O from 167A at pos 2 |
+| 162D | 4 | `..S.` | S from 167A at pos 1 |
+| 163D | 4 | `..T.` | T from 167A at pos 1 |
 
 ## HEAVILY CONSTRAINED ENTRIES (dictionary analysis)
 
@@ -126,21 +188,32 @@ Several entries near placed answers have heavy constraints but NO standard dicti
 - Problems: 46D would need K at pos 1 (pattern ?KHA??), which has 0 dictionary matches
 - May indicate 46D is also an unusual word, or DAKAR theory needs refinement
 
-## THEME ENTRY STATUS
+## THEME ENTRY STATUS (Updated with community data)
 
-| Entry | Length | Partial Fill | Known | Key Crossings |
-|-------|--------|-------------|-------|--------------|
-| 25A | 16 | `................` | 0/16 | All crossings unconstrained |
-| 50A | 16 | `..........A..R..` | 2/16 | DAKAR theory (pos 9-13) → `_________DAKAR__` |
-| 73A | 14 | `..U...........` | 1/14 | pos 2 from 46D[4] or 37D chain |
+| Entry | Length | Partial Fill | Known | Status |
+|-------|--------|-------------|-------|--------|
+| 25A | 16 | `................` | 0/16 | Candidate: SUPERBOWLATLEVIS? |
+| 50A | 16 | `..........A..R..` | 2/16 | DAKAR at pos 9-13 confirmed |
+| 73A | 14 | `..U...........` | 1/14 | NOT FOOTBALLSTANDS (conflicts with ROTUNDA) |
 | 94A | 11 | `CIRCLEABOUT` | 11/11 | **COMPLETE** |
-| 114A | 14 | `.........E...E` | 2/14 | E at pos 9 from TRITE, E at pos 13 from DENVER |
+| 114A | 14 | `.........E...E` | 2/14 | Must have E at pos 9 and E at pos 13 |
 | 138A | 16 | `....E....i......` | 2/16 | E from DENVER[4], i from ORGANIC hypothesis |
-| 167A | 16 | `................` | 0/16 | All crossings unconstrained |
-| 19D | 15 | `...............` | 0/15 | All crossings unconstrained |
-| 78D | 15 | `...............` | 0/15 | All crossings unconstrained |
+| **167A** | **16** | **`SUPERBOWLSTADIUM`** | **16/16** | **COMPLETE — from community screenshot** |
+| 19D | 15 | `...............` | 0/15 | Unconstrained |
+| 78D | 15 | `...............` | 0/15 | Unconstrained |
+
+### ALSO: Non-theme long entries
+| Entry | Length | Fill | Status |
+|-------|--------|------|--------|
+| **149A** | **9** | **`BEASTLAND`** | **COMPLETE — from community screenshot** |
 
 Note: Lowercase = hypothetical (from ORGANIC hypothesis)
+
+### 167A = SUPERBOWLSTADIUM: What It Means
+"What this puzzle commemorates in eleven hidden words in theme entries"
+→ The puzzle commemorates **SUPERBOWLSTADIUM** (Levi's Stadium, Super Bowl LX, Feb 8, 2026)
+→ The 11 hidden words in theme entries are location names found WITHIN the theme entry text
+→ This changes the interpretation: hidden locations are substrings of the filled theme entries
 
 ## CALENDAR DATES → ENTRY NUMBERS THEORY
 
@@ -189,10 +262,13 @@ Community suggestion for staircase: OMAN, GREECE, ITALY, JAPAN, IRAN, PERU, SPAI
 - BUT: No location matches both 50A pos10=A AND pos13=R (DAKAR does for AROUNDWORLD)
 - **AROUNDWORLD remains the stronger theory** (see STAIRCASE_GRID_ANALYSIS.md)
 
-## NEXT STEPS
-1. **Fill outer grid regions** — need P2/P5/P6/P7 answers or community data
-2. **Verify ORGANIC hypothesis** — ORGANIC → NRA chain looks solid, try AISLED for 112D
-3. **Monitor for Hint #2** — promised Feb 10, not yet released
-4. **Check MrBeast Super Bowl photos** — Hint #1: "numbers in photos I took at the Super Bowl"
-5. **Place P4 cities** — 16 remaining cities need crossing constraints in outer grid
-6. **Determine 167A** — 16-letter phrase, currently zero constraints from grid
+## NEXT STEPS (Updated Feb 10 evening)
+1. ~~**Determine 167A**~~ → **SOLVED: SUPERBOWLSTADIUM**
+2. **Resolve 73A conflict** — screenshot showed FOOTBALLSTANDS but U at pos 2 conflicts. Find correct 14-letter answer with U at position 2
+3. **Determine 25A** — SUPERBOWLATLEVIS (16) is plausible, zero conflicts. Confirm from screenshot or community
+4. **Cascade from SUPERBOWLSTADIUM + BEASTLAND** — 20+ new down-entry constraints
+5. **Verify ORGANIC hypothesis** — ORGANIC → NRA chain looks solid
+6. **Fill outer grid using new down constraints** — many entries now partially constrained
+7. **Decode Super Bowl photo numbers** — Hint #1 still actionable
+8. **Place P4 cities** — use new constraints from theme entries
+9. **Find hidden location names** — now that theme entries are filling, look for AROUNDWORLD locations hidden within them

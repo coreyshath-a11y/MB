@@ -141,6 +141,25 @@ A-PYRAMID:        E-PYRAMID:        I-PYRAMID:        O-PYRAMID:
 - Look for visible numbers (seat numbers, jersey numbers, signage, etc.) in these photos
 - Numbers likely encode crossword entry numbers or grid coordinates
 
+### 167A = SUPERBOWLSTADIUM ✅ (NEW — Feb 10)
+- **Status:** CONFIRMED from community crossword screenshot
+- 16 letters at row 22, cols 9-24
+- Zero conflicts with all existing placements
+- Three circled cells now known: (22,11)=P, (22,18)=S, (22,24)=M
+- "What this puzzle commemorates" = Super Bowl Stadium (Levi's Stadium)
+
+### 149A = BEASTLAND ✅ (NEW — Feb 10)
+- **Status:** CONFIRMED from community crossword screenshot
+- 9 letters at row 20, cols 4-12
+- Zero conflicts with all existing placements
+- Creates constraints on 9 crossing down entries
+
+### 73A ≠ FOOTBALLSTANDS (NEW — Feb 10)
+- **Status:** CONFLICT DETECTED
+- FOOTBALLSTANDS (14 letters) conflicts at cell (9,13): needs O but ROTUNDA places U there
+- Screenshot may have been misread, or the actual answer differs
+- 73A must have U at position 2 (col 13, from confirmed ROTUNDA)
+
 ### HINT #2 STATUS (Feb 10, 2026)
 - NOT YET RELEASED as of our last check
 - Promised: "Tomorrow we'll drop another clue" (written Feb 9)
@@ -153,6 +172,26 @@ A-PYRAMID:        E-PYRAMID:        I-PYRAMID:        O-PYRAMID:
 - "Don't say 67" — very suspicious Instagram caption
 - $673 — "the elephant ate $673"
 - Camera code: B002C004, Timecode: 4:11:44:18
+
+### KEY NUMBERS FROM GIST ANALYSIS ✅ (NEW — Feb 10)
+- **3634826-1** = ENDGAME (phone keypad cipher, on tank barrel 15+ frames)
+- **4-8-15-16-23-42** = Lost numbers on vault door (sum=108)
+- **3X771** = Belt code (red-highlighted second 7)
+- **Phone numbers**: 657-283-9800, 650-283-9795, 704-BEAST-23 (704-232-7823)
+- **Vehicle plates**: JP1117, BPE527, BP6327 (many end in 17, 27, 77)
+- **"17 STOP NOW HERE"** = repeated in frames 491 and 540
+- **6601** on tank turret (faint)
+- **7-5-3-1** countdown on weekdays (sum=16)
+- **T7 street marking** → 7th letter of BARCLAY = Y (positional extraction)
+- **Vault ring sequence**: 4-1-8-4-1-3-1-8-4-1-1-3-4-4-4-1-2-1-1-4-4-10-1-1-1-2-4-1-1-1-1-3-1-3-1-1-1-1-8-4-3-1-1-1-1-10 (possible RLE)
+
+### KEY CIPHERS FROM GIST ✅
+- **HIDE** = room layout cipher (8=H, I=Red, D=Green, 5=E)
+- **FIND** = vault door rivets
+- **ENDGAME** = phone keypad 3634826
+- **TOW** = reaction count index cipher (15th,20th,22nd chars of Slack message)
+- **A1Z26** = confirmed fundamental cipher (MrBeast=78)
+- **QR code**: sforce.co/4bAAGMH?r=qr (Salesforce short URL)
 
 ---
 
