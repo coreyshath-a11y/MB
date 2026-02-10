@@ -20,16 +20,14 @@ MrBeast x Salesforce Million Dollar Puzzle contest. User has local Claude Code C
 3. 2e09055 - Transcripts (6-7)
 4. d09285e - Final transcripts (8-9)
 
-### NOT YET PUSHED to GitHub
-- `analysis/TERMS_AND_CONDITIONS_SUMMARY.md` (NEW)
-- `analysis/GEMINI_RESEARCH_KEY_FINDINGS.md` (NEW)
-- `Terms and Conditions.rtf` (raw file)
-- `How @MrBeast Scaled Beast Industries...txt` (raw file)
-- `Million-Dollar-Crossword.pdf` (10th puzzle by Lone Shark Games)
-- Various untracked puzzle image originals in `puzzles/`
-- Various untracked youtube_metadata JSON files
-- 28 screenshots in repo root (combination locks, jerseys, calendars, camera codes, etc.)
-- Screenshots from MrBeast's Instagram (user just added to Desktop)
+### Commit 5 (7c2f3ec) - JUST PUSHED
+- T&C summary, Gemini research findings, crossword PDF
+- Behind-the-scenes transcript, Terms and Conditions RTF
+- 28 Super Bowl ad screenshots → `screenshots/superbowl_ad/`
+- 15 Instagram screenshots → `screenshots/instagram/`
+- Screenshot index with visible numbers documented
+- Remaining puzzle image originals and YouTube metadata JSONs
+- Session state file
 
 ## WHAT NEEDS TO BE DONE NEXT
 1. **Copy Instagram screenshots from ~/Desktop into the repo** (user just said they added them)
