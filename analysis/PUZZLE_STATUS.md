@@ -1,4 +1,4 @@
-# COMPREHENSIVE PUZZLE STATUS - Feb 9, 2026 (Updated with Discord Intel)
+# COMPREHENSIVE PUZZLE STATUS - Feb 10, 2026 (ALL 9 PUZZLES SOLVED)
 
 ## MASTER ARCHITECTURE (CONFIRMED)
 ```
@@ -24,15 +24,12 @@ P5: LOCATION   ✅ SOLVED
 P6: NAME       ✅ SOLVED
 P7: ONE        ✅ SOLVED
 P8: AROUND     ✅ SOLVED (VERIFIED: pyramid letter accumulation proves AROUND, not ABOUT)
-P9: ???        ❌ UNSOLVED (candidates: LIARS? LAIRS? RAILS? TO? THE?)
+P9: WORLD     ✅ SOLVED (extraction → "HOMOPHONE OF WHIRLED" → WORLD)
 ```
 
-**Sentence so far:** `EVERY CHALLENGE LEADS TOWARDS LOCATION NAME ONE AROUND ___`
+**COMPLETE SENTENCE:** `EVERY CHALLENGE LEADS TOWARDS LOCATION NAME ONE AROUND WORLD`
 
-**Possible complete sentences:**
-- "EVERY CHALLENGE LEADS TOWARDS [A] LOCATION — NAME ONE AROUND [THE] WORLD"
-- "EVERY CHALLENGE LEADS TOWARDS [A] LOCATION — NAME ONE AROUND [THE] ___"
-- P9 must complete "...ONE AROUND ___" (WORLD? THE? HERE?)
+**Meaning:** Each MrBeast challenge/video leads towards a real-world location. The crossword's 11 theme entries contain hidden location names — places where MrBeast did challenges around the world.
 
 ## PUZZLE SOLUTIONS (DETAILED)
 
@@ -121,14 +118,15 @@ Note: R2C8 is H not N (font ambiguity)
 - ABOUT is impossible (requires B which never enters the A-pyramid)
 - Answer: **AROUND** (definitively confirmed)
 
-### Puzzle 9: Circle Geometry - UNSOLVED ❌
-- String: ZXPCHAIRSQUORUMSFLAMINGOPUSHCONVEXOFWEHIRPLED
-- Hidden words: CHAIRS, QUORUMS, FLAMINGO, PUSH, CONVEX, OF, WE, HIRPLED
+### Puzzle 9: Circle Geometry - SOLVED ✅ → **WORLD**
+- String: ZIPCHAIRSQUORUMSFLAMINGOPUSHCONVEXOFWEHIRPLED (note: ZIP not ZXP)
+- Hidden words: ZIP, CHAIRS, QUORUMS, FLAMINGO, PUSH, CONVEX, OF, WE, HIRPLED
 - Geodesic spheres with colored triangles = extraction positions
-- Community candidates: LIARS, LAIRS, RAILS, TO
-- People guessed "TO" to fit the sentence pattern
-- Flamingos reference: YT video where someone pushes back their chair
-- "This is the only one that hasn't been solved yet" (as of 2:10 PM)
+- Triangle counts give positions: [5,12,20,24,25,28,30,31,33,35,36,37,39,40,41,43,44,45]
+- Extracted letters: HOMOPHONEOFWHIRLED = "HOMOPHONE OF WHIRLED"
+- WHIRLED → WORLD (homophone!)
+- Answer: **WORLD**
+- Credit: palasonic99 in Discord
 
 ### Million Dollar Crossword - ENDGAME
 - By Mike Selinker / Lone Shark Games
@@ -196,6 +194,21 @@ Plus bird icons and ear icon
 - "85673" on phone keypad = "ULOSE" — possibly troll/red herring account
 - Elephant = from ad ("the elephant ate $673"), elephant "has a name"
 - WARNING: Could be fan-made red herring, not official
+- **NEW POST (Feb 10):** Reverse-alphabet cipher (A=26, Z=1):
+  13-12 / 9-22-26-15 / 11-9-12-20-9-22-8-8 / 19-26-8 / 25-22-22-13 / 14-26-23-22 / 7-12 / 26-23-5-26-13-24-22 / 9-22-5-22-9-8-22 / 2-12-6-9 / 8-7-22-11-8
+  **Decoded: "NO REAL PROGRESS HAS BEEN MADE TO ADVANCE REVERSE YOUR STEPS"**
+  Interpretation: "To advance, reverse your steps" — go back, look at things backwards
+  May relate to backwards license plate or reversing approach
+
+### New Video Clues (Feb 10 Community)
+- **Red Rubik's cube** — all red, keeps appearing. Theory: n²=n³? Red³?
+- **Clocks with different cities/times** — cities+times could be clue coordinates
+- **Pennies in a scene** — "jar of Lincolns" / "jar of copper" — could be counting or Lincoln reference
+- **Numbers 001400 and 012800** — someone noted bottom could be a date (center = Super Bowl date)
+- **Filming location:** 400 Main St #102, Los Angeles, CA 90013 (Suehiro DTLA)
+- **Barcode on tank** behind meter maid — CarterB says distances too far for barcode, triangles don't belong
+- **Crosswalk in front of bank** — nullPointer says this has CGI and needs solving
+- **Lone Shark puzzle book** — nick found https://www.lonesharkgames.com/maze/puzzles.html same as crossword
 
 ## NUMBERS FROM INSTAGRAM SUPER BOWL PHOTOS
 MrBeast GMA hint: "look for some numbers in photos that I took at the Super Bowl"
@@ -238,12 +251,15 @@ MrBeast GMA hint: "look for some numbers in photos that I took at the Super Bowl
 - Crossword PDF: https://lonesharkgames.com/wp-content/uploads/2026/02/Million-Dollar-Crossword.pdf
 - Lone Shark socials: facebook.com/lonesharkgames, instagram.com/lonesharkgames, threads.com/@lonesharkgames, bsky.app/profile/lonesharkgames.bsky.social
 
-## PRIORITY NEXT STEPS
-1. **Solve Puzzle 9** (Circle Geometry) - last unsolved variety puzzle! Best guess: WORLD
-2. **Investigate "DOMAIN ID"** from birds puzzle — hidden website to visit?
-3. **Map "CONTRADICTION" (13 letters)** to crossword — theme entry candidate!
-4. **Decode "6 FEET DOWN BY THE CROSS"** — crossword instruction or location?
-5. **Wait for 24hr hint** (~6pm ET Feb 10) — expected to unlock major progress
-6. **Fill crossword** with 71+ confirmed answers matched by entry length
-7. **Investigate influencer puzzles** and "find puzzle maker" number sequence
-8. **Find the hidden domain/website** (license plate IP + DOMAIN ID)
+## PRIORITY NEXT STEPS (Updated Feb 10)
+1. ~~Solve Puzzle 9~~ ✅ DONE → WORLD
+2. **FILL THE CROSSWORD** — Match 71+ known answers to grid entry lengths, use constraint propagation
+3. **Find the backwards license plate** — Gives domain/IP address (key to hidden website)
+4. **Investigate "DOMAIN ID"** from birds puzzle — hidden website with more clues?
+5. **Map "CONTRADICTION" (13 letters)** to crossword — theme entry candidate!
+6. **Decode "6 FEET DOWN BY THE CROSS"** — crossword instruction? "6 down by the cross(word)" = entry 6 Down?
+7. **Find 11 hidden location names** in crossword theme entries (MrBeast challenge locations around the world)
+8. **Wait for 24hr hint** (~6pm ET Feb 10) — expected to unlock major progress
+9. **Decode clocks with cities/times** — may give coordinates or letter extractions
+10. **Investigate pennies scene** — counting exercise or Lincoln reference
+11. **Twitter elephant says "REVERSE YOUR STEPS"** — key meta-clue, something needs reversing

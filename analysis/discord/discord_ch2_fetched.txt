@@ -1,0 +1,49 @@
+  [ATTACHMENT: image.png - https://cdn.discordapp.com/attachments/1470565999022575699/1470566100948221984/image.png?ex=698bc2e8&is=698a7168&hm=04c83366e7ee1264f64d5ae0cf9718d4198d14f4e50620a34ca46649ca303e56&]
+[2026-02-09T23:45:21] palasonic99: if the idea is we need to find 175 crosswords hints thats kinda cooked
+[2026-02-09T23:45:30] Payback: i doubt it is
+[2026-02-09T23:47:03] palasonic99: I mean i dont see anyway this is solvable without the hints and the hints are MIA
+[2026-02-09T23:47:53] taviant37: yeah thats cooked
+[2026-02-09T23:48:15] nullPointer: For right now they are not always I’ll bet
+[2026-02-09T23:49:09] palasonic99: drip feed situation?
+[2026-02-09T23:49:51] Payback: i don't see why it would be posted if it wasn't integral to the puzzle. i am a bit confused why it's on what is *technically* a third party site as jimmy/the team have not made it explicitly clear that there is a link to lone shark games
+[2026-02-09T23:50:14] Payback: but it is clear that it is important in some way, otherwise it wouldn't be plastered on the main landing page
+[2026-02-09T23:50:53] palasonic99: it also made a lil cameo in a bts video
+[2026-02-09T23:51:10] Payback: ah ok
+[2026-02-09T23:51:12] Payback: was not aware
+[2026-02-09T23:51:19] rubixion: lone shark is definetly part of it look at this video you can see the crossword with loneshark logo
+  [ATTACHMENT: image.png - https://cdn.discordapp.com/attachments/1470565999022575699/1470567777051087059/image.png?ex=698bc477&is=698a72f7&hm=cf440c00163b24858b1b06cc536f02e4bcd23d07f9f00dac1deacf4520f8c769&]
+[2026-02-09T23:51:19] palasonic99: so ig it makes sense to route ppl to lone shark
+[2026-02-09T23:51:28] Payback: The biggest question here currently is what 167 means
+[2026-02-09T23:51:52] ziot: what's the link to that video
+[2026-02-09T23:51:59] rubixion: https://www.youtube.com/watch?v=FSr5l7URZTc
+[2026-02-09T23:52:11] ziot: ty
+[2026-02-09T23:52:37] palasonic99: my best guess is MRBEASTSUPERBOWL
+[2026-02-09T23:52:43] 0xBoredDev: We need the theme answers for that. Has anyone started filling in those 11 words?
+[2026-02-09T23:53:34] palasonic99: theres 11 hidden words in an unknown number of themed entries that we dont have clues to
+[2026-02-09T23:53:50] taviant37: maybe its complete mnisdirection
+[2026-02-09T23:54:07] Payback: doubt it
+[2026-02-09T23:56:38] 0xBoredDev: I would say find the 11 words get answer to 167 and fill in crossword. The 16 circled letters are the code is my guess.
+[2026-02-09T23:57:15] palasonic99: the 11 words are hidden in the answers of the crossword
+[2026-02-09T23:58:27] palasonic99: need to abstract over this "What this puzzle commemorates"
+[2026-02-10T00:10:21] Jake: where did this clean version originate?
+[2026-02-10T00:13:48] Payback: https://lonesharkgames.com/wp-content/uploads/2026/02/Million-Dollar-Crossword.pdf
+[2026-02-10T00:22:27] Charlotte: is 167 a nod to tyler lucas? player 167 in beast games?
+[2026-02-10T00:23:23] JayoBreesh670: Nah I Dont Think So Truthfully
+[2026-02-10T00:33:41] Payback: does anyone have any idea what a 'theme entry' is
+[2026-02-10T00:34:04] JayoBreesh670: Yea That Threw Me Off Also
+[2026-02-10T00:34:41] palasonic99: themed entry will be one of the answers on the crossword that matches the overarching theme/gimmick of the crossword
+[2026-02-10T00:35:08] Payback: sure, but ho wis that a clue for 167 across
+[2026-02-10T00:35:36] Payback: it's only 16 characters so it can't be 11 words
+[2026-02-10T00:35:46] nick: 11 words 
+THIS MEANS NOTHING I JUST WANTED TO WASTE YOUR TIME LOL
+[2026-02-10T00:35:52] palasonic99: thats the fun part is figuring it out
+[2026-02-10T00:36:03] Payback: i know but that is what i am trying to do here
+[2026-02-10T00:36:22] palasonic99: yeah i mean at this stage idk
+[2026-02-10T00:36:26] palasonic99: were missing something
+[2026-02-10T00:37:12] palasonic99: or we deduce some 16 letter string synonymous with the theme
+[2026-02-10T00:38:14] Handsome Sponge: Couldn’t we just brute force this
+[2026-02-10T00:38:46] Becca: I looked up different ways to solve crosswords without clues but this one either doesn’t fit the pattern of those, or you just brute force it 🥲
+[2026-02-10T00:39:38] palasonic99: 167 is probably bruteforcable, idk how to confirm the right answer and without more clues its impossible to fill out the rest
+[2026-02-10T00:48:06] Payback: all my homies hate mike selinker for making a crossword puzzle with 10% black spaces
+[2026-02-10T00:48:21] Payback: https://tenor.com/view/john-mulaney-new-in-town-what-the-fuck-am-i-supposed-to-do-with-that-gif-18445193
+[2026-02-10T01:01:06] gambittxm: i think it has someting to do with accra ghanna
