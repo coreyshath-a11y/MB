@@ -19,7 +19,7 @@ Per cobybarham: "13 letter solution with no spaces"
 P1: EVERY      ✅ SOLVED
 P2: CHALLENGE  ✅ SOLVED
 P3: LEADS      ✅ SOLVED
-P4: ???        ❌ UNSOLVED (community guesses: TO)
+P4: TOWARDS    ✅ SOLVED (community confirmed)
 P5: LOCATION   ✅ SOLVED
 P6: NAME       ✅ SOLVED
 P7: ONE        ✅ SOLVED
@@ -27,12 +27,12 @@ P8: AROUND     ✅ SOLVED (VERIFIED: pyramid letter accumulation proves AROUND, 
 P9: ???        ❌ UNSOLVED (candidates: LIARS? LAIRS? RAILS? TO? THE?)
 ```
 
-**Sentence so far:** `EVERY CHALLENGE LEADS ___ LOCATION NAME ONE AROUND ___`
+**Sentence so far:** `EVERY CHALLENGE LEADS TOWARDS LOCATION NAME ONE AROUND ___`
 
 **Possible complete sentences:**
-- "EVERY CHALLENGE LEADS TO [A] LOCATION. NAME ONE AROUND [THE/HERE]"
-- If P4=TO, P9=THE: "EVERY CHALLENGE LEADS TO LOCATION NAME ONE AROUND THE"
-- Rearranged: "NAME ONE LOCATION AROUND EVERY CHALLENGE [THAT] LEADS TO ___"
+- "EVERY CHALLENGE LEADS TOWARDS [A] LOCATION — NAME ONE AROUND [THE] WORLD"
+- "EVERY CHALLENGE LEADS TOWARDS [A] LOCATION — NAME ONE AROUND [THE] ___"
+- P9 must complete "...ONE AROUND ___" (WORLD? THE? HERE?)
 
 ## PUZZLE SOLUTIONS (DETAILED)
 
@@ -69,13 +69,13 @@ Note: R2C8 is H not N (font ambiguity)
 - Final clue: "A term for chief roles or metals with symbol Pb"
 - Answer: **LEADS**
 
-### Puzzle 4: $1-$5000 Experiences / Anagram Places - UNSOLVED ❌
+### Puzzle 4: $1-$5000 Experiences / Anagram Places - SOLVED ✅ → **TOWARDS**
 - 21 scrambled place name strips with colored/white letters
 - Key mechanism: letters are "boolean intersections" - colored letters overlaid on white letters
 - White letters hidden inside colored ones need to be extracted
 - Belt from commercial may or may not be a key for color pairing
-- Community actively working on layering/overlapping letter shapes
-- **Strong guess: TO** (to complete sentence "LEADS TO LOCATION")
+- Community confirmed answer: **TOWARDS** (7 letters)
+- Sentence: "EVERY CHALLENGE LEADS TOWARDS [A] LOCATION..."
 
 ### Puzzle 5: Pokemon Stereotypes / Cages - SOLVED ✅ → **LOCATION**
 - 18 Pokédex numbers map to Pokémon names:
@@ -160,6 +160,9 @@ Per community discussion, the main Super Bowl video contains additional embedded
 6. **Morse Code Light** (seconds 16-25 of ad) - "already solved"
 7. **Red-outlined Bills** → denominations correlate to alphabet → **"CASHTENT"**
 8. **Closed caption words** ("seven letter big lodge") → may feed into crossword
+9. **Birds puzzle** → **"DOMAIN ID"** (may point to hidden website/URL)
+10. **YouTube puzzle** → **"CONTRADICTION"** (13 letters — could be crossword theme entry!)
+11. **Buried Alive puzzle** → **"6 FEET DOWN BY THE CROSS"** (directional/location clue — "the cross" = crossword?)
 
 ## ADDITIONAL CLUES FROM DISCORD
 
@@ -236,10 +239,11 @@ MrBeast GMA hint: "look for some numbers in photos that I took at the Super Bowl
 - Lone Shark socials: facebook.com/lonesharkgames, instagram.com/lonesharkgames, threads.com/@lonesharkgames, bsky.app/profile/lonesharkgames.bsky.social
 
 ## PRIORITY NEXT STEPS
-1. **Solve Puzzle 4** (Anagram Places) - most likely answer is TO
-2. **Solve Puzzle 9** (Circle Geometry) - candidates: LIARS, LAIRS, RAILS
-3. **Verify Puzzle 8** - ABOUT vs AROUND
-4. **Analyze main video puzzles** (laser grid, vault rings, monitor room)
-5. **Work on crossword** once all 9 words confirmed
-6. **Check for hint drops** from MrBeast/Salesforce socials
+1. **Solve Puzzle 9** (Circle Geometry) - last unsolved variety puzzle! Best guess: WORLD
+2. **Investigate "DOMAIN ID"** from birds puzzle — hidden website to visit?
+3. **Map "CONTRADICTION" (13 letters)** to crossword — theme entry candidate!
+4. **Decode "6 FEET DOWN BY THE CROSS"** — crossword instruction or location?
+5. **Wait for 24hr hint** (~6pm ET Feb 10) — expected to unlock major progress
+6. **Fill crossword** with 71+ confirmed answers matched by entry length
 7. **Investigate influencer puzzles** and "find puzzle maker" number sequence
+8. **Find the hidden domain/website** (license plate IP + DOMAIN ID)
