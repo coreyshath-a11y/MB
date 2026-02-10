@@ -30,7 +30,7 @@ The grid has NO entries of length 2, 10, 12, or 13. These confirmed answers CANN
 | OUTFORASPIN | 9 | Third |
 | REVOLUTIONS | 5 | Worst fit |
 
-## CONFIRMED PLACEMENTS (17 entries)
+## CONFIRMED PLACEMENTS (17 entries + 2 hypothetical)
 
 | Entry | Answer | Position | Length | Source | How Placed |
 |-------|--------|----------|--------|--------|------------|
@@ -51,8 +51,10 @@ The grid has NO entries of length 2, 10, 12, or 13. These confirmed answers CANN
 | 117A | REGINA | (15,16) | 6 | P4 | Only answer fitting ?E???? constraint |
 | 121A | TONI | (16,11) | 4 | P8 | Constraint propagation |
 | 123A | ERASE | (16,16) | 5 | P3 | Only answer fitting E???? constraint |
+| **104D** | **ORGANIC** | **(13,18)** | **7** | **Dict** | **HYPOTHESIS: most common O?GA??? match** |
+| **111A** | **NRA** | **(14,17)** | **3** | **Dict** | **HYPOTHESIS: unique fit NR? from ORGANIC** |
 
-## CURRENT PARTIAL GRID
+## CURRENT PARTIAL GRID (with ORGANIC/NRA hypotheses in lowercase)
 ```
      0123456789012345678901234
 R 0 |.......##......##........
@@ -68,19 +70,20 @@ R 9 |###......##..U...........
 R10 |#...#...##...N..#....#...
 R11 |.....#..ZT.#ADORN#...#...
 R12 |......#CIRCLEABOUT#......
-R13 |...#...#PINTO#ACHOO#.....
-R14 |...#....#TOLEDO##N..#...#
-R15 |.........E...E##REGINA###
-R16 |....#....##TONI#ERASE#...
-R17 |#......#....#V...#.......
-R18 |##......#....E...........
-R19 |.....##....#.R..#...#....
+R13 |...#...#PINTO#ACHOo#.....
+R14 |...#....#TOLEDO##NrA#...#
+R15 |.........E...E##REGiNA###
+R16 |....#....##TONI#ERaSE#...
+R17 |#......#....#V...#n......
+R18 |##......#....E....i......
+R19 |.....##....#.R..#.c.#....
 R20 |...#.........#....###....
 R21 |....#.....#...#.....#....
 R22 |........#................
 R23 |........##.......#.......
 R24 |........##......##.......
 ```
+Note: UPPERCASE = confirmed, lowercase = from ORGANIC/NRA hypothesis
 
 ## HEAVILY CONSTRAINED ENTRIES (dictionary analysis)
 
@@ -102,16 +105,18 @@ Several entries near placed answers have heavy constraints but NO standard dicti
 2. Some may be proper nouns
 3. Mike Selinker puzzles often use creative fills
 
-## STRONG HYPOTHESIS: 104D = ORGANIC
+## STRONG HYPOTHESIS: 104D = ORGANIC (cascading)
 
 104D pattern: O?GA??? (7 letters, 3 confirmed)
 - Dictionary matches: ORGANAL, ORGANDY, ORGANER, **ORGANIC**, ORGANON, ORGANRY, ORGANUM
 - ORGANIC is the most common crossword word among these
-- Implications if ORGANIC:
-  - 111A = NR? → likely **NRA** (common crossword entry)
-  - 134A starts with **N**
+- **Cascade chain if ORGANIC is correct:**
+  - 111A = NR? → **NRA** (unique fit among known answers) ← PLACED
+  - 112D = AIS??? → likely **AISLED** (only 6-letter word starting AIS)
+  - 134A starts with **N** (7-letter answer beginning N)
   - **138A pos 9 = I** (theme entry constraint!)
-  - 146A pos 1 = C
+  - 146A = ?C? (C at position 1)
+  - 146A[2] = 112D[5] (linked constraint)
 
 ## DAKAR HYPOTHESIS for 50A
 
@@ -126,14 +131,16 @@ Several entries near placed answers have heavy constraints but NO standard dicti
 | Entry | Length | Partial Fill | Known | Key Crossings |
 |-------|--------|-------------|-------|--------------|
 | 25A | 16 | `................` | 0/16 | All crossings unconstrained |
-| 50A | 16 | `..........A..R..` | 2/16 | DAKAR theory (pos 9-13) |
-| 73A | 14 | `..U...........` | 1/14 | pos 0=46D[4], pos 1=67D[1] |
-| 94A | 11 | `CIRCLEABOUT` | 11/11 | COMPLETE |
-| 114A | 14 | `.........E...E` | 2/14 | pos 11=95D[3], pos 12=67D[7] |
-| 138A | 16 | `....E....I......` | 2/16 | I from ORGANIC hypothesis |
+| 50A | 16 | `..........A..R..` | 2/16 | DAKAR theory (pos 9-13) → `_________DAKAR__` |
+| 73A | 14 | `..U...........` | 1/14 | pos 2 from 46D[4] or 37D chain |
+| 94A | 11 | `CIRCLEABOUT` | 11/11 | **COMPLETE** |
+| 114A | 14 | `.........E...E` | 2/14 | E at pos 9 from TRITE, E at pos 13 from DENVER |
+| 138A | 16 | `....E....i......` | 2/16 | E from DENVER[4], i from ORGANIC hypothesis |
 | 167A | 16 | `................` | 0/16 | All crossings unconstrained |
 | 19D | 15 | `...............` | 0/15 | All crossings unconstrained |
 | 78D | 15 | `...............` | 0/15 | All crossings unconstrained |
+
+Note: Lowercase = hypothetical (from ORGANIC hypothesis)
 
 ## CALENDAR DATES → ENTRY NUMBERS THEORY
 
@@ -173,9 +180,19 @@ All 17 placed entries are in rows 4-16 (central band). Theme entries at rows 2, 
 
 At 8-letter and 9-letter, we have MORE answers than slots. This means some confirmed answers serve a different purpose (clue words? meta-puzzle inputs?) or some are wrong.
 
+## MELANESIANS THEORY (Community Alternative — WEAKER)
+
+Community suggestion for staircase: OMAN, GREECE, ITALY, JAPAN, IRAN, PERU, SPAIN, CIV, GHANA, KENYA, LAOS → column 4 = MELANESIANS.
+- All lengths match the staircase
+- BUT: CIV is an ISO code not a country name
+- BUT: Only 3/11 are MrBeast philanthropy countries
+- BUT: No location matches both 50A pos10=A AND pos13=R (DAKAR does for AROUNDWORLD)
+- **AROUNDWORLD remains the stronger theory** (see STAIRCASE_GRID_ANALYSIS.md)
+
 ## NEXT STEPS
 1. **Fill outer grid regions** — need P2/P5/P6/P7 answers or community data
-2. **Verify ORGANIC hypothesis** — if 104D = ORGANIC, cascades to 138A
-3. **Test calendar → entry number theory** — determine how these 11 entries connect to staircase
-4. **Monitor community hints** — Hint #2 expected around Feb 10
+2. **Verify ORGANIC hypothesis** — ORGANIC → NRA chain looks solid, try AISLED for 112D
+3. **Monitor for Hint #2** — promised Feb 10, not yet released
+4. **Check MrBeast Super Bowl photos** — Hint #1: "numbers in photos I took at the Super Bowl"
 5. **Place P4 cities** — 16 remaining cities need crossing constraints in outer grid
+6. **Determine 167A** — 16-letter phrase, currently zero constraints from grid
