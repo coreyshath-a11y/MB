@@ -95,9 +95,45 @@
 | 11 | 3 | OUTFORASPIN, CIRCLEABOUT, REVOLUTIONS |
 | 13 | 1 | INTRODUCTIONS |
 
-**Total confirmed answers: 53 (out of 176 needed)**
-**Expected from P8 missing entries: ~9 more**
-**Need from Puzzles 1, 2, 4, 5, 6, 7, 9 + video puzzles: ~114 more**
+## FROM PUZZLE 1: "I Built 100 Wells in Africa" (13 entries)
+
+All answers contain H2O (H + two O's embedded):
+
+| # | Clue | Answer (probable) | Length |
+|---|------|-------------------|--------|
+| 1 | A cold noise? | ACHOO | 5 |
+| 2 | A natural disaster | TYPHOON | 7 |
+| 3 | MrBeast went to one in Greenville, NC | SCHOOL | 6 |
+| 4 | Deceive | HOODWINK | 8 |
+| 5 | "Rats!" (2 wds.) | OH SHOOT | 7 |
+| 6 | A certain Midwesterner | OHIOAN | 6 |
+| 7 | A child's toy (2 wds., Hyph.) | HULA-HOOP | 8 |
+| 8 | Upset | HOOHAH? / VOODOO? | ? |
+| 9 | An item you can buy in MrBeast's store | HOODIE | 6 |
+| 10 | A US landmark (2 wds.) | HOOVERDAM | 9 |
+| 11 | A type of boat | DHOW | 4 |
+| 12 | A literary outlaw (2 wds.) | ROBINHOOD | 9 |
+| 13 | What you might say when you finish this! | WAHOO / YAHOO | 5 |
+
+NOTE: Some answers uncertain. Need to verify against grid letter positions.
+
+## GRAND TOTAL
+
+| Source | Confirmed Entries | Notes |
+|--------|------------------|-------|
+| Puzzle 1 (Wells) | ~13 | H2O word clues |
+| Puzzle 2 (Sudoku) | 0 | No obvious crossword clue generation |
+| Puzzle 3 (Beach) | 19 | "After cleanup" definitions - DEFINITE |
+| Puzzle 4 (Experiences) | 0 | UNSOLVED |
+| Puzzle 5 (Pokemon) | TBD | Cage grid may have additional words |
+| Puzzle 6 (Tents) | ~6? | Tent sums → clue phrases (fragments) |
+| Puzzle 7 (Dogs) | ~1? | One long encoded string |
+| Puzzle 8 (Pyramids) | ~39 | 4 pyramid sets, minus 2-letter words |
+| Puzzle 9 (Circle) | 0 | UNSOLVED |
+| Main video puzzles | ??? | Vault door, lasers, monitor, clocks, etc. |
+| **TOTAL CONFIRMED** | **~71** | **Out of 176 needed** |
+
+**Gap: ~105 entries still needed.** Likely from main video puzzles + future hint drops.
 
 ## LIKELY THEME ENTRIES (longest answers, may contain hidden words)
 
