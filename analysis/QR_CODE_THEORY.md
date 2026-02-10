@@ -49,8 +49,50 @@ The answers themselves, when read in some order, spell out data that can be enco
 ### Theory D: Staircase Grid Is QR-Related
 The staircase grid (bottom-right) might be a QR fragment or decoder for the main grid.
 
-## Status: INTERESTING BUT UNCONFIRMED
-The 21x21 size match is notable but the grid structure appears to contradict standard QR code patterns. Worth keeping in mind as we fill in the grid.
+## TESTED: Black Cells Do NOT Form QR Code ❌
+
+Programmatic analysis confirms the crossword black cells do NOT form a QR code:
+
+```
+Extracted black cell pattern:
+R01: ░░░░░░██░░░░░█░░░░░░░
+R02: ░░░░░░█░░░░░░█░░░░░░░
+R03: ░░░░░░░░░░░░░█░░░░░░░
+R04: ░░░███░░░█░░░░░░░░░░░
+R05: ░░░█░░░█░░░█░░░██░░░░
+R06: ░░░░░░░░░░░░░█░░░░░██
+R07: ░░░░░░░░░░░░█░░░░█░░░
+R08: ███░░░░░█░░░░░░░░░░░░
+R09: ░░░░█░░░░█░░░░█░░░█░░
+R10: ░░░░░█░░░░░░░░░█░░░░░
+R11: ░░░░░░█░░░░█░░░░█░░░░
+R12: ░░░░░░░░░░░░█░░░░░███
+R13: ░░░█░░░░█░░░░░░░░░░░░
+R14: ██░░░░░█░░░░░░░░░░░░░
+R15: ░░░░██░░░█░░░█░░░█░░░
+R16: ░░░░░░░░░░░█░░░███░░░
+R17: ░░░░░░░█░░░░░░░░░░░░░
+R18: ░░░░░░░█░░░░░░█░░░░░░
+R19: ░░░░░░░░░░░░░░░░░░░░░
+R20: ░░░░░░░░░░░░░░░░░░░░░
+R21: ░░░░░░░░░░░░░░░░░░░░░
+
+Black cells: 54 / 441 = 12.2% (QR needs ~50%)
+```
+
+**Failures:**
+- No QR finder patterns in any corner (needs 24 black cells per corner, top-left has 6)
+- Inverted (white=black) also fails
+- pyzbar QR scanner: "NO QR DETECTED" for normal, inverted, and bordered versions
+- Black cell count (54) is far too low for QR (needs ~220)
+
+**Interesting observations:**
+- Rows 19-21 have ZERO black cells (unusual for crossword)
+- Grid does NOT have standard 180° rotational symmetry (very unusual)
+- The 21x21 size match appears to be coincidence
+
+## Status: BLACK CELLS AS QR = DISPROVEN
+The filled-letter mapping theory (Theory A) is still untested.
 
 ## How a Crossword→QR Would Work (If True)
 1. Fill in ALL crossword answers
