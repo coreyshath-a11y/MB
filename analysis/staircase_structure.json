@@ -1,0 +1,580 @@
+{
+  "grid": {
+    "n_rows": 11,
+    "n_cols": 9,
+    "cells": [
+      [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ]
+    ]
+  },
+  "entries": [
+    {
+      "row": 0,
+      "start_col": 3,
+      "n_cells": 4,
+      "end_col": 6
+    },
+    {
+      "row": 1,
+      "start_col": 1,
+      "n_cells": 6,
+      "end_col": 6
+    },
+    {
+      "row": 2,
+      "start_col": 1,
+      "n_cells": 5,
+      "end_col": 5
+    },
+    {
+      "row": 3,
+      "start_col": 3,
+      "n_cells": 5,
+      "end_col": 7
+    },
+    {
+      "row": 4,
+      "start_col": 1,
+      "n_cells": 4,
+      "end_col": 4
+    },
+    {
+      "row": 5,
+      "start_col": 3,
+      "n_cells": 4,
+      "end_col": 6
+    },
+    {
+      "row": 6,
+      "start_col": 4,
+      "n_cells": 5,
+      "end_col": 8
+    },
+    {
+      "row": 7,
+      "start_col": 3,
+      "n_cells": 3,
+      "end_col": 5
+    },
+    {
+      "row": 8,
+      "start_col": 0,
+      "n_cells": 5,
+      "end_col": 4
+    },
+    {
+      "row": 9,
+      "start_col": 2,
+      "n_cells": 5,
+      "end_col": 6
+    },
+    {
+      "row": 10,
+      "start_col": 1,
+      "n_cells": 4,
+      "end_col": 4
+    }
+  ],
+  "overlaps": [
+    {
+      "entry_above": 0,
+      "entry_below": 1,
+      "row_above": 0,
+      "row_below": 1,
+      "shared_columns": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "n_shared": 4,
+      "positions_in_above": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "positions_in_below": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "entry_above": 1,
+      "entry_below": 2,
+      "row_above": 1,
+      "row_below": 2,
+      "shared_columns": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "n_shared": 5,
+      "positions_in_above": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "positions_in_below": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "entry_above": 2,
+      "entry_below": 3,
+      "row_above": 2,
+      "row_below": 3,
+      "shared_columns": [
+        3,
+        4,
+        5
+      ],
+      "n_shared": 3,
+      "positions_in_above": [
+        2,
+        3,
+        4
+      ],
+      "positions_in_below": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "entry_above": 3,
+      "entry_below": 4,
+      "row_above": 3,
+      "row_below": 4,
+      "shared_columns": [
+        3,
+        4
+      ],
+      "n_shared": 2,
+      "positions_in_above": [
+        0,
+        1
+      ],
+      "positions_in_below": [
+        2,
+        3
+      ]
+    },
+    {
+      "entry_above": 4,
+      "entry_below": 5,
+      "row_above": 4,
+      "row_below": 5,
+      "shared_columns": [
+        3,
+        4
+      ],
+      "n_shared": 2,
+      "positions_in_above": [
+        2,
+        3
+      ],
+      "positions_in_below": [
+        0,
+        1
+      ]
+    },
+    {
+      "entry_above": 5,
+      "entry_below": 6,
+      "row_above": 5,
+      "row_below": 6,
+      "shared_columns": [
+        4,
+        5,
+        6
+      ],
+      "n_shared": 3,
+      "positions_in_above": [
+        1,
+        2,
+        3
+      ],
+      "positions_in_below": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "entry_above": 6,
+      "entry_below": 7,
+      "row_above": 6,
+      "row_below": 7,
+      "shared_columns": [
+        4,
+        5
+      ],
+      "n_shared": 2,
+      "positions_in_above": [
+        0,
+        1
+      ],
+      "positions_in_below": [
+        1,
+        2
+      ]
+    },
+    {
+      "entry_above": 7,
+      "entry_below": 8,
+      "row_above": 7,
+      "row_below": 8,
+      "shared_columns": [
+        3,
+        4
+      ],
+      "n_shared": 2,
+      "positions_in_above": [
+        0,
+        1
+      ],
+      "positions_in_below": [
+        3,
+        4
+      ]
+    },
+    {
+      "entry_above": 8,
+      "entry_below": 9,
+      "row_above": 8,
+      "row_below": 9,
+      "shared_columns": [
+        2,
+        3,
+        4
+      ],
+      "n_shared": 3,
+      "positions_in_above": [
+        2,
+        3,
+        4
+      ],
+      "positions_in_below": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "entry_above": 9,
+      "entry_below": 10,
+      "row_above": 9,
+      "row_below": 10,
+      "shared_columns": [
+        2,
+        3,
+        4
+      ],
+      "n_shared": 3,
+      "positions_in_above": [
+        0,
+        1,
+        2
+      ],
+      "positions_in_below": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "row_structure": [
+    {
+      "row": 0,
+      "groups": [
+        {
+          "start_col": 3,
+          "n_cells": 4,
+          "end_col": 6
+        }
+      ]
+    },
+    {
+      "row": 1,
+      "groups": [
+        {
+          "start_col": 1,
+          "n_cells": 6,
+          "end_col": 6
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "groups": [
+        {
+          "start_col": 1,
+          "n_cells": 5,
+          "end_col": 5
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "groups": [
+        {
+          "start_col": 3,
+          "n_cells": 5,
+          "end_col": 7
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "groups": [
+        {
+          "start_col": 1,
+          "n_cells": 4,
+          "end_col": 4
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "groups": [
+        {
+          "start_col": 3,
+          "n_cells": 4,
+          "end_col": 6
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "groups": [
+        {
+          "start_col": 4,
+          "n_cells": 5,
+          "end_col": 8
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "groups": [
+        {
+          "start_col": 3,
+          "n_cells": 3,
+          "end_col": 5
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "groups": [
+        {
+          "start_col": 0,
+          "n_cells": 5,
+          "end_col": 4
+        }
+      ]
+    },
+    {
+      "row": 9,
+      "groups": [
+        {
+          "start_col": 2,
+          "n_cells": 5,
+          "end_col": 6
+        }
+      ]
+    },
+    {
+      "row": 10,
+      "groups": [
+        {
+          "start_col": 1,
+          "n_cells": 4,
+          "end_col": 4
+        }
+      ]
+    }
+  ],
+  "grid_lines_px": {
+    "horizontal": [
+      160,
+      230,
+      302,
+      373,
+      445,
+      515,
+      586,
+      658,
+      730,
+      800,
+      871,
+      943
+    ],
+    "vertical": [
+      438,
+      512,
+      586,
+      661,
+      735,
+      809,
+      884,
+      957,
+      1032,
+      1105
+    ],
+    "row_heights": [
+      70,
+      72,
+      71,
+      72,
+      70,
+      71,
+      72,
+      72,
+      70,
+      71,
+      72
+    ],
+    "col_widths": [
+      74,
+      74,
+      75,
+      74,
+      74,
+      75,
+      73,
+      75,
+      73
+    ]
+  }
+}
