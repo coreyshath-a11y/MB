@@ -22,19 +22,17 @@ P3: LEADS      ✅ SOLVED
 P4: TOWARDS    ✅ SOLVED (community confirmed)
 P5: LOCATION   ✅ SOLVED
 P6: NAME       ✅ SOLVED
-P7: ???        ❌ NEEDS RE-SOLVE (was ONE, but official hint says 9 letters!)
+P7: SOMEWHERE  ✅ SOLVED (Sofia Coppola's film "Somewhere" = 9 letters!)
 P8: AROUND     ✅ SOLVED (VERIFIED: pyramid letter accumulation proves AROUND, not ABOUT)
 P9: WORLD     ✅ SOLVED (extraction → "HOMOPHONE OF WHIRLED" → WORLD)
 ```
 
-**SENTENCE (with P7 unknown):** `EVERY CHALLENGE LEADS TOWARDS LOCATION NAME ????????? AROUND WORLD`
+**COMPLETE SENTENCE:** `EVERY CHALLENGE LEADS TOWARDS LOCATION NAME SOMEWHERE AROUND WORLD`
 
-**Official word lengths:** 5, 9, 5, 7, 8, 4, **9**, 6, 5
+**Official word lengths:** 5, 9, 5, 7, 8, 4, 9, 6, 5 — ALL MATCH ✅
 
-**Top candidate sentence:** `EVERY CHALLENGE LEADS TOWARDS LOCATION NAME COUNTRIES AROUND WORLD`
-→ "Name countries around the world" — find 11 country names hidden in crossword theme entries
-
-**Meaning:** Each MrBeast challenge/video leads towards a real-world location (country). The crossword's 11 theme entries contain hidden country names — places where MrBeast did challenges around the world.
+**Meaning:** "Every challenge leads towards [a] location — name somewhere around [the] world"
+= Each MrBeast challenge/video leads to a real-world location. The crossword's 11 theme entries contain hidden location/place names — places around the world where MrBeast did challenges.
 
 ## PUZZLE SOLUTIONS (DETAILED)
 
@@ -99,21 +97,17 @@ Note: R2C8 is H not N (font ambiguity)
   brandNAME, lastNAME, userNAME
 - Answer: **NAME**
 
-### Puzzle 7: 100 Dogs Venn Diagram - NEEDS RE-SOLVE ❌ → **??? (9 letters)**
+### Puzzle 7: 100 Dogs Venn Diagram - SOLVED ✅ → **SOMEWHERE**
 - 5 features, 100 dogs in Venn diagram
 - Lines from questions to matching dogs spell letters
 - Full string: "JUST A HUNDRED EXQUISITELY FUZZY PUPPIES CAN BE VIEWED LIKE
   AN ADVERB, A NUMBER FROM A SPIELBERG MOVIE, OR A FILM BY COPPOLA"
-- Community interpreted: 101 Dalmatians → Ready Player ONE → ONE from the Heart → ONE
-- **BUT OFFICIAL HINT SAYS P7 = 9 LETTERS! ONE (3) IS WRONG!**
-- Word lengths confirmed: 5, 9, 5, 7, 8, 4, **9**, 6, 5
-- Top 9-letter candidates:
-  - COUNTRIES → "Name countries around the world" (strongest — 11 hidden country names!)
-  - DALMATIAN → From 101 Dalmatians reference (puzzle-derived)
-  - SOMETHING → "Name something around the world"
-  - SOMEWHERE → "Name somewhere around the world"
-  - LANDMARKS → "Name landmarks around the world"
-- **NEEDS: Re-examine Venn diagram extraction mechanism for 9-letter answer**
+- Three interpretations: ONCE (adverb), ONE (Ready Player One), SOMEWHERE (Sofia Coppola 2010 film)
+- **SOMEWHERE = 9 letters ✅** (official word length confirmed)
+- SOMEWHERE is an adverb ✅, and a Coppola film ✅
+- nullPointer confirmed: "Answer is NOT THE NUMBER ONE"
+- Credit: Impasta in Discord (Sofia Coppola connection)
+- Answer: **SOMEWHERE**
 
 ### Puzzle 8: Pyramids Crossword - SOLVED ✅ → **AROUND** (VERIFIED)
 - 43 clues for pyramid-shaped grid
