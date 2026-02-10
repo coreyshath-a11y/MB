@@ -104,8 +104,24 @@ Key channels:
 9. Investigate belt colors → country flags → 11 locations
 10. Wait for more official hints
 
+### COMMUNITY THEORIES (latest Discord ~1:45 AM ET):
+- khaem: "the location names would make so much sense" for 11 hidden words
+- Britt: "the boxes are all locations and the downward boxes where they all meet is the code"
+- Payback: final code is "probably a jumble of letters, not plain English"
+- wrxagon: "answer is the letters filling vertical overlap in each row"
+- Zee suggests P7 = SPECIFIED (but SOMEWHERE has stronger puzzle derivation)
+- Community debating P4 (still unsolved by many) and P7 (SOMEWHERE vs others)
+
+### BACKGROUND AGENT RESULTS:
+- ADDITIONAL_CROSSWORD_ANSWERS.md: Comprehensive analysis complete
+  - P4 → 21 place names (HIGH confidence), P9 → 9 hidden words (MOD-HIGH)
+  - P2, P6, P7 → 0 entries each
+  - Total projected: 101-129 variety puzzle entries + ~47-75 from ad
+- MrBeast locations agent: still running (researching global challenge locations)
+- Crossword grid mapping agent: timed out (CROSSWORD_GRID_MAP.md not created)
+
 ### GIT STATE:
 - Branch: claude/setup-github-cloud-j9k6O
 - Remote: origin (coreyshath-a11y/MB)
-- Latest commit: a6b7980
+- Latest commit: b3a909c
 - All work committed and pushed
