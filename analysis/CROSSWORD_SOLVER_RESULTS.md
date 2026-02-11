@@ -72,6 +72,16 @@ The grid has NO entries of length 2, 10, 12, or 13. These confirmed answers CANN
 
 **CASCADE CHAIN ISSUE**: ORIENT+HOODIE+MUSTERS create 165A=ED????CE and 171A=NI????RR — both very unusual patterns. These placements are flagged SPECULATIVE. The circled cell at (18,7) has letter M if MUSTERS correct, but many alternatives (MASTERS, BUSTERS, ROSTERS, FOSTERS...) all give different initial letters.
 
+**DATA BUG FIXED (Feb 11)**: 140D is at (18,**17**) NOT (18,15). Earlier analysis incorrectly showed 140D=ULAHO (forced by HULAHOOP overlap). In reality, 140D = ??E?L (E from RACE, L from SUPERBOWLSTADIUM) — a valid pattern. HULAHOOP at 133D remains confirmed valid.
+
+### Additional Unique Fits (from v6 properly parsed)
+| Entry | Answer | Position | Length | Source | Confidence | How Placed |
+|-------|--------|----------|--------|--------|------------|------------|
+| **150D** | **ERASE?** | **(20,5)** | **5** | **P3** | **LOW** | Only E???E fit in bank — but same word as 123A (unusual) |
+
+### Near-Unique Fits
+- 117D (len 4): RE?? → RENO or REDO (both in answer bank)
+
 ### Hypothetical (unconfirmed)
 | Entry | Answer | Position | Length | Source | How Placed |
 |-------|--------|----------|--------|--------|------------|
