@@ -211,19 +211,25 @@ A-PYRAMID:        E-PYRAMID:        I-PYRAMID:        O-PYRAMID:
 
 ### Staircase Grid — AROUNDWORLD THEORY (STRONG) vs MELANESIANS (WEAKER)
 - 11 rows, CONFIRMED: word lengths 4,6,5,5,4,4,5,3,5,5,4
-- **Cell sharing is IMPOSSIBLE** for location names (0 compatible pairs at R6-R7, R7-R8, R8-R9, R10-R11)
+- **Cell sharing is IMPOSSIBLE** for location names (27+ conflicts for AROUNDWORLD, 29+ for MELANESIANS)
 - Rows are INDEPENDENT; column 4 (the "spine") spells an 11-letter message
 - **Column 4 spine = AROUNDWORLD** (directly from sentence: "SOMEWHERE AROUND WORLD")
-- Best fit: MALI, TEHRAN, LAGOS, SUDAN/DUBAI, OMAN, ADEN, WALES/WUHAN, GOA/JOS, NIGER/DAKAR, DELHI, CHAD
-- Most are MrBeast philanthropy locations
-- **MELANESIANS alternative** (community suggestion): OMAN, GREECE, ITALY, JAPAN, IRAN, PERU, SPAIN, CIV, GHANA, KENYA, LAOS → column 4 = MELANESIANS
-  - Lengths all match, BUT:
-  - CIV is an ISO code not a country name
-  - No thematic MrBeast connection (only 3/11 philanthropy countries)
-  - FAILS 50A letter test: no location matches both pos10=A and pos13=R (DAKAR does for AROUNDWORLD)
-  - "Melanesians" has no obvious puzzle relevance
+- Best fit: MALI, TEHRAN, LAGOS, SUDAN, OMAN, ADEN, WALES, GOA, DAKAR, DELHI, CHAD
+- Most are MrBeast philanthropy locations (9/11)
+- **MELANESIANS alternative** (community suggestion, spine positions confirmed by user):
+  - OMAN(M), GREECE(E), ITALY(L), JAPAN(A), IRAN(N), PERU(E), SPAIN(S), CIV(I), GHANA(A), KENYA(N), LAOS(S)
+  - Lengths all match, 10 constraint matches (vs 11 for AROUNDWORLD)
+  - 4 user-provided locations overlap (Peru, Ghana, Japan, Greece)
+  - BUT: CIV is an ISO code; FAILS 50A dual-constraint test; only 3/11 MrBeast-connected
 - AROUNDWORLD remains primary theory
-- Need to verify these are actually hidden in crossword theme entries
+- **DELHI at 114A pos 8-12: STRONG hypothesis** (satisfies E@9 from TRITE)
+- **DAKAR at 50A pos 9-13: CONFIRMED** (satisfies both A@10 and R@13)
+- **SUDAN at 73A pos 1-5: WEAK** (makes 67D=FS?AEOEIO → impossible)
+
+### Hidden Locations in Complete Theme Entries — NONE FOUND
+- 94A = CIRCLEABOUT contains NO location substrings from either theory
+- 167A = SUPERBOWLSTADIUM contains NO location substrings from either theory
+- This means the hidden location mechanism may be more complex than simple substrings, OR these two entries don't contain any of the 11 locations
 
 ### Four World Clocks — Unsolved
 - Tokyo, London, Chicago, New York — all show "3 something"

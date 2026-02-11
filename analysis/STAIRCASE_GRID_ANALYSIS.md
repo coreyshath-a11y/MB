@@ -124,10 +124,10 @@ Row 10: DE[L]HI      ★★★ (India)
 Row 11: CHA[D]       ★★★ (Africa)
 ```
 
-### Alternative Theory: MELANESIANS (Community Suggestion)
+### Alternative Theory: MELANESIANS (Community Suggestion — Feb 11 Update)
 A community member proposed a different column-4 reading using these countries:
 ```
-Row  1: O[M]AN       (4) ☆ No known MrBeast connection
+Row  1: O[M]AN       (4) ★★ Middle East
 Row  2: GRE[E]CE     (6) ☆ No known MrBeast connection
 Row  3: ITA[L]Y      (5) ☆ No known MrBeast connection
 Row  4: J[A]PAN      (5) ☆ No known MrBeast connection
@@ -141,6 +141,11 @@ Row 11: LAO[S]       (4) ☆ No known MrBeast connection
 ```
 Column 4 spine: **MELANESIANS** (a real English word = people of Melanesia)
 
+User confirmed spine letter positions:
+- #1 OMAN pos 2 = M, #2 GREECE pos 4 = E, #3 ITALY pos 4 = L, #4 JAPAN pos 2 = A
+- #5 IRAN pos 4 = N, #6 PERU pos 2 = E, #7 SPAIN pos 1 = S, #8 CIV pos 2 = I
+- #9 GHANA pos 5 = A, #10 KENYA pos 3 = N, #11 LAOS pos 4 = S
+
 **MELANESIANS vs AROUNDWORLD comparison:**
 
 | Criterion | MELANESIANS | AROUNDWORLD |
@@ -151,11 +156,18 @@ Column 4 spine: **MELANESIANS** (a real English word = people of Melanesia)
 | MrBeast relevance | WEAK (3/11 connected) | STRONG (9/11 connected) |
 | CIV (ISO code) issue | ✗ Unusual for puzzle | N/A |
 | 50A letter match test | ✗ No location matches both pos10=A & pos13=R | ✓ DAKAR at pos 9-13 matches BOTH |
+| 114A letter match test | KENYA/PERU/GREECE: 1 match each | ✓ DELHI: 1 match (E@9) |
+| User-location overlap | ✓ 4 overlaps (Peru,Ghana,Japan,Greece) | ✗ 0 overlaps |
 | Thematic meaning | Why "Melanesians"? | Directly describes the puzzle hunt |
+| Constraint matches total | 10 | 11 |
 
 **CRITICAL TEST:** 50A has known letters A at position 10 and R at position 13 (from placed entries ABASH and ROTUNDA). In the AROUNDWORLD theory, DAKAR at positions 9-13 of 50A produces D,[A],K,A,[R] — matching BOTH known letters perfectly. NO single MELANESIANS location can match both positions simultaneously.
 
-**Verdict:** AROUNDWORLD remains the stronger theory. MELANESIANS is a valid alternative worth noting, but lacks thematic connection and fails the 50A letter test.
+**INTERESTING:** User-provided locations from video clues (Lima/Peru, Accra/Ghana, Tokyo/Japan, Athens/Greece) overlap with 4 MELANESIANS countries but 0 AROUNDWORLD locations. This could mean MELANESIANS countries appear as video clues while AROUNDWORLD locations are the ones hidden in theme entries.
+
+**Also:** User provided DIVO (Ivory Coast) which connects to MELANESIANS Row 8 (CIV = Côte d'Ivoire).
+
+**Verdict:** AROUNDWORLD remains the stronger theory. MELANESIANS is a valid alternative worth tracking, but fails the critical 50A dual-constraint test and lacks thematic connection. See `analysis/LOCATIONS_MASTER_LIST.md` for full comparison.
 
 ### Other Alternatives Tested
 - **CIRCLEABOUT**: Fails at rows 5, 8, 11 (no location with required letters)

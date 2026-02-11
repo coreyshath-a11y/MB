@@ -1,5 +1,5 @@
 # CROSSWORD SOLVER RESULTS
-## Last Updated: Feb 10, 2026 (v4 - MAJOR UPDATE: community screenshot data + gist integration)
+## Last Updated: Feb 11, 2026 (v5 - CASCADE CHAIN from HULAHOOP + ACCRA)
 
 ## Grid Confirmed: 25×25
 - 100 black cells, 525 white cells
@@ -59,6 +59,19 @@ The grid has NO entries of length 2, 10, 12, or 13. These confirmed answers CANN
 | **167A** | **SUPERBOWLSTADIUM** | **(22,9)** | **16** | **Screenshot** | **Community solve - zero conflicts** |
 | **149A** | **BEASTLAND** | **(20,4)** | **9** | **Screenshot** | **Community solve - zero conflicts** |
 
+### CASCADE from SUPERBOWLSTADIUM + BEASTLAND (Feb 11)
+| Entry | Answer | Position | Length | Source | Confidence | How Placed |
+|-------|--------|----------|--------|--------|------------|------------|
+| **133D** | **HULAHOOP** | **(17,15)** | **8** | **P1** | **HIGH** | Only 8-letter with O at pos 5 (from SUPERBOWLSTADIUM) |
+| **153A** | **RACE** | **(20,14)** | **4** | **P8** | **HIGH** | Only 4-letter with A at pos 1 (from HULAHOOP) |
+| **151D** | **ACCRA** | **(20,6)** | **5** | **Video** | **MEDIUM** | Only 5-letter starting A (from BEASTLAND) — bank incomplete |
+| **174A** | **TEAMSEAS** | **(24,0)** | **8** | **P3** | **MEDIUM-HIGH** | Only 8-letter with A at pos 6 (from ACCRA) |
+| 141D | ORIENT | (19,0) | 6 | P8 | SPECULATIVE | Only 6-letter ending T (from TEAMSEAS) — creates suspicious 165A/171A |
+| 142D | HOODIE | (19,1) | 6 | P1 | SPECULATIVE | Only 6-letter ending E (from TEAMSEAS) — creates suspicious 165A/171A |
+| 137D | MUSTERS | (18,7) | 7 | P3 | SPECULATIVE | Only 7-letter ??S???S in our bank BUT many dict words match |
+
+**CASCADE CHAIN ISSUE**: ORIENT+HOODIE+MUSTERS create 165A=ED????CE and 171A=NI????RR — both very unusual patterns. These placements are flagged SPECULATIVE. The circled cell at (18,7) has letter M if MUSTERS correct, but many alternatives (MASTERS, BUSTERS, ROSTERS, FOSTERS...) all give different initial letters.
+
 ### Hypothetical (unconfirmed)
 | Entry | Answer | Position | Length | Source | How Placed |
 |-------|--------|----------|--------|--------|------------|
@@ -83,7 +96,7 @@ Tested at both 14-letter slots (73A and 114A) — conflicts at both:
 
 **SUPERBOWLATLEVIS** (16 letters) fits at **25A** (row 2, cols 0-15) with zero conflicts — plausible but unconfirmed.
 
-## CURRENT PARTIAL GRID (v4 with community screenshot data)
+## CURRENT PARTIAL GRID (v5 with cascade chain)
 ```
      0123456789012345678901234
 R 0 |.......##......##........
@@ -102,25 +115,29 @@ R12 |......#CIRCLEABOUT#......
 R13 |...#...#PINTO#ACHOo#.....
 R14 |...#....#TOLEDO##NrA#...#
 R15 |.........E...E##REGiNA###
-R16 |....#....##TONI#ERaSE#...
-R17 |#......#....#V...#n......
-R18 |##......#....E....i......
-R19 |.....##....#.R..#.c.#....
-R20 |...#BEASTLAND#....###....
-R21 |....#.....#...#.....#....
-R22 |........#SUPERBOWLSTADIUM
-R23 |........##.......#.......
-R24 |........##......##.......
+R16 |....#....##TONI#ERASE#...
+R17 |#......#....#V.H.#n......
+R18 |##.....m#....E.U..i......
+R19 |oh...##u...#.R.L#.c.#....
+R20 |ro.#BEASTLAND#RACE###....
+R21 |io..#.ct..#...#h....#....
+R22 |ed....ce#SUPERBOWLSTADIUM
+R23 |ni....rr##.....O.#.......
+R24 |TEAMSEAS##.....P##.......
 ```
-Note: UPPERCASE = confirmed, lowercase = from ORGANIC/NRA hypothesis
-NEW: SUPERBOWLSTADIUM at 167A (row 22) and BEASTLAND at 149A (row 20)
+Note: UPPERCASE = confirmed/HIGH confidence, lowercase = speculative cascade
+Cascade: HULAHOOP(133D), RACE(153A), ACCRA(151D), TEAMSEAS(174A)
+Speculative: orient(141D), hoodie(142D), musters(137D)
 
-### Circled Cell Values (now 3 of 16 known)
-| # | Cell | Letter | Source |
-|---|------|--------|--------|
-| 13 | (22,11) | **P** | 167A = SUPERBOWLSTADIUM |
-| 14 | (22,18) | **S** | 167A = SUPERBOWLSTADIUM |
-| 15 | (22,24) | **M** | 167A = SUPERBOWLSTADIUM |
+### Circled Cell Values (now 4 of 16 known)
+| # | Cell | Letter | Source | Confidence |
+|---|------|--------|--------|------------|
+| 10 | (18,7) | **M** | 137D = MUSTERS (speculative) | LOW - many alternatives |
+| 13 | (22,11) | **P** | 167A = SUPERBOWLSTADIUM | HIGH |
+| 14 | (22,18) | **S** | 167A = SUPERBOWLSTADIUM | HIGH |
+| 15 | (22,24) | **M** | 167A = SUPERBOWLSTADIUM | HIGH |
+
+Final code pattern: `_________M__PSM_` (M at pos 10 is speculative)
 
 ### New Down-Entry Constraints (from SUPERBOWLSTADIUM + BEASTLAND)
 | Down Entry | Length | Pattern | New Letters |
@@ -256,11 +273,26 @@ At 8-letter and 9-letter, we have MORE answers than slots. This means some confi
 ## MELANESIANS THEORY (Community Alternative — WEAKER)
 
 Community suggestion for staircase: OMAN, GREECE, ITALY, JAPAN, IRAN, PERU, SPAIN, CIV, GHANA, KENYA, LAOS → column 4 = MELANESIANS.
-- All lengths match the staircase
+- All lengths match the staircase; spine positions confirmed by user
+- 10 total constraint matches vs AROUNDWORLD's 11
+- 4 user-provided locations overlap (Peru, Ghana, Japan, Greece)
 - BUT: CIV is an ISO code not a country name
 - BUT: Only 3/11 are MrBeast philanthropy countries
 - BUT: No location matches both 50A pos10=A AND pos13=R (DAKAR does for AROUNDWORLD)
 - **AROUNDWORLD remains the stronger theory** (see STAIRCASE_GRID_ANALYSIS.md)
+
+## DELHI HYPOTHESIS for 114A (NEW — Feb 11)
+
+114A currently: `.........E...E` (pos 9=E from TRITE, pos 13=E from DENVER)
+- DELHI (D-E-L-H-I) at positions 8-12 gives: D,**E**,L,H,I → E at pos 9 matches ✓
+- Pos 13 = E from DENVER is independent (after DELHI) ✓
+- Cascading: 80D becomes ??CNOL, 95D becomes LTLHT??, 67D becomes F??AEOEIO
+- If SUDAN also at 73A: 67D = FS?AEOEIO → impossible for English → SUDAN at 73A is WEAK
+- **DELHI at 114A is STRONG (2 independent constraints satisfied)**
+
+## COMPREHENSIVE LOCATION LIST (Feb 11)
+
+See `analysis/LOCATIONS_MASTER_LIST.md` for full list of 22+ locations from various puzzle sources (belt, vault, clocks, paintings, Caesar cipher, etc.) and their relationship to both staircase theories.
 
 ## NEXT STEPS (Updated Feb 10 evening)
 1. ~~**Determine 167A**~~ → **SOLVED: SUPERBOWLSTADIUM**
