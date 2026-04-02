@@ -1,28 +1,30 @@
-# MASTER INTELLIGENCE REPORT — Feb 9, 2026 ~11pm ET
+# MASTER INTELLIGENCE REPORT — Feb 10, 2026 (Updated)
 
-## STATUS: Nobody has won yet. 24hr hint expected ~6pm ET Feb 10.
+## STATUS: Nobody has won yet. ALL 9 PUZZLES SOLVED. Crossword is the endgame.
 
 ---
 
-## CONFIRMED PUZZLE ANSWERS (High Confidence)
+## CONFIRMED PUZZLE ANSWERS — ALL 9 SOLVED ✅
 
 | # | Video | Answer | Method | Confidence |
 |---|-------|--------|--------|-----------|
 | 1 | Built 100 Wells | **EVERY** | Water drops = H2O, count drops → index into answer word → "ANSWER IS EVERY" | DEFINITIVE |
 | 2 | 600 Strangers | **CHALLENGE** | LIFECHANG Sudoku, box pattern extraction | DEFINITIVE |
-| 3 | Dirtiest Beach | **LEADS** | TV show pairs → before/after cleanup clues → "A term for chief roles or metals with symbol Pb" | DEFINITIVE |
-| 4 | $1-$5000 Experiences | **???** | Visual letter overlap (boolean intersection). Community guess: TO | UNSOLVED |
+| 3 | Dirtiest Beach | **LEADS** | TV show pairs → before/after cleanup clues → "metals with symbol Pb" | DEFINITIVE |
+| 4 | $1-$5000 Experiences | **TOWARDS** | Colored/white letter boolean intersection, community confirmed | CONFIRMED |
 | 5 | Pokemon Stereotypes | **LOCATION** | Pokedex IDs → letters → "SOLUTION IS LOCATION" | DEFINITIVE |
-| 6 | Wilderness | **NAME** | Grid clues → "Quartet after pen" + "Brand/Last/User" → all precede NAME | DEFINITIVE |
-| 7 | 100 Dogs | **ONE** | Venn diagram lines → letters → "...number from Spielberg movie or film by Coppola" → ONE | DEFINITIVE |
-| 8 | 100 Hours Pyramids | **AROUND** | 4 vowel pyramids (A,E,I,O). 6th line of A-pyramid = missing clue = AROUND | DEFINITIVE (mathematically proved) |
-| 9 | Circle | **???** | Geodesic spheres + hidden words in string. Candidates: LIARS/LAIRS/RAILS/TO | UNSOLVED |
+| 6 | Wilderness | **NAME** | Tent counts → "Quartet after pen" + "Brand/Last/User" → all precede NAME | DEFINITIVE |
+| 7 | 100 Dogs | **SOMEWHERE** | Venn diagram → "film by Coppola" → Sofia Coppola's "Somewhere" (2010), 9 letters | DEFINITIVE |
+| 8 | 100 Hours Pyramids | **AROUND** | 4 vowel pyramids (A,E,I,O). A-pyramid level 6 = AROUND (mathematically proven) | DEFINITIVE |
+| 9 | Circle | **WORLD** | Hidden words → geodesic extraction → "HOMOPHONE OF WHIRLED" → WORLD | DEFINITIVE |
 
-### The 9-Word Sentence
+### The 9-Word Sentence ✅ COMPLETE
 ```
-EVERY CHALLENGE LEADS ___ LOCATION NAME ONE AROUND ___
+EVERY CHALLENGE LEADS TOWARDS LOCATION NAME SOMEWHERE AROUND WORLD
 ```
-Best guess: **"EVERY CHALLENGE LEADS TO [A] LOCATION. NAME ONE AROUND ___"**
+Official word lengths: 5, 9, 5, 7, 8, 4, 9, 6, 5 — ALL MATCH ✅
+**Meaning:** "Every challenge leads towards [a] location — name somewhere around [the] world"
+= Find location names hidden in the crossword's theme entries
 
 ---
 
